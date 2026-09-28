@@ -1,0 +1,847 @@
+{
+  "title": "Auxiliary Verbs and Questions in English Practice Questions",
+  "description": "A comprehensive practice dataset containing 60 structured multiple-choice questions covering auxiliary verbs, inversion, WH-questions, and subject questions.",
+  "total_questions": 60,
+  "questions": [
+    {
+      "id": 1,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ you work on Saturdays?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Are"
+      ],
+      "correct_answer": "Do",
+      "explanation": "Use 'Do' with the subject 'you' in the simple present tense."
+    },
+    {
+      "id": 2,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ she speak French fluently?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Has"
+      ],
+      "correct_answer": "Does",
+      "explanation": "Use 'Does' with third-person singular subjects (he/she/it) in the simple present."
+    },
+    {
+      "id": 3,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ they arrive early yesterday?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Were"
+      ],
+      "correct_answer": "Did",
+      "explanation": "Use 'Did' for simple past questions with all subjects."
+    },
+    {
+      "id": 4,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ your brother like coffee?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Has"
+      ],
+      "correct_answer": "Does",
+      "explanation": "'Your brother' is a third-person singular subject (he), so it requires 'Does'."
+    },
+    {
+      "id": 5,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ they live in Haiti?",
+      "options": [
+        "Do",
+        "Does",
+        "Are",
+        "Have"
+      ],
+      "correct_answer": "Do",
+      "explanation": "Use 'Do' with the plural subject 'they' in the simple present."
+    },
+    {
+      "id": 6,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ you call your client yesterday?",
+      "options": [
+        "Do",
+        "Did",
+        "Have",
+        "Were"
+      ],
+      "correct_answer": "Did",
+      "explanation": "'Yesterday' indicates simple past tense, requiring 'Did'."
+    },
+    {
+      "id": 7,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ she go to school last week?",
+      "options": [
+        "Does",
+        "Is",
+        "Did",
+        "Was"
+      ],
+      "correct_answer": "Did",
+      "explanation": "'Last week' signals simple past tense, which uses 'Did'."
+    },
+    {
+      "id": 8,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ we need to bring our passports?",
+      "options": [
+        "Do",
+        "Does",
+        "Are",
+        "Have"
+      ],
+      "correct_answer": "Do",
+      "explanation": "Use 'Do' with 'we' in simple present questions."
+    },
+    {
+      "id": 9,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ the train leave at 8:00 AM every morning?",
+      "options": [
+        "Do",
+        "Does",
+        "Is",
+        "Has"
+      ],
+      "correct_answer": "Does",
+      "explanation": "'The train' is third-person singular (it), requiring 'Does'."
+    },
+    {
+      "id": 10,
+      "category": "Do / Does / Did",
+      "question_type": "multiple_choice",
+      "prompt": "___ you meet the manager last Monday?",
+      "options": [
+        "Do",
+        "Does",
+        "Did",
+        "Have"
+      ],
+      "correct_answer": "Did",
+      "explanation": "'Last Monday' specifies a completed past action, requiring 'Did'."
+    },
+    {
+      "id": 11,
+      "category": "Base Verb Rule",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        "Does she works here?",
+        "Does she work here?",
+        "Does she worked here?",
+        "Does she working here?"
+      ],
+      "correct_answer": "Does she work here?",
+      "explanation": "After 'does', always use the base form of the main verb ('work')."
+    },
+    {
+      "id": 12,
+      "category": "Base Verb Rule",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        "Did they went home?",
+        "Did they go home?",
+        "Did they gone home?",
+        "Did they goes home?"
+      ],
+      "correct_answer": "Did they go home?",
+      "explanation": "'Did' shows the past tense, so the main verb must remain in its base form ('go')."
+    },
+    {
+      "id": 13,
+      "category": "Base Verb Rule",
+      "question_type": "multiple_choice",
+      "prompt": "Did she ___ economics in college?",
+      "options": [
+        "studied",
+        "studies",
+        "study",
+        "studying"
+      ],
+      "correct_answer": "study",
+      "explanation": "The auxiliary 'did' carries the past tense, so 'study' must be in base form."
+    },
+    {
+      "id": 14,
+      "category": "Base Verb Rule",
+      "question_type": "multiple_choice",
+      "prompt": "Does your friend ___ in Saint-Marc?",
+      "options": [
+        "lives",
+        "lived",
+        "live",
+        "living"
+      ],
+      "correct_answer": "live",
+      "explanation": "The main verb following 'does' takes the base form without an -s ending."
+    },
+    {
+      "id": 15,
+      "category": "Base Verb Rule",
+      "question_type": "multiple_choice",
+      "prompt": "Why did you ___ the meeting early?",
+      "options": [
+        "left",
+        "leave",
+        "leaves",
+        "leaving"
+      ],
+      "correct_answer": "leave",
+      "explanation": "Use base form 'leave' after the past auxiliary 'did'."
+    },
+    {
+      "id": 16,
+      "category": "Base Verb Rule",
+      "question_type": "multiple_choice",
+      "prompt": "Does he ___ coffee in the morning?",
+      "options": [
+        "drinks",
+        "drank",
+        "drink",
+        "drinking"
+      ],
+      "correct_answer": "drink",
+      "explanation": "Main verb stays in base form 'drink' after 'does'."
+    },
+    {
+      "id": 17,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ you studying English right now?",
+      "options": [
+        "Do",
+        "Are",
+        "Have",
+        "Can"
+      ],
+      "correct_answer": "Are",
+      "explanation": "Use continuous present 'Are ... studying' for an action in progress."
+    },
+    {
+      "id": 18,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ ready for the presentation?",
+      "options": [
+        "Do you",
+        "Are you",
+        "Have you",
+        "Does you"
+      ],
+      "correct_answer": "Are you",
+      "explanation": "'Be' acts directly as the main verb; do not add 'do'."
+    },
+    {
+      "id": 19,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ he a teacher at the local academy?",
+      "options": [
+        "Is",
+        "Does",
+        "Has",
+        "Do"
+      ],
+      "correct_answer": "Is",
+      "explanation": "'Is' is used directly as the main linking verb for 'he'."
+    },
+    {
+      "id": 20,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ they at the meeting yesterday afternoon?",
+      "options": [
+        "Did",
+        "Were",
+        "Have",
+        "Are"
+      ],
+      "correct_answer": "Were",
+      "explanation": "'Were' is the simple past form of 'be' for the subject 'they'."
+    },
+    {
+      "id": 21,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ she preparing a new marketing strategy?",
+      "options": [
+        "Does",
+        "Is",
+        "Has",
+        "Did"
+      ],
+      "correct_answer": "Is",
+      "explanation": "Present continuous tense: 'Is' + subject + present participle ('preparing')."
+    },
+    {
+      "id": 22,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ they waiting outside when you arrived?",
+      "options": [
+        "Were",
+        "Did",
+        "Have",
+        "Are"
+      ],
+      "correct_answer": "Were",
+      "explanation": "Past continuous tense: 'Were' + subject + '-ing' verb."
+    },
+    {
+      "id": 23,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "Which of the following is correct?",
+      "options": [
+        "Do you are tired?",
+        "Are you tired?",
+        "Does you are tired?",
+        "Have you tired?"
+      ],
+      "correct_answer": "Are you tired?",
+      "explanation": "Never add 'do' before 'be'. The correct pattern is 'Be + subject + complement?'."
+    },
+    {
+      "id": 24,
+      "category": "Questions with Be",
+      "question_type": "multiple_choice",
+      "prompt": "___ the project report finished yet?",
+      "options": [
+        "Is",
+        "Does",
+        "Do",
+        "Has"
+      ],
+      "correct_answer": "Is",
+      "explanation": "Use 'Is' for passive/state questions with singular non-count/singular subjects."
+    },
+    {
+      "id": 25,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "___ you finished the quarterly report?",
+      "options": [
+        "Do",
+        "Did",
+        "Have",
+        "Are"
+      ],
+      "correct_answer": "Have",
+      "explanation": "Use 'Have' + subject + past participle ('finished') for present perfect."
+    },
+    {
+      "id": 26,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "___ she arrived at the office yet?",
+      "options": [
+        "Has",
+        "Does",
+        "Is",
+        "Did"
+      ],
+      "correct_answer": "Has",
+      "explanation": "Use 'Has' with third-person singular (she) in the present perfect tense."
+    },
+    {
+      "id": 27,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "___ they left before noon?",
+      "options": [
+        "Had",
+        "Did",
+        "Were",
+        "Have"
+      ],
+      "correct_answer": "Had",
+      "explanation": "Use 'Had' for past perfect questions ('Had + subject + past participle')."
+    },
+    {
+      "id": 28,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "___ you completed the application form?",
+      "options": [
+        "Have",
+        "Do",
+        "Are",
+        "Did"
+      ],
+      "correct_answer": "Have",
+      "explanation": "Present perfect tense: 'Have' + subject + past participle."
+    },
+    {
+      "id": 29,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "In standard American English, how do you ask about possession?",
+      "options": [
+        "Do you have a passport?",
+        "Have you a passport?",
+        "Does you have a passport?",
+        "Are you have a passport?"
+      ],
+      "correct_answer": "Do you have a passport?",
+      "explanation": "For possession in American English, use 'do/does/did' with the main verb 'have'."
+    },
+    {
+      "id": 30,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "___ he have a new phone?",
+      "options": [
+        "Does",
+        "Is",
+        "Has",
+        "Do"
+      ],
+      "correct_answer": "Does",
+      "explanation": "When 'have' indicates possession, use 'Does + he + have...?'."
+    },
+    {
+      "id": 31,
+      "category": "Questions with Have",
+      "question_type": "multiple_choice",
+      "prompt": "___ they have enough money for the tickets?",
+      "options": [
+        "Did",
+        "Had",
+        "Were",
+        "Are"
+      ],
+      "correct_answer": "Did",
+      "explanation": "Past simple possession question uses 'Did + subject + have'."
+    },
+    {
+      "id": 32,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "___ he help us with this task?",
+      "options": [
+        "Can",
+        "Does",
+        "Is",
+        "Do"
+      ],
+      "correct_answer": "Can",
+      "explanation": "'Can' is a modal auxiliary expressing ability or request."
+    },
+    {
+      "id": 33,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "___ we invest in this new business project?",
+      "options": [
+        "Should",
+        "Do",
+        "Are",
+        "Have"
+      ],
+      "correct_answer": "Should",
+      "explanation": "'Should' is a modal verb used to ask for advice or recommendations."
+    },
+    {
+      "id": 34,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "___ they attend the annual conference tomorrow?",
+      "options": [
+        "Will",
+        "Do",
+        "Are",
+        "Have"
+      ],
+      "correct_answer": "Will",
+      "explanation": "'Will' is a modal verb used for future predictions or intentions."
+    },
+    {
+      "id": 35,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "___ employees wear an ID badge at all times?",
+      "options": [
+        "Must",
+        "Do",
+        "Are",
+        "Have"
+      ],
+      "correct_answer": "Must",
+      "explanation": "'Must' expresses obligation."
+    },
+    {
+      "id": 36,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is INCORRECT?",
+      "options": [
+        "Can she drive?",
+        "Does she can drive?",
+        "Could you call me later?",
+        "Would you like some tea?"
+      ],
+      "correct_answer": "Does she can drive?",
+      "explanation": "Never use do/does/did with a modal auxiliary verb."
+    },
+    {
+      "id": 37,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "Which of these is the correct form?",
+      "options": [
+        "Do you can speak English?",
+        "Can you speak English?",
+        "Are you can speak English?",
+        "Have you can speak English?"
+      ],
+      "correct_answer": "Can you speak English?",
+      "explanation": "Modals take front position without needing 'do'."
+    },
+    {
+      "id": 38,
+      "category": "Modal Verbs",
+      "question_type": "multiple_choice",
+      "prompt": "___ you please pass me the document?",
+      "options": [
+        "Could",
+        "Do",
+        "Are",
+        "Did"
+      ],
+      "correct_answer": "Could",
+      "explanation": "'Could' is used to make polite requests."
+    },
+    {
+      "id": 39,
+      "category": "Short Answers",
+      "question_type": "multiple_choice",
+      "prompt": "Question: 'Do you speak English?' -> Correct short answer:",
+      "options": [
+        "Yes, I do.",
+        "Yes, I speak.",
+        "Yes, I am.",
+        "Yes, I have."
+      ],
+      "correct_answer": "Yes, I do.",
+      "explanation": "Short answers repeat the auxiliary verb ('do'), not the main verb."
+    },
+    {
+      "id": 40,
+      "category": "Short Answers",
+      "question_type": "multiple_choice",
+      "prompt": "Question: 'Is she studying right now?' -> Correct short answer:",
+      "options": [
+        "Yes, she is.",
+        "Yes, she does.",
+        "Yes, she studies.",
+        "Yes, she has."
+      ],
+      "correct_answer": "Yes, she is.",
+      "explanation": "Repeat the auxiliary verb 'is' in the short answer."
+    },
+    {
+      "id": 41,
+      "category": "Short Answers",
+      "question_type": "multiple_choice",
+      "prompt": "Question: 'Has he completed the exam?' -> Correct negative short answer:",
+      "options": [
+        "No, he hasn't.",
+        "No, he doesn't.",
+        "No, he isn't.",
+        "No, he didn't."
+      ],
+      "correct_answer": "No, he hasn't.",
+      "explanation": "Match the auxiliary verb 'has' in the negative short response."
+    },
+    {
+      "id": 42,
+      "category": "Short Answers",
+      "question_type": "multiple_choice",
+      "prompt": "Question: 'Did they finish on time?' -> Correct negative short answer:",
+      "options": [
+        "No, they didn't.",
+        "No, they haven't.",
+        "No, they don't.",
+        "No, they aren't."
+      ],
+      "correct_answer": "No, they didn't.",
+      "explanation": "The auxiliary 'did' must be matched in the short answer."
+    },
+    {
+      "id": 43,
+      "category": "WH- Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ do you live?",
+      "options": [
+        "Where",
+        "What",
+        "Who",
+        "Which"
+      ],
+      "correct_answer": "Where",
+      "explanation": "'Where' asks about location."
+    },
+    {
+      "id": 44,
+      "category": "WH- Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ does she study at university?",
+      "options": [
+        "What",
+        "Where",
+        "Who",
+        "How"
+      ],
+      "correct_answer": "What",
+      "explanation": "'What' asks about subjects, objects, or actions."
+    },
+    {
+      "id": 45,
+      "category": "WH- Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ did the program begin?",
+      "options": [
+        "When",
+        "What",
+        "Who",
+        "Which"
+      ],
+      "correct_answer": "When",
+      "explanation": "'When' asks about time."
+    },
+    {
+      "id": 46,
+      "category": "WH- Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ are they leaving so early?",
+      "options": [
+        "Why",
+        "Where",
+        "Who",
+        "Which"
+      ],
+      "correct_answer": "Why",
+      "explanation": "'Why' asks for reasons."
+    },
+    {
+      "id": 47,
+      "category": "WH- Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ have you learned English so fast?",
+      "options": [
+        "How",
+        "What",
+        "Where",
+        "Who"
+      ],
+      "correct_answer": "How",
+      "explanation": "'How' asks about method or manner."
+    },
+    {
+      "id": 48,
+      "category": "WH- Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ course will you choose for next semester?",
+      "options": [
+        "Which",
+        "Why",
+        "How",
+        "Who"
+      ],
+      "correct_answer": "Which",
+      "explanation": "'Which' is used when choosing between options."
+    },
+    {
+      "id": 49,
+      "category": "WH- Questions Pattern",
+      "question_type": "multiple_choice",
+      "prompt": "What is the standard word order for WH- questions?",
+      "options": [
+        "Question word + auxiliary + subject + main verb?",
+        "Question word + subject + auxiliary + main verb?",
+        "Auxiliary + question word + subject + main verb?",
+        "Subject + auxiliary + question word + main verb?"
+      ],
+      "correct_answer": "Question word + auxiliary + subject + main verb?",
+      "explanation": "The general structure is WH-word + auxiliary verb + subject + main verb."
+    },
+    {
+      "id": 50,
+      "category": "Subject Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ called you on the phone standardly?",
+      "options": [
+        "Who",
+        "Who did",
+        "Whom did",
+        "Who does"
+      ],
+      "correct_answer": "Who",
+      "explanation": "In a subject question (asking who did the action), do not use do/does/did."
+    },
+    {
+      "id": 51,
+      "category": "Subject Questions",
+      "question_type": "multiple_choice",
+      "prompt": "___ happened yesterday at the meeting?",
+      "options": [
+        "What",
+        "What did",
+        "What does",
+        "What is"
+      ],
+      "correct_answer": "What",
+      "explanation": "'What' is the subject of the action, so no auxiliary 'did' is added."
+    },
+    {
+      "id": 52,
+      "category": "Subject Questions",
+      "question_type": "multiple_choice",
+      "prompt": "Which company ___ this service?",
+      "options": [
+        "offers",
+        "does offer",
+        "did offered",
+        "offering"
+      ],
+      "correct_answer": "offers",
+      "explanation": "This is a subject question ('Which company' is subject), so main verb conjugated directly without do/does."
+    },
+    {
+      "id": 53,
+      "category": "Subject vs Object",
+      "question_type": "multiple_choice",
+      "prompt": "Compare: 'Who called Marie?' vs 'Who did Marie call?' In 'Who did Marie call?', who is performing the action?",
+      "options": [
+        "Marie",
+        "Who",
+        "Both Marie and Who",
+        "Neither"
+      ],
+      "correct_answer": "Marie",
+      "explanation": "In 'Who did Marie call?', Marie is the subject doing the calling, and 'who' is the object receiving it."
+    },
+    {
+      "id": 54,
+      "category": "Error Identification",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the incorrect sentence:",
+      "options": [
+        "Did she studied economics?",
+        "Did she study economics?",
+        "Is she studying economics?",
+        "Has she studied economics?"
+      ],
+      "correct_answer": "Did she studied economics?",
+      "explanation": "Incorrect because 'studied' is in past tense after 'did'. It should be 'study'."
+    },
+    {
+      "id": 55,
+      "category": "Error Identification",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the incorrect sentence:",
+      "options": [
+        "You are working today?",
+        "Are you working today?",
+        "Do you work today?",
+        "Will you work today?"
+      ],
+      "correct_answer": "You are working today?",
+      "explanation": "English questions require inversion: auxiliary verb before subject ('Are you...')."
+    },
+    {
+      "id": 56,
+      "category": "Sentence Transformation",
+      "question_type": "multiple_choice",
+      "prompt": "Turn into a question: 'She studies economics.'",
+      "options": [
+        "Does she study economics?",
+        "Does she studies economics?",
+        "Is she study economics?",
+        "Do she study economics?"
+      ],
+      "correct_answer": "Does she study economics?",
+      "explanation": "Third person singular takes 'Does', and the main verb reverts to base form 'study'."
+    },
+    {
+      "id": 57,
+      "category": "Sentence Transformation",
+      "question_type": "multiple_choice",
+      "prompt": "Turn into a question: 'They visited the office.'",
+      "options": [
+        "Did they visit the office?",
+        "Did they visited the office?",
+        "Do they visit the office?",
+        "Were they visit the office?"
+      ],
+      "correct_answer": "Did they visit the office?",
+      "explanation": "Past tense statement turns into a question using 'Did' + subject + base verb ('visit')."
+    },
+    {
+      "id": 58,
+      "category": "Sentence Transformation",
+      "question_type": "multiple_choice",
+      "prompt": "Turn into a question: 'You are preparing a project.'",
+      "options": [
+        "Are you preparing a project?",
+        "Do you preparing a project?",
+        "Do you prepare a project?",
+        "Have you preparing a project?"
+      ],
+      "correct_answer": "Are you preparing a project?",
+      "explanation": "Invert subject 'you' and auxiliary 'are' to make 'Are you preparing...?'."
+    },
+    {
+      "id": 59,
+      "category": "Sentence Transformation",
+      "question_type": "multiple_choice",
+      "prompt": "Turn into a question: 'He can speak French.'",
+      "options": [
+        "Can he speak French?",
+        "Does he can speak French?",
+        "Is he speak French?",
+        "Can he speaks French?"
+      ],
+      "correct_answer": "Can he speak French?",
+      "explanation": "Invert subject 'he' and modal 'can' -> 'Can he speak French?'."
+    },
+    {
+      "id": 60,
+      "category": "Sentence Transformation",
+      "question_type": "multiple_choice",
+      "prompt": "Turn into a question: 'The team has finished its work.'",
+      "options": [
+        "Has the team finished its work?",
+        "Does the team finished its work?",
+        "Did the team finished its work?",
+        "Is the team finished its work?"
+      ],
+      "correct_answer": "Has the team finished its work?",
+      "explanation": "Invert subject 'the team' and auxiliary 'has' for present perfect."
+    }
+  ]
+}

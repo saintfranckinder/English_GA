@@ -1,0 +1,786 @@
+{
+  "title": "English Articles Practice Questions (a, an, the, zero article)",
+  "total_questions": 60,
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill-in-the-blank",
+      "sentence": "She wants to buy ___ new car.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "Use 'a' before a singular countable noun starting with a consonant sound when introduced for the first time."
+    },
+    {
+      "id": 2,
+      "type": "fill-in-the-blank",
+      "sentence": "He ate ___ apple after lunch.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "Use 'an' before a singular countable noun starting with a vowel sound ('apple')."
+    },
+    {
+      "id": 3,
+      "type": "fill-in-the-blank",
+      "sentence": "It takes about ___ hour to drive to the city center.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "'Hour' begins with a silent 'h', so it starts with a vowel sound (/a\u028a\u0259r/), requiring 'an'."
+    },
+    {
+      "id": 4,
+      "type": "fill-in-the-blank",
+      "sentence": "She goes to ___ university in London.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'University' begins with a consonant sound (/j/), so it takes 'a', not 'an'."
+    },
+    {
+      "id": 5,
+      "type": "fill-in-the-blank",
+      "sentence": "My uncle is ___ honest man.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "'Honest' starts with a silent 'h', creating a vowel sound (/\u0252n\u026ast/), which requires 'an'."
+    },
+    {
+      "id": 6,
+      "type": "fill-in-the-blank",
+      "sentence": "They spotted ___ UFO in the night sky.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'UFO' is pronounced starting with the consonant sound /j/ ('you-ef-oh'), so 'a' is correct."
+    },
+    {
+      "id": 7,
+      "type": "fill-in-the-blank",
+      "sentence": "France is ___ European country.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'European' begins with the consonant sound /j/ ('yoo-ruh-pee-uhn'), requiring 'a'."
+    },
+    {
+      "id": 8,
+      "type": "fill-in-the-blank",
+      "sentence": "He is studying to become ___ engineer.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "'Engineer' starts with a vowel sound (/\u025bnd\u0292\u026an\u026a\u0259r/), requiring 'an'."
+    },
+    {
+      "id": 9,
+      "type": "fill-in-the-blank",
+      "sentence": "We stayed at ___ hotel near the beach.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'Hotel' starts with a sounded 'h' consonant sound in modern English, taking 'a'."
+    },
+    {
+      "id": 10,
+      "type": "fill-in-the-blank",
+      "sentence": "She has ___ unique style of painting.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'Unique' begins with the consonant sound /j/ ('yoo-neek'), so it uses 'a'."
+    },
+    {
+      "id": 11,
+      "type": "fill-in-the-blank",
+      "sentence": "I need ___ one-dollar bill for the vending machine.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'One' begins with the consonant sound /w/ ('wun'), taking 'a'."
+    },
+    {
+      "id": 12,
+      "type": "fill-in-the-blank",
+      "sentence": "He received ___ MBA degree last year.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "The abbreviation 'MBA' is pronounced starting with a vowel sound ('em-bee-ay'), so it uses 'an'."
+    },
+    {
+      "id": 13,
+      "type": "fill-in-the-blank",
+      "sentence": "Is there ___ ATM near here?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "'ATM' starts with the vowel sound 'ay' (/e\u026a/), requiring 'an'."
+    },
+    {
+      "id": 14,
+      "type": "fill-in-the-blank",
+      "sentence": "She bought ___ house with a large garden.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'House' begins with the consonant sound /h/, taking 'a'."
+    },
+    {
+      "id": 15,
+      "type": "fill-in-the-blank",
+      "sentence": "He works as ___ accountant for a law firm.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "'Accountant' starts with a vowel sound, requiring 'an'."
+    },
+    {
+      "id": 16,
+      "type": "fill-in-the-blank",
+      "sentence": "Look at ___ moon tonight; it is so bright.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Use 'the' with unique natural objects like the sun, moon, and Earth."
+    },
+    {
+      "id": 17,
+      "type": "fill-in-the-blank",
+      "sentence": "She is ___ tallest student in our class.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Superlative adjectives ('tallest') always require the definite article 'the'."
+    },
+    {
+      "id": 18,
+      "type": "fill-in-the-blank",
+      "sentence": "I found a dog. ___ dog was very friendly.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "When referencing a noun for the second time, it becomes specific and requires 'the'."
+    },
+    {
+      "id": 19,
+      "type": "fill-in-the-blank",
+      "sentence": "This is ___ first time I have visited Paris.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Ordinal numbers ('first', 'second', 'third') take 'the'."
+    },
+    {
+      "id": 20,
+      "type": "fill-in-the-blank",
+      "sentence": "They went on a cruise across ___ Atlantic Ocean.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Names of oceans, seas, and rivers require 'the'."
+    },
+    {
+      "id": 21,
+      "type": "fill-in-the-blank",
+      "sentence": "He was elected ___ president of the committee.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Specific roles or titles that are unique in a given context take 'the'."
+    },
+    {
+      "id": 22,
+      "type": "fill-in-the-blank",
+      "sentence": "The government should do more to help ___ poor.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Use 'the' + adjective to refer to a specific group of people as a collective whole."
+    },
+    {
+      "id": 23,
+      "type": "fill-in-the-blank",
+      "sentence": "We hiked across ___ Alps during our vacation.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Mountain ranges (plural) take 'the', whereas individual peak names do not."
+    },
+    {
+      "id": 24,
+      "type": "fill-in-the-blank",
+      "sentence": "She lives in ___ Netherlands.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Plural country names or countries with political structures in their name take 'the'."
+    },
+    {
+      "id": 25,
+      "type": "fill-in-the-blank",
+      "sentence": "Can you pass me ___ salt on the table?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "The salt is specific because it is located right on the table in front of both speaker and listener."
+    },
+    {
+      "id": 26,
+      "type": "fill-in-the-blank",
+      "sentence": "___ Amazon is the largest river by discharge volume.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Rivers take the definite article 'the'."
+    },
+    {
+      "id": 27,
+      "type": "fill-in-the-blank",
+      "sentence": "Who was ___ last person to leave the room?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Words indicating sequence or uniqueness like 'last' require 'the'."
+    },
+    {
+      "id": 28,
+      "type": "fill-in-the-blank",
+      "sentence": "___ French are famous for their rich culinary traditions.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Use 'the' before nationality adjectives to refer to the nation's people as a whole."
+    },
+    {
+      "id": 29,
+      "type": "fill-in-the-blank",
+      "sentence": "Turn off ___ lights when you leave.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Refers to the specific lights in the current room/context."
+    },
+    {
+      "id": 30,
+      "type": "fill-in-the-blank",
+      "sentence": "___ Earth revolves around the sun.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Unique astronomical bodies in general contexts take 'the'."
+    },
+    {
+      "id": 31,
+      "type": "fill-in-the-blank",
+      "sentence": "___ water is essential for human survival.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Uncountable nouns used in a general sense take no article."
+    },
+    {
+      "id": 32,
+      "type": "fill-in-the-blank",
+      "sentence": "___ dogs are known to be loyal companions.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Plural countable nouns used to make general statements take no article."
+    },
+    {
+      "id": 33,
+      "type": "fill-in-the-blank",
+      "sentence": "I am learning to speak ___ Spanish.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Languages take no article unless followed by the word 'language' (e.g., the Spanish language)."
+    },
+    {
+      "id": 34,
+      "type": "fill-in-the-blank",
+      "sentence": "She moved to ___ Haiti two years ago.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Most singular country names take no article."
+    },
+    {
+      "id": 35,
+      "type": "fill-in-the-blank",
+      "sentence": "We usually eat ___ dinner at 7:00 PM.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Names of regular meals (breakfast, lunch, dinner) take zero article."
+    },
+    {
+      "id": 36,
+      "type": "fill-in-the-blank",
+      "sentence": "He goes to ___ school five days a week.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Institutions (school, hospital, church, prison) take zero article when referring to their primary institutional purpose."
+    },
+    {
+      "id": 37,
+      "type": "fill-in-the-blank",
+      "sentence": "My favorite subject in high school was ___ mathematics.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Academic subjects and fields of study take no article."
+    },
+    {
+      "id": 38,
+      "type": "fill-in-the-blank",
+      "sentence": "They play ___ tennis every Sunday morning.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Sports and games take zero article."
+    },
+    {
+      "id": 39,
+      "type": "fill-in-the-blank",
+      "sentence": "___ honesty is the best policy.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Abstract concepts used generally take no article."
+    },
+    {
+      "id": 40,
+      "type": "fill-in-the-blank",
+      "sentence": "I will see you on ___ Monday.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Days of the week, months, and holidays take zero article in general time expressions."
+    },
+    {
+      "id": 41,
+      "type": "fill-in-the-blank",
+      "sentence": "She suffers from ___ insomnia.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Most general medical conditions and illnesses take no article."
+    },
+    {
+      "id": 42,
+      "type": "fill-in-the-blank",
+      "sentence": "Mount Everest is located in ___ Asia.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Continents take zero article."
+    },
+    {
+      "id": 43,
+      "type": "fill-in-the-blank",
+      "sentence": "___ children need love and guidance.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Plural nouns in generic contexts require zero article."
+    },
+    {
+      "id": 44,
+      "type": "fill-in-the-blank",
+      "sentence": "He travels to work by ___ bus.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Means of transportation preceded by 'by' take zero article (by bus, by car, by train)."
+    },
+    {
+      "id": 45,
+      "type": "fill-in-the-blank",
+      "sentence": "We celebrated ___ Christmas with our family.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Holidays take zero article."
+    },
+    {
+      "id": 46,
+      "type": "fill-in-the-blank",
+      "sentence": "She went to ___ hospital to visit her sick friend.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Use 'the' because she is visiting a specific building/person, not receiving medical treatment as a patient."
+    },
+    {
+      "id": 47,
+      "type": "fill-in-the-blank",
+      "sentence": "He was admitted to ___ hospital after the accident.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "In British/International English, 'in hospital' without an article refers to receiving medical care as a patient."
+    },
+    {
+      "id": 48,
+      "type": "fill-in-the-blank",
+      "sentence": "___ coffee grown in Colombia is world-famous.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Although 'coffee' is uncountable, it is specific here ('the coffee grown in Colombia')."
+    },
+    {
+      "id": 49,
+      "type": "fill-in-the-blank",
+      "sentence": "I love drinking ___ coffee in the morning.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Refers to coffee in general, an uncountable noun, so no article is needed."
+    },
+    {
+      "id": 50,
+      "type": "fill-in-the-blank",
+      "sentence": "___ Dominican Republic shares the island of Hispaniola with Haiti.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Countries with words like 'Republic', 'Kingdom', or 'States' take 'the'."
+    },
+    {
+      "id": 51,
+      "type": "fill-in-the-blank",
+      "sentence": "She has ___ European accent.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "'European' begins with the consonant sound /j/, so it takes 'a'."
+    },
+    {
+      "id": 52,
+      "type": "fill-in-the-blank",
+      "sentence": "He gave me ___ advice on my resume.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "'Advice' is an uncountable noun and takes zero article when speaking generally."
+    },
+    {
+      "id": 53,
+      "type": "fill-in-the-blank",
+      "sentence": "___ United States is a global economic power.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Plural country names and country names including 'States' take 'the'."
+    },
+    {
+      "id": 54,
+      "type": "fill-in-the-blank",
+      "sentence": "We live on ___ Main Street.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Street names generally take zero article."
+    },
+    {
+      "id": 55,
+      "type": "fill-in-the-blank",
+      "sentence": "___ Pacific Ocean is the largest and deepest ocean.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Oceans always take 'the'."
+    },
+    {
+      "id": 56,
+      "type": "fill-in-the-blank",
+      "sentence": "He spent ___ hour reviewing his notes.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "an",
+      "explanation": "'Hour' begins with a silent 'h', starting with a vowel sound, requiring 'an'."
+    },
+    {
+      "id": 57,
+      "type": "fill-in-the-blank",
+      "sentence": "I watched ___ movie you recommended.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "The movie is specified ('the movie you recommended'), taking 'the'."
+    },
+    {
+      "id": 58,
+      "type": "fill-in-the-blank",
+      "sentence": "___ music always relaxes me when I am stressed.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "zero article",
+      "explanation": "Abstract/uncountable noun used in a general sense takes zero article."
+    },
+    {
+      "id": 59,
+      "type": "fill-in-the-blank",
+      "sentence": "Did you like ___ music played at the concert?",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "the",
+      "explanation": "Specific music ('music played at the concert'), taking 'the'."
+    },
+    {
+      "id": 60,
+      "type": "fill-in-the-blank",
+      "sentence": "She works as ___ nurse at the local clinic.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "zero article"
+      ],
+      "answer": "a",
+      "explanation": "Professions take 'a' or 'an' when stating someone's job."
+    }
+  ]
+}

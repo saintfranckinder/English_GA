@@ -1,0 +1,831 @@
+{
+  "title": "Subject-Verb Agreement Practice Quiz",
+  "total_questions": 75,
+  "questions": [
+    {
+      "id": 1,
+      "category": "Core Rule & Basic Tenses",
+      "question": "The student _____ every day to improve her skills.",
+      "options": [
+        "study",
+        "studies"
+      ],
+      "answer": "studies",
+      "explanation": "Singular subject ('student') takes a singular verb ('studies')."
+    },
+    {
+      "id": 2,
+      "category": "Core Rule & Basic Tenses",
+      "question": "The researchers _____ their data carefully before publishing.",
+      "options": [
+        "analyze",
+        "analyzes"
+      ],
+      "answer": "analyze",
+      "explanation": "Plural subject ('researchers') takes a plural verb ('analyze')."
+    },
+    {
+      "id": 3,
+      "category": "Core Rule & Basic Tenses",
+      "question": "He _____ to the office by train every morning.",
+      "options": [
+        "go",
+        "goes"
+      ],
+      "answer": "goes",
+      "explanation": "Third-person singular subject ('He') takes 'goes' in the simple present tense."
+    },
+    {
+      "id": 4,
+      "category": "Core Rule & Basic Tenses",
+      "question": "She _____ closely to the instructor during webinars.",
+      "options": [
+        "listen",
+        "listens"
+      ],
+      "answer": "listens",
+      "explanation": "Third-person singular subject ('She') takes 'listens'."
+    },
+    {
+      "id": 5,
+      "category": "Core Rule & Basic Tenses",
+      "question": "They _____ all project guidelines before submitting.",
+      "options": [
+        "review",
+        "reviews"
+      ],
+      "answer": "review",
+      "explanation": "Plural subject ('They') takes a plural verb ('review')."
+    },
+    {
+      "id": 6,
+      "category": "Core Rule & Basic Tenses",
+      "question": "The designer _____ modern interfaces for mobile devices.",
+      "options": [
+        "create",
+        "creates"
+      ],
+      "answer": "creates",
+      "explanation": "Singular subject ('designer') requires a singular verb ('creates')."
+    },
+    {
+      "id": 7,
+      "category": "Forms of Be, Have, and Do",
+      "question": "She _____ ready to start her new role next week.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Singular subject ('She') uses 'is'."
+    },
+    {
+      "id": 8,
+      "category": "Forms of Be, Have, and Do",
+      "question": "They _____ ready to present their project proposal.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "Plural subject ('They') uses 'are'."
+    },
+    {
+      "id": 9,
+      "category": "Forms of Be, Have, and Do",
+      "question": "He _____ a clear plan for expanding the business.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "answer": "has",
+      "explanation": "Third-person singular subject ('He') takes 'has'."
+    },
+    {
+      "id": 10,
+      "category": "Forms of Be, Have, and Do",
+      "question": "We _____ several tasks to complete today.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "answer": "have",
+      "explanation": "First-person plural subject ('We') takes 'have'."
+    },
+    {
+      "id": 11,
+      "category": "Forms of Be, Have, and Do",
+      "question": "The company _____ agree with the proposed terms.",
+      "options": [
+        "doesn't",
+        "don't"
+      ],
+      "answer": "doesn't",
+      "explanation": "Singular noun ('company') takes 'doesn't'."
+    },
+    {
+      "id": 12,
+      "category": "Forms of Be, Have, and Do",
+      "question": "The consultants _____ agree on the budget timeline.",
+      "options": [
+        "doesn't",
+        "don't"
+      ],
+      "answer": "don't",
+      "explanation": "Plural noun ('consultants') takes 'don't'."
+    },
+    {
+      "id": 13,
+      "category": "Forms of Be, Have, and Do",
+      "question": "I _____ agree with the decision made yesterday.",
+      "options": [
+        "doesn't",
+        "don't"
+      ],
+      "answer": "don't",
+      "explanation": "The pronoun 'I' always uses 'do' / 'don't'."
+    },
+    {
+      "id": 14,
+      "category": "Forms of Be, Have, and Do",
+      "question": "You _____ need to re-submit the application form.",
+      "options": [
+        "doesn't",
+        "don't"
+      ],
+      "answer": "don't",
+      "explanation": "The pronoun 'You' always takes 'do' / 'don't'."
+    },
+    {
+      "id": 15,
+      "category": "Words Between Subject and Verb",
+      "question": "The manager, along with two assistants, _____ traveling tomorrow.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject is 'manager' (singular); 'along with...' is an extra phrase."
+    },
+    {
+      "id": 16,
+      "category": "Words Between Subject and Verb",
+      "question": "The reports, including the executive summary, _____ submitted.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "were",
+      "explanation": "The subject is 'reports' (plural); 'including...' is ignored."
+    },
+    {
+      "id": 17,
+      "category": "Words Between Subject and Verb",
+      "question": "The color of the office walls _____ light blue.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject is 'color' (singular), not 'walls'."
+    },
+    {
+      "id": 18,
+      "category": "Words Between Subject and Verb",
+      "question": "The total cost of all the materials _____ exceeding our budget.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject is 'cost' (singular), not 'materials'."
+    },
+    {
+      "id": 19,
+      "category": "Words Between Subject and Verb",
+      "question": "The director, as well as her team members, _____ attending the meeting.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Phrases like 'as well as...' do not change the singular subject 'director'."
+    },
+    {
+      "id": 20,
+      "category": "Words Between Subject and Verb",
+      "question": "The updates in the new application _____ system stability.",
+      "options": [
+        "improve",
+        "improves"
+      ],
+      "answer": "improve",
+      "explanation": "The subject is 'updates' (plural), so it requires 'improve'."
+    },
+    {
+      "id": 21,
+      "category": "Words Between Subject and Verb",
+      "question": "The officer, together with the audit staff, _____ reviewing the records.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject 'officer' is singular."
+    },
+    {
+      "id": 22,
+      "category": "Compound Subjects Joined by And",
+      "question": "Marie and Marc _____ their grandparents every weekend.",
+      "options": [
+        "visit",
+        "visits"
+      ],
+      "answer": "visit",
+      "explanation": "Two subjects joined by 'and' form a plural subject."
+    },
+    {
+      "id": 23,
+      "category": "Compound Subjects Joined by And",
+      "question": "Bread and butter _____ his favorite morning snack.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Bread and butter' refers to a single unit/idea."
+    },
+    {
+      "id": 24,
+      "category": "Compound Subjects Joined by And",
+      "question": "The founder and CEO _____ addressing the shareholders today.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Both titles refer to the same individual, so the verb is singular."
+    },
+    {
+      "id": 25,
+      "category": "Compound Subjects Joined by And",
+      "question": "The founder and the CEO _____ entering the conference hall together.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "The repetition of 'the' indicates two distinct people, requiring 'are'."
+    },
+    {
+      "id": 26,
+      "category": "Compound Subjects Joined by And",
+      "question": "Market analysis and strategic planning _____ crucial for growth.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "Two separate concepts joined by 'and' form a plural subject."
+    },
+    {
+      "id": 27,
+      "category": "Compound Subjects with Or / Nor",
+      "question": "Either the teacher or the students _____ responsible for organizing the event.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "The subject closest to the verb ('students') is plural."
+    },
+    {
+      "id": 28,
+      "category": "Compound Subjects with Or / Nor",
+      "question": "Either the students or the teacher _____ responsible for the equipment.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject closest to the verb ('teacher') is singular."
+    },
+    {
+      "id": 29,
+      "category": "Compound Subjects with Or / Nor",
+      "question": "Neither the books nor the article _____ useful for our report.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "explanation": "The subject closest to the verb ('article') is singular."
+    },
+    {
+      "id": 30,
+      "category": "Compound Subjects with Or / Nor",
+      "question": "Neither the article nor the books _____ useful for our report.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "were",
+      "explanation": "The subject closest to the verb ('books') is plural."
+    },
+    {
+      "id": 31,
+      "category": "Compound Subjects with Or / Nor",
+      "question": "Either the manager or his assistants _____ going to sign the contract.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "The closer subject ('assistants') is plural."
+    },
+    {
+      "id": 32,
+      "category": "Compound Subjects with Or / Nor",
+      "question": "Neither the supervisor nor the employees _____ about the schedule change.",
+      "options": [
+        "knows",
+        "know"
+      ],
+      "answer": "know",
+      "explanation": "The closer subject ('employees') is plural."
+    },
+    {
+      "id": 33,
+      "category": "Indefinite Pronouns",
+      "question": "Everyone _____ an important role to play in this project.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "answer": "has",
+      "explanation": "'Everyone' is an indefinite pronoun and takes a singular verb."
+    },
+    {
+      "id": 34,
+      "category": "Indefinite Pronouns",
+      "question": "Nobody _____ the exact answer to that question.",
+      "options": [
+        "know",
+        "knows"
+      ],
+      "answer": "knows",
+      "explanation": "'Nobody' is singular and takes 'knows'."
+    },
+    {
+      "id": 35,
+      "category": "Indefinite Pronouns",
+      "question": "Each of the participants _____ a certificate of completion.",
+      "options": [
+        "receive",
+        "receives"
+      ],
+      "answer": "receives",
+      "explanation": "'Each' is the subject and is singular."
+    },
+    {
+      "id": 36,
+      "category": "Indefinite Pronouns",
+      "question": "All of the water _____ gone from the storage tank.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Water' is uncountable, making 'All of the water' singular."
+    },
+    {
+      "id": 37,
+      "category": "Indefinite Pronouns",
+      "question": "All of the students _____ present in the auditorium.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "'Students' is plural, so 'All of the students' takes 'are'."
+    },
+    {
+      "id": 38,
+      "category": "Indefinite Pronouns",
+      "question": "Some of the information _____ outdated.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Information' is uncountable, so 'Some' takes a singular verb."
+    },
+    {
+      "id": 39,
+      "category": "Indefinite Pronouns",
+      "question": "Some of the documents _____ missing from the folder.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "'Documents' is plural, so 'Some' takes 'are'."
+    },
+    {
+      "id": 40,
+      "category": "Indefinite Pronouns",
+      "question": "Neither of the proposed solutions _____ satisfactory.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Neither' as a pronoun takes a singular verb."
+    },
+    {
+      "id": 41,
+      "category": "Indefinite Pronouns",
+      "question": "Somebody _____ left a notebook on the desk.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "answer": "has",
+      "explanation": "'Somebody' is singular and takes 'has'."
+    },
+    {
+      "id": 42,
+      "category": "Collective Nouns",
+      "question": "The team _____ its matches every season.",
+      "options": [
+        "win",
+        "wins"
+      ],
+      "answer": "wins",
+      "explanation": "In American English, collective nouns like 'team' acting as one unit take a singular verb."
+    },
+    {
+      "id": 43,
+      "category": "Collective Nouns",
+      "question": "The committee _____ made its final decision.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "answer": "has",
+      "explanation": "'Committee' acting as a single entity takes 'has'."
+    },
+    {
+      "id": 44,
+      "category": "Collective Nouns",
+      "question": "The board of directors _____ meeting in the main office.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Board' is a singular collective noun."
+    },
+    {
+      "id": 45,
+      "category": "Collective Nouns",
+      "question": "The staff _____ attending safety training today.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Staff' as a unified group takes a singular verb."
+    },
+    {
+      "id": 46,
+      "category": "Collective Nouns",
+      "question": "The family _____ planning a vacation together.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Family' acting as a single unit takes 'is'."
+    },
+    {
+      "id": 47,
+      "category": "There / Here Sentences",
+      "question": "There _____ a technical problem with the server.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The true subject is 'a technical problem' (singular)."
+    },
+    {
+      "id": 48,
+      "category": "There / Here Sentences",
+      "question": "There _____ many reasons to invest in microfinance.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "The true subject is 'many reasons' (plural)."
+    },
+    {
+      "id": 49,
+      "category": "There / Here Sentences",
+      "question": "Here _____ your requested document.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject 'document' is singular."
+    },
+    {
+      "id": 50,
+      "category": "There / Here Sentences",
+      "question": "Here _____ the financial reports you asked for.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "The subject 'financial reports' is plural."
+    },
+    {
+      "id": 51,
+      "category": "There / Here Sentences",
+      "question": "There _____ several candidates waiting for an interview.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "are",
+      "explanation": "The subject 'several candidates' is plural."
+    },
+    {
+      "id": 52,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "The United Nations _____ holding a global conference next month.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Organization names are singular even if they sound plural."
+    },
+    {
+      "id": 53,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "Physics _____ required for all engineering students.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Academic subjects ending in -s are singular."
+    },
+    {
+      "id": 54,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "Ten dollars _____ enough to cover the lunch fee.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Sums of money as a total amount take a singular verb."
+    },
+    {
+      "id": 55,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "Five years _____ a long time to complete a degree.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Periods of time treated as a single unit take a singular verb."
+    },
+    {
+      "id": 56,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "Three kilometers _____ not far to walk on a pleasant morning.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Distances treated as a single quantity take 'is'."
+    },
+    {
+      "id": 57,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "'Gulliver's Travels' _____ a classical satire written in 1726.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Book titles are singular."
+    },
+    {
+      "id": 58,
+      "category": "Gerunds and Infinitives as Subjects",
+      "question": "Reading technical books _____ your vocabulary quickly.",
+      "options": [
+        "improve",
+        "improves"
+      ],
+      "answer": "improves",
+      "explanation": "A gerund ('Reading') as a subject takes a singular verb."
+    },
+    {
+      "id": 59,
+      "category": "Gerunds and Infinitives as Subjects",
+      "question": "To travel abroad _____ careful budget planning.",
+      "options": [
+        "require",
+        "requires"
+      ],
+      "answer": "requires",
+      "explanation": "An infinitive phrase ('To travel abroad') takes a singular verb."
+    },
+    {
+      "id": 60,
+      "category": "Gerunds and Infinitives as Subjects",
+      "question": "Studying every day _____ students retain complex information.",
+      "options": [
+        "help",
+        "helps"
+      ],
+      "answer": "helps",
+      "explanation": "A gerund subject ('Studying every day') takes a singular verb."
+    },
+    {
+      "id": 61,
+      "category": "Gerunds and Infinitives as Subjects",
+      "question": "Analyzing project metrics _____ team efficiency.",
+      "options": [
+        "increase",
+        "increases"
+      ],
+      "answer": "increases",
+      "explanation": "The gerund 'Analyzing' is a singular subject."
+    },
+    {
+      "id": 62,
+      "category": "Relative Clauses and Inverted Sentences",
+      "question": "She is one of the students who _____ hard every day.",
+      "options": [
+        "study",
+        "studies"
+      ],
+      "answer": "study",
+      "explanation": "'Who' refers to 'students' (plural), so 'study' is required."
+    },
+    {
+      "id": 63,
+      "category": "Relative Clauses and Inverted Sentences",
+      "question": "He is the only one of the students who _____ hard for the test.",
+      "options": [
+        "study",
+        "studies"
+      ],
+      "answer": "studies",
+      "explanation": "'The only one' is singular, so 'who' refers to 'one' and takes 'studies'."
+    },
+    {
+      "id": 64,
+      "category": "Relative Clauses and Inverted Sentences",
+      "question": "On the wall _____ several posters about sustainable development.",
+      "options": [
+        "hang",
+        "hangs"
+      ],
+      "answer": "hang",
+      "explanation": "Inverted sentence structure: the real subject is 'several posters' (plural)."
+    },
+    {
+      "id": 65,
+      "category": "Relative Clauses and Inverted Sentences",
+      "question": "On the wall _____ a large framed poster.",
+      "options": [
+        "hang",
+        "hangs"
+      ],
+      "answer": "hangs",
+      "explanation": "Inverted sentence structure: the subject is 'a large framed poster' (singular)."
+    },
+    {
+      "id": 66,
+      "category": "Each / Every with Compound Subjects",
+      "question": "Every teacher and student _____ required to register online.",
+      "options": [
+        "has",
+        "have"
+      ],
+      "answer": "has",
+      "explanation": "When 'every' modifies compound subjects, the subject takes a singular verb."
+    },
+    {
+      "id": 67,
+      "category": "Each / Every with Compound Subjects",
+      "question": "Each book and article _____ reviewed before publication.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "explanation": "When 'each' precedes compound subjects, treat the subject as singular."
+    },
+    {
+      "id": 68,
+      "category": "Each / Every with Compound Subjects",
+      "question": "Every employee and manager _____ a unique identification number.",
+      "options": [
+        "receive",
+        "receives"
+      ],
+      "answer": "receives",
+      "explanation": "'Every' before nouns makes the subject singular."
+    },
+    {
+      "id": 69,
+      "category": "Core Rule & Basic Tenses",
+      "question": "The software engineer _____ clean code for web applications.",
+      "options": [
+        "write",
+        "writes"
+      ],
+      "answer": "writes",
+      "explanation": "Singular subject ('engineer') takes 'writes'."
+    },
+    {
+      "id": 70,
+      "category": "Words Between Subject and Verb",
+      "question": "The box of old tools _____ kept in the garage.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "The subject is 'box' (singular), not 'tools'."
+    },
+    {
+      "id": 71,
+      "category": "Indefinite Pronouns",
+      "question": "Most of the research _____ completed last month.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "was",
+      "explanation": "'Research' is uncountable, so 'Most' takes 'was'."
+    },
+    {
+      "id": 72,
+      "category": "Indefinite Pronouns",
+      "question": "Most of the survey respondents _____ satisfied with the service.",
+      "options": [
+        "was",
+        "were"
+      ],
+      "answer": "were",
+      "explanation": "'Respondents' is plural, so 'Most' takes 'were'."
+    },
+    {
+      "id": 73,
+      "category": "Collective Nouns",
+      "question": "The audience _____ listening attentively to the keynote speaker.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "'Audience' acting as a unified whole takes a singular verb."
+    },
+    {
+      "id": 74,
+      "category": "Titles, Names, Quantities, and Units",
+      "question": "Twenty dollars _____ the price of admission.",
+      "options": [
+        "is",
+        "are"
+      ],
+      "answer": "is",
+      "explanation": "Monetary sum treated as a single quantity takes 'is'."
+    },
+    {
+      "id": 75,
+      "category": "Gerunds and Infinitives as Subjects",
+      "question": "Building reliable applications _____ consistency and effort.",
+      "options": [
+        "require",
+        "requires"
+      ],
+      "answer": "requires",
+      "explanation": "Gerund phrase ('Building reliable applications') takes 'requires'."
+    }
+  ]
+}

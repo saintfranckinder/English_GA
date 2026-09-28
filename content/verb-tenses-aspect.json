@@ -1,0 +1,1539 @@
+{
+  "id": "verb-tenses-aspect",
+  "title": "Verb Tenses/Aspect",
+  "status": "active",
+  "source": "content-source/verb_tenses_and_aspect_practice_questions.json",
+  "questions": [
+    {
+      "id": "vta-001",
+      "topic": "Present Tenses",
+      "prompt": "She usually _____ (walk) to work, but today she _____ (take) the bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "walks / is taking"
+        },
+        {
+          "id": "b",
+          "text": "is walking / takes"
+        },
+        {
+          "id": "c",
+          "text": "walks / takes"
+        },
+        {
+          "id": "d",
+          "text": "is walking / is taking"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use present simple for habits ('walks') and present continuous for temporary actions happening today ('is taking')."
+    },
+    {
+      "id": "vta-002",
+      "topic": "Present Tenses",
+      "prompt": "Water _____ (boil) at 100 degrees Celsius at sea level.",
+      "options": [
+        {
+          "id": "a",
+          "text": "boils"
+        },
+        {
+          "id": "b",
+          "text": "is boiling"
+        },
+        {
+          "id": "c",
+          "text": "has boiled"
+        },
+        {
+          "id": "d",
+          "text": "will boil"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use present simple for general facts and scientific laws."
+    },
+    {
+      "id": "vta-003",
+      "topic": "Present Tenses",
+      "prompt": "Listen! Someone _____ (play) the piano upstairs.",
+      "options": [
+        {
+          "id": "a",
+          "text": "plays"
+        },
+        {
+          "id": "b",
+          "text": "is playing"
+        },
+        {
+          "id": "c",
+          "text": "has played"
+        },
+        {
+          "id": "d",
+          "text": "played"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present continuous for an action currently in progress at the moment of speaking."
+    },
+    {
+      "id": "vta-004",
+      "topic": "Present Tenses",
+      "prompt": "The train _____ (leave) at six o'clock tomorrow morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "leaves"
+        },
+        {
+          "id": "b",
+          "text": "is leaving"
+        },
+        {
+          "id": "c",
+          "text": "has left"
+        },
+        {
+          "id": "d",
+          "text": "will be left"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use present simple for fixed timetables and scheduled future events."
+    },
+    {
+      "id": "vta-005",
+      "topic": "Present Tenses",
+      "prompt": "I _____ (stay) with my cousin this week while my apartment is being painted.",
+      "options": [
+        {
+          "id": "a",
+          "text": "stay"
+        },
+        {
+          "id": "b",
+          "text": "am staying"
+        },
+        {
+          "id": "c",
+          "text": "have stayed"
+        },
+        {
+          "id": "d",
+          "text": "stayed"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present continuous for temporary situations."
+    },
+    {
+      "id": "vta-006",
+      "topic": "Present Tenses",
+      "prompt": "He _____ (not / understand) the grammar lesson at all.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does not understand"
+        },
+        {
+          "id": "b",
+          "text": "is not understanding"
+        },
+        {
+          "id": "c",
+          "text": "has not understand"
+        },
+        {
+          "id": "d",
+          "text": "do not understand"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Understand' is a stative verb and is used in the simple present, not continuous."
+    },
+    {
+      "id": "vta-007",
+      "topic": "Present Tenses",
+      "prompt": "The climate _____ (get) warmer every year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "gets"
+        },
+        {
+          "id": "b",
+          "text": "is getting"
+        },
+        {
+          "id": "c",
+          "text": "has gotten"
+        },
+        {
+          "id": "d",
+          "text": "got"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present continuous to describe developing or changing situations."
+    },
+    {
+      "id": "vta-008",
+      "topic": "Present Tenses",
+      "prompt": "They _____ (study) English every Monday afternoon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "are studying"
+        },
+        {
+          "id": "c",
+          "text": "have studied"
+        },
+        {
+          "id": "d",
+          "text": "will study"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use present simple for habits and repeated actions."
+    },
+    {
+      "id": "vta-009",
+      "topic": "Present Tenses",
+      "prompt": "Why _____ (you / look) at me like that?",
+      "options": [
+        {
+          "id": "a",
+          "text": "do you look"
+        },
+        {
+          "id": "b",
+          "text": "are you looking"
+        },
+        {
+          "id": "c",
+          "text": "have you looked"
+        },
+        {
+          "id": "d",
+          "text": "did you look"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present continuous for an action in progress right now."
+    },
+    {
+      "id": "vta-010",
+      "topic": "Present Tenses",
+      "prompt": "My brother _____ (live) in Toronto.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lives"
+        },
+        {
+          "id": "b",
+          "text": "is living"
+        },
+        {
+          "id": "c",
+          "text": "has lived"
+        },
+        {
+          "id": "d",
+          "text": "was living"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use present simple to describe a permanent state or situation."
+    },
+    {
+      "id": "vta-011",
+      "topic": "Present Perfect Tenses",
+      "prompt": "I _____ (visit) Japan twice in my life.",
+      "options": [
+        {
+          "id": "a",
+          "text": "visited"
+        },
+        {
+          "id": "b",
+          "text": "have visited"
+        },
+        {
+          "id": "c",
+          "text": "have been visiting"
+        },
+        {
+          "id": "d",
+          "text": "had visited"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect simple to describe life experiences up to the present without a specific past time."
+    },
+    {
+      "id": "vta-012",
+      "topic": "Present Perfect Tenses",
+      "prompt": "She _____ (live) in this house for five years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lives"
+        },
+        {
+          "id": "b",
+          "text": "has lived"
+        },
+        {
+          "id": "c",
+          "text": "is living"
+        },
+        {
+          "id": "d",
+          "text": "lived"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect to describe a situation that started in the past and continues into the present."
+    },
+    {
+      "id": "vta-013",
+      "topic": "Present Perfect Tenses",
+      "prompt": "They are tired because they _____ (run) for an hour.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ran"
+        },
+        {
+          "id": "b",
+          "text": "have run"
+        },
+        {
+          "id": "c",
+          "text": "have been running"
+        },
+        {
+          "id": "d",
+          "text": "are running"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use present perfect continuous to focus on an activity that has recently stopped with a visible present result."
+    },
+    {
+      "id": "vta-014",
+      "topic": "Present Perfect Tenses",
+      "prompt": "He _____ (lose) his keys and cannot open the front door.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lost"
+        },
+        {
+          "id": "b",
+          "text": "has lost"
+        },
+        {
+          "id": "c",
+          "text": "has been losing"
+        },
+        {
+          "id": "d",
+          "text": "loses"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect simple for a past event that has a clear result in the present."
+    },
+    {
+      "id": "vta-015",
+      "topic": "Present Perfect Tenses",
+      "prompt": "How long _____ (you / wait) for the bus?",
+      "options": [
+        {
+          "id": "a",
+          "text": "do you wait"
+        },
+        {
+          "id": "b",
+          "text": "are you waiting"
+        },
+        {
+          "id": "c",
+          "text": "have you been waiting"
+        },
+        {
+          "id": "d",
+          "text": "did you wait"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use present perfect continuous to ask about the duration of an activity ongoing up to now."
+    },
+    {
+      "id": "vta-016",
+      "topic": "Present Perfect Tenses",
+      "prompt": "It's only 11 a.m., and she _____ (write) three reports this morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wrote"
+        },
+        {
+          "id": "b",
+          "text": "has written"
+        },
+        {
+          "id": "c",
+          "text": "has been writing"
+        },
+        {
+          "id": "d",
+          "text": "writes"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "It is still morning, so 'this morning' is an unfinished time period: use the present perfect simple. The simple form also says how many things are completed ('three reports').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'wrote' was also correct if the morning had finished; added context so the period is unfinished.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/present-perfect",
+          "https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/present-perfect-simple-continuous"
+        ]
+      }
+    },
+    {
+      "id": "vta-017",
+      "topic": "Present Perfect Tenses",
+      "prompt": "I _____ (know) her since high school.",
+      "options": [
+        {
+          "id": "a",
+          "text": "know"
+        },
+        {
+          "id": "b",
+          "text": "have known"
+        },
+        {
+          "id": "c",
+          "text": "have been knowing"
+        },
+        {
+          "id": "d",
+          "text": "knew"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Know' is a stative verb, so use present perfect simple rather than continuous."
+    },
+    {
+      "id": "vta-018",
+      "topic": "Present Perfect Tenses",
+      "prompt": "Look! Someone _____ (break) the window.",
+      "options": [
+        {
+          "id": "a",
+          "text": "broke"
+        },
+        {
+          "id": "b",
+          "text": "has broken"
+        },
+        {
+          "id": "c",
+          "text": "has been breaking"
+        },
+        {
+          "id": "d",
+          "text": "breaks"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect for a recent past action with direct present relevance."
+    },
+    {
+      "id": "vta-019",
+      "topic": "Present Perfect Tenses",
+      "prompt": "We _____ (study) for three hours without a break.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are studying"
+        },
+        {
+          "id": "b",
+          "text": "have been studying"
+        },
+        {
+          "id": "c",
+          "text": "study"
+        },
+        {
+          "id": "d",
+          "text": "were studying"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect continuous to emphasize duration of an ongoing action."
+    },
+    {
+      "id": "vta-020",
+      "topic": "Present Perfect Tenses",
+      "prompt": "_____ (you / ever / eat) sushi?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did you ever eat"
+        },
+        {
+          "id": "b",
+          "text": "Have you ever eaten"
+        },
+        {
+          "id": "c",
+          "text": "Do you ever eat"
+        },
+        {
+          "id": "d",
+          "text": "Have you ever been eating"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect with 'ever' to ask about life experiences."
+    },
+    {
+      "id": "vta-021",
+      "topic": "Past Tenses",
+      "prompt": "We _____ (watch) a film last night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "watched"
+        },
+        {
+          "id": "b",
+          "text": "were watching"
+        },
+        {
+          "id": "c",
+          "text": "have watched"
+        },
+        {
+          "id": "d",
+          "text": "had watched"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use past simple for completed events at a specific time in the past ('last night')."
+    },
+    {
+      "id": "vta-022",
+      "topic": "Past Tenses",
+      "prompt": "At eight o'clock yesterday, I _____ (study) in the library.",
+      "options": [
+        {
+          "id": "a",
+          "text": "studied"
+        },
+        {
+          "id": "b",
+          "text": "was studying"
+        },
+        {
+          "id": "c",
+          "text": "have studied"
+        },
+        {
+          "id": "d",
+          "text": "had studied"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past continuous for an action in progress at a specific past time."
+    },
+    {
+      "id": "vta-023",
+      "topic": "Past Tenses",
+      "prompt": "I _____ (cook) dinner when the phone rang.",
+      "options": [
+        {
+          "id": "a",
+          "text": "cooked"
+        },
+        {
+          "id": "b",
+          "text": "was cooking"
+        },
+        {
+          "id": "c",
+          "text": "have cooked"
+        },
+        {
+          "id": "d",
+          "text": "had cooked"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past continuous for an ongoing background action interrupted by a past simple event."
+    },
+    {
+      "id": "vta-024",
+      "topic": "Past Tenses",
+      "prompt": "She _____ (open) the door, walked in, and sat down.",
+      "options": [
+        {
+          "id": "a",
+          "text": "opened"
+        },
+        {
+          "id": "b",
+          "text": "was opening"
+        },
+        {
+          "id": "c",
+          "text": "has opened"
+        },
+        {
+          "id": "d",
+          "text": "had opened"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use past simple for a sequence of completed past actions."
+    },
+    {
+      "id": "vta-025",
+      "topic": "Past Tenses",
+      "prompt": "While she _____ (read) a book, he was writing a letter.",
+      "options": [
+        {
+          "id": "a",
+          "text": "read"
+        },
+        {
+          "id": "b",
+          "text": "was reading"
+        },
+        {
+          "id": "c",
+          "text": "has read"
+        },
+        {
+          "id": "d",
+          "text": "had read"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past continuous for two actions happening simultaneously in the past."
+    },
+    {
+      "id": "vta-026",
+      "topic": "Past Tenses",
+      "prompt": "They _____ (go) to the museum yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "went"
+        },
+        {
+          "id": "b",
+          "text": "were going"
+        },
+        {
+          "id": "c",
+          "text": "have gone"
+        },
+        {
+          "id": "d",
+          "text": "had gone"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use past simple with finished past time expressions like 'yesterday'."
+    },
+    {
+      "id": "vta-027",
+      "topic": "Past Tenses",
+      "prompt": "The sun _____ (shine) when we left the house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "shone"
+        },
+        {
+          "id": "b",
+          "text": "was shining"
+        },
+        {
+          "id": "c",
+          "text": "has shone"
+        },
+        {
+          "id": "d",
+          "text": "had shone"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past continuous to set the background scene in the past."
+    },
+    {
+      "id": "vta-028",
+      "topic": "Past Tenses",
+      "prompt": "He _____ (live) in Paris as a child.",
+      "options": [
+        {
+          "id": "a",
+          "text": "lived"
+        },
+        {
+          "id": "b",
+          "text": "was living"
+        },
+        {
+          "id": "c",
+          "text": "has lived"
+        },
+        {
+          "id": "d",
+          "text": "had lived"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use past simple for past states or habits that are finished."
+    },
+    {
+      "id": "vta-029",
+      "topic": "Past Tenses",
+      "prompt": "What _____ (you / do) when the power went out?",
+      "options": [
+        {
+          "id": "a",
+          "text": "did you do"
+        },
+        {
+          "id": "b",
+          "text": "were you doing"
+        },
+        {
+          "id": "c",
+          "text": "have you done"
+        },
+        {
+          "id": "d",
+          "text": "had you done"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past continuous to ask about an action in progress when an event occurred."
+    },
+    {
+      "id": "vta-030",
+      "topic": "Past Tenses",
+      "prompt": "I _____ (see) an interesting documentary last week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "saw"
+        },
+        {
+          "id": "b",
+          "text": "was seeing"
+        },
+        {
+          "id": "c",
+          "text": "have seen"
+        },
+        {
+          "id": "d",
+          "text": "had seen"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use past simple with finished time references ('last week')."
+    },
+    {
+      "id": "vta-031",
+      "topic": "Past Perfect Tenses",
+      "prompt": "When I arrived at the cinema, the film _____ (start).",
+      "options": [
+        {
+          "id": "a",
+          "text": "started"
+        },
+        {
+          "id": "b",
+          "text": "was starting"
+        },
+        {
+          "id": "c",
+          "text": "had started"
+        },
+        {
+          "id": "d",
+          "text": "has started"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use past perfect for an action completed before another past event."
+    },
+    {
+      "id": "vta-032",
+      "topic": "Past Perfect Tenses",
+      "prompt": "She was exhausted because she _____ (work) all day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "worked"
+        },
+        {
+          "id": "b",
+          "text": "was working"
+        },
+        {
+          "id": "c",
+          "text": "had worked"
+        },
+        {
+          "id": "d",
+          "text": "has worked"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use past perfect to show a past cause for a past state."
+    },
+    {
+      "id": "vta-033",
+      "topic": "Past Perfect Tenses",
+      "prompt": "They _____ (wait) for an hour when the bus finally arrived.",
+      "options": [
+        {
+          "id": "a",
+          "text": "waited"
+        },
+        {
+          "id": "b",
+          "text": "were waiting"
+        },
+        {
+          "id": "c",
+          "text": "had been waiting"
+        },
+        {
+          "id": "d",
+          "text": "have been waiting"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use past perfect continuous to emphasize duration before a past reference point."
+    },
+    {
+      "id": "vta-034",
+      "topic": "Past Perfect Tenses",
+      "prompt": "By the time we got to the party, everyone _____ (eat) dinner.",
+      "options": [
+        {
+          "id": "a",
+          "text": "ate"
+        },
+        {
+          "id": "b",
+          "text": "was eating"
+        },
+        {
+          "id": "c",
+          "text": "had eaten"
+        },
+        {
+          "id": "d",
+          "text": "has eaten"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use past perfect simple for completion before a specified past time."
+    },
+    {
+      "id": "vta-035",
+      "topic": "Past Perfect Tenses",
+      "prompt": "He was dirty because he _____ (repair) the bicycle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "repaired"
+        },
+        {
+          "id": "b",
+          "text": "had been repairing"
+        },
+        {
+          "id": "c",
+          "text": "was repairing"
+        },
+        {
+          "id": "d",
+          "text": "has been repairing"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past perfect continuous for an earlier ongoing activity explaining a past result."
+    },
+    {
+      "id": "vta-036",
+      "topic": "Past Perfect Tenses",
+      "prompt": "She _____ (study) for hours before taking a dinner break.",
+      "options": [
+        {
+          "id": "a",
+          "text": "studied"
+        },
+        {
+          "id": "b",
+          "text": "was studying"
+        },
+        {
+          "id": "c",
+          "text": "had been studying"
+        },
+        {
+          "id": "d",
+          "text": "has been studying"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use past perfect continuous to show an activity continuing up to a past event."
+    },
+    {
+      "id": "vta-037",
+      "topic": "Past Perfect Tenses",
+      "prompt": "They _____ (already / leave) when I called their house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "already leave"
+        },
+        {
+          "id": "b",
+          "text": "had already left"
+        },
+        {
+          "id": "c",
+          "text": "have already left"
+        },
+        {
+          "id": "d",
+          "text": "are already leaving"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past perfect with 'already' to indicate completion prior to another past event.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'were already leaving' is grammatical (past continuous: leaving was in progress when I called), and American English often uses the past simple with 'already' ('They already left'). Replaced both distractors with forms that are wrong in every variety.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/past-perfect",
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/past-continuous",
+          "https://www.cambridge.org/elt/blog/2015/10/12/grammar-beyond-9/"
+        ]
+      }
+    },
+    {
+      "id": "vta-038",
+      "topic": "Past Perfect Tenses",
+      "prompt": "I realized I _____ (forget) my wallet at home.",
+      "options": [
+        {
+          "id": "a",
+          "text": "forgot"
+        },
+        {
+          "id": "b",
+          "text": "had forgotten"
+        },
+        {
+          "id": "c",
+          "text": "was forgetting"
+        },
+        {
+          "id": "d",
+          "text": "have forgotten"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past perfect because forgetting happened before the realization in the past."
+    },
+    {
+      "id": "vta-039",
+      "topic": "Past Perfect Tenses",
+      "prompt": "How long _____ (she / live) there before she moved?",
+      "options": [
+        {
+          "id": "a",
+          "text": "did she live"
+        },
+        {
+          "id": "b",
+          "text": "had she been living"
+        },
+        {
+          "id": "c",
+          "text": "was she living"
+        },
+        {
+          "id": "d",
+          "text": "has she lived"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use past perfect continuous to ask about duration prior to a past point of change."
+    },
+    {
+      "id": "vta-040",
+      "topic": "Past Perfect Tenses",
+      "prompt": "The ground was wet because it _____ (rain) all night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "rained"
+        },
+        {
+          "id": "b",
+          "text": "was raining"
+        },
+        {
+          "id": "c",
+          "text": "had been raining"
+        },
+        {
+          "id": "d",
+          "text": "has rained"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use past perfect continuous for an earlier activity that left visible evidence in the past."
+    },
+    {
+      "id": "vta-041",
+      "topic": "Future Time Forms",
+      "prompt": "I think it _____ (rain) tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will rain"
+        },
+        {
+          "id": "b",
+          "text": "has rained"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "is raining"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use 'will' for future predictions based on opinion or belief ('I think it will rain').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Replaced distractor 'is going to rain', which is also acceptable with 'I think'.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/talking-about-future"
+        ]
+      }
+    },
+    {
+      "id": "vta-042",
+      "topic": "Future Time Forms",
+      "prompt": "Look at those dark clouds. It _____ (rain).",
+      "options": [
+        {
+          "id": "a",
+          "text": "will rain"
+        },
+        {
+          "id": "b",
+          "text": "is going to rain"
+        },
+        {
+          "id": "c",
+          "text": "rains"
+        },
+        {
+          "id": "d",
+          "text": "will be raining"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use 'be going to' for predictions based on present evidence."
+    },
+    {
+      "id": "vta-043",
+      "topic": "Future Time Forms",
+      "prompt": "The phone is ringing. I _____ (answer) it.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will answer"
+        },
+        {
+          "id": "b",
+          "text": "am going to answer"
+        },
+        {
+          "id": "c",
+          "text": "answer"
+        },
+        {
+          "id": "d",
+          "text": "am answering"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use 'will' for spontaneous decisions made at the moment of speaking."
+    },
+    {
+      "id": "vta-044",
+      "topic": "Future Time Forms",
+      "prompt": "We _____ (meet) the tutor tomorrow at 10 AM.",
+      "options": [
+        {
+          "id": "a",
+          "text": "meet"
+        },
+        {
+          "id": "b",
+          "text": "are meeting"
+        },
+        {
+          "id": "c",
+          "text": "will have met"
+        },
+        {
+          "id": "d",
+          "text": "met"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present continuous for planned future arrangements."
+    },
+    {
+      "id": "vta-045",
+      "topic": "Future Time Forms",
+      "prompt": "This time tomorrow, I _____ (fly) to London.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will fly"
+        },
+        {
+          "id": "b",
+          "text": "will be flying"
+        },
+        {
+          "id": "c",
+          "text": "fly"
+        },
+        {
+          "id": "d",
+          "text": "am flying"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use future continuous for an action that will be in progress at a specific future time."
+    },
+    {
+      "id": "vta-046",
+      "topic": "Future Time Forms",
+      "prompt": "By Friday, I _____ (finish) the entire project.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will finish"
+        },
+        {
+          "id": "b",
+          "text": "will have finished"
+        },
+        {
+          "id": "c",
+          "text": "am finishing"
+        },
+        {
+          "id": "d",
+          "text": "finish"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use future perfect to describe an action that will be completed by a future point."
+    },
+    {
+      "id": "vta-047",
+      "topic": "Future Time Forms",
+      "prompt": "By June, she _____ (work) here for two years.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will work"
+        },
+        {
+          "id": "b",
+          "text": "will be working"
+        },
+        {
+          "id": "c",
+          "text": "will have been working"
+        },
+        {
+          "id": "d",
+          "text": "works"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use future perfect continuous to emphasize duration up to a future reference point."
+    },
+    {
+      "id": "vta-048",
+      "topic": "Future Time Forms",
+      "prompt": "The flight _____ (depart) at 8:30 PM tonight.",
+      "options": [
+        {
+          "id": "a",
+          "text": "departs"
+        },
+        {
+          "id": "b",
+          "text": "is departing"
+        },
+        {
+          "id": "c",
+          "text": "will depart"
+        },
+        {
+          "id": "d",
+          "text": "will have departed"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use present simple for fixed schedules or timetables."
+    },
+    {
+      "id": "vta-049",
+      "topic": "Future Time Forms",
+      "prompt": "They _____ (move) to a new house next month; they already signed the lease.",
+      "options": [
+        {
+          "id": "a",
+          "text": "move"
+        },
+        {
+          "id": "b",
+          "text": "are going to move"
+        },
+        {
+          "id": "c",
+          "text": "will move"
+        },
+        {
+          "id": "d",
+          "text": "will have moved"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The plan was decided before speaking (they already signed the lease), so use 'be going to'. 'Will' is for decisions made at the moment of speaking.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Clarified why 'will move' is wrong; key confirmed.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/intermediate-grammar/future-plans"
+        ]
+      }
+    },
+    {
+      "id": "vta-050",
+      "topic": "Future Time Forms",
+      "prompt": "Don't call me at 8 PM because I _____ (study).",
+      "options": [
+        {
+          "id": "a",
+          "text": "will study"
+        },
+        {
+          "id": "b",
+          "text": "will be studying"
+        },
+        {
+          "id": "c",
+          "text": "study"
+        },
+        {
+          "id": "d",
+          "text": "will have studied"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use future continuous to indicate an action ongoing at a particular future time."
+    },
+    {
+      "id": "vta-051",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "I _____ (think) that your plan is excellent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "think"
+        },
+        {
+          "id": "b",
+          "text": "am thinking"
+        },
+        {
+          "id": "c",
+          "text": "have been thinking"
+        },
+        {
+          "id": "d",
+          "text": "thought"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When 'think' means to hold an opinion, it is stative and uses simple form."
+    },
+    {
+      "id": "vta-052",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "Be quiet! I _____ (think) about a difficult solution.",
+      "options": [
+        {
+          "id": "a",
+          "text": "think"
+        },
+        {
+          "id": "b",
+          "text": "am thinking"
+        },
+        {
+          "id": "c",
+          "text": "have thought"
+        },
+        {
+          "id": "d",
+          "text": "thought"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "When 'think' refers to an active mental process in progress, continuous aspect is allowed."
+    },
+    {
+      "id": "vta-053",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "This coat _____ (belong) to my sister.",
+      "options": [
+        {
+          "id": "a",
+          "text": "belongs"
+        },
+        {
+          "id": "b",
+          "text": "is belonging"
+        },
+        {
+          "id": "c",
+          "text": "has belonged"
+        },
+        {
+          "id": "d",
+          "text": "belonged"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Belong' is a stative verb of possession and does not use continuous aspect."
+    },
+    {
+      "id": "vta-054",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "She _____ (not / work) here on weekends.",
+      "options": [
+        {
+          "id": "a",
+          "text": "does not work"
+        },
+        {
+          "id": "b",
+          "text": "is not working"
+        },
+        {
+          "id": "c",
+          "text": "did not worked"
+        },
+        {
+          "id": "d",
+          "text": "has not work"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Form present simple negative with 'does not' + base form for third person singular."
+    },
+    {
+      "id": "vta-055",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "_____ (you / call) her yesterday evening?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did you call"
+        },
+        {
+          "id": "b",
+          "text": "Did you called"
+        },
+        {
+          "id": "c",
+          "text": "Have you called"
+        },
+        {
+          "id": "d",
+          "text": "Were you calling"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Past simple questions use auxiliary 'did' + subject + base verb."
+    },
+    {
+      "id": "vta-056",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "He _____ (not / finish) his homework yet.",
+      "options": [
+        {
+          "id": "a",
+          "text": "did not finish"
+        },
+        {
+          "id": "b",
+          "text": "has not finished"
+        },
+        {
+          "id": "c",
+          "text": "is not finishing"
+        },
+        {
+          "id": "d",
+          "text": "does not finish"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect negative with 'yet' for an expected action up to now."
+    },
+    {
+      "id": "vta-057",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "_____ (they / wait) when you arrived?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Did they wait"
+        },
+        {
+          "id": "b",
+          "text": "Were they waiting"
+        },
+        {
+          "id": "c",
+          "text": "Have they waited"
+        },
+        {
+          "id": "d",
+          "text": "Are they waiting"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Form past continuous question with 'Were' + subject + -ing verb."
+    },
+    {
+      "id": "vta-058",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "I _____ (not / see) him since last Tuesday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "did not see"
+        },
+        {
+          "id": "b",
+          "text": "have not seen"
+        },
+        {
+          "id": "c",
+          "text": "was not seeing"
+        },
+        {
+          "id": "d",
+          "text": "do not see"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use present perfect simple with 'since' for uncompleted time periods up to now."
+    },
+    {
+      "id": "vta-059",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "_____ (she / understand) the explanation?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Is she understanding"
+        },
+        {
+          "id": "b",
+          "text": "Does she understand"
+        },
+        {
+          "id": "c",
+          "text": "Has she understanding"
+        },
+        {
+          "id": "d",
+          "text": "Did she understood"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Understand' is stative, requiring simple present question form with 'Does'."
+    },
+    {
+      "id": "vta-060",
+      "topic": "Stative Verbs & Advanced Forms",
+      "prompt": "We _____ (not / go) to the beach if it rains tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "will not go"
+        },
+        {
+          "id": "b",
+          "text": "do not go"
+        },
+        {
+          "id": "c",
+          "text": "are not gone"
+        },
+        {
+          "id": "d",
+          "text": "did not go"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Form future simple negative with 'will not' (won't) + base form."
+    }
+  ]
+}

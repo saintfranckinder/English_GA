@@ -1,0 +1,2336 @@
+{
+  "id": "subject-verb-agreement",
+  "title": "Subject–Verb Agreement",
+  "status": "active",
+  "source": "content-source/subject_verb_agreement_practice_questions.json",
+  "questions": [
+    {
+      "id": "sva-001",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "The student _____ every day to improve her skills.",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "are studying",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "studying",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "studies"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Singular subject ('student') takes a singular verb ('studies').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-002",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "The researchers _____ their data carefully before publishing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "analyzing",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "analyze"
+        },
+        {
+          "id": "c",
+          "text": "analyzes"
+        },
+        {
+          "id": "d",
+          "text": "is analyzing",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Plural subject ('researchers') takes a plural verb ('analyze').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-003",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "He _____ to the office by train every morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "go"
+        },
+        {
+          "id": "b",
+          "text": "are going",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "goes"
+        },
+        {
+          "id": "d",
+          "text": "going",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Third-person singular subject ('He') takes 'goes' in the simple present tense.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-004",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "She _____ closely to the instructor during webinars.",
+      "options": [
+        {
+          "id": "a",
+          "text": "listens"
+        },
+        {
+          "id": "b",
+          "text": "listening",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are listening",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "listen"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Third-person singular subject ('She') takes 'listens'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-005",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "They _____ all project guidelines before submitting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is reviewing",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "reviews"
+        },
+        {
+          "id": "c",
+          "text": "reviewing",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "review"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Plural subject ('They') takes a plural verb ('review').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-006",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "The designer _____ modern interfaces for mobile devices.",
+      "options": [
+        {
+          "id": "a",
+          "text": "creating",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "are creating",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "creates"
+        },
+        {
+          "id": "d",
+          "text": "create"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Singular subject ('designer') requires a singular verb ('creates').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-007",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "She _____ ready to start her new role next week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Singular subject ('She') uses 'is'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-008",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "They _____ ready to present their project proposal.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Plural subject ('They') uses 'are'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-009",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "He _____ a clear plan for expanding the business.",
+      "options": [
+        {
+          "id": "a",
+          "text": "have"
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "having",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "are having",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Third-person singular subject ('He') takes 'has'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-010",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "We _____ several tasks to complete today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is having",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "has"
+        },
+        {
+          "id": "c",
+          "text": "having",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "First-person plural subject ('We') takes 'have'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-011",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "The company _____ agree with the proposed terms.",
+      "options": [
+        {
+          "id": "a",
+          "text": "not",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "isn't",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Singular noun ('company') takes 'doesn't'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-012",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "The consultants _____ agree on the budget timeline.",
+      "options": [
+        {
+          "id": "a",
+          "text": "isn't",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "don't"
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "not",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Plural noun ('consultants') takes 'don't'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-013",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "I _____ agree with the decision made yesterday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "doesn't"
+        },
+        {
+          "id": "b",
+          "text": "isn't",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "don't"
+        },
+        {
+          "id": "d",
+          "text": "not",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The pronoun 'I' always uses 'do' / 'don't'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-014",
+      "topic": "Forms of Be, Have, and Do",
+      "prompt": "You _____ need to re-submit the application form.",
+      "options": [
+        {
+          "id": "a",
+          "text": "don't"
+        },
+        {
+          "id": "b",
+          "text": "isn't",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "doesn't"
+        },
+        {
+          "id": "d",
+          "text": "not",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The pronoun 'You' always takes 'do' / 'don't'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-015",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The manager, along with two assistants, _____ traveling tomorrow.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The subject is 'manager' (singular); 'along with...' is an extra phrase.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-016",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The reports, including the executive summary, _____ submitted.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "been",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The subject is 'reports' (plural); 'including...' is ignored.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-017",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The color of the office walls _____ light blue.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The subject is 'color' (singular), not 'walls'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-018",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The total cost of all the materials _____ exceeding our budget.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The subject is 'cost' (singular), not 'materials'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-019",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The director, as well as her team members, _____ attending the meeting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Phrases like 'as well as...' do not change the singular subject 'director'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-020",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The updates in the new application _____ system stability.",
+      "options": [
+        {
+          "id": "a",
+          "text": "improving",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "is improving",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "improve"
+        },
+        {
+          "id": "d",
+          "text": "improves"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The subject is 'updates' (plural), so it requires 'improve'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-021",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The officer, together with the audit staff, _____ reviewing the records.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The subject 'officer' is singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-022",
+      "topic": "Compound Subjects Joined by And",
+      "prompt": "Marie and Marc _____ their grandparents every weekend.",
+      "options": [
+        {
+          "id": "a",
+          "text": "visits"
+        },
+        {
+          "id": "b",
+          "text": "visit"
+        },
+        {
+          "id": "c",
+          "text": "is visiting",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "visiting",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Two subjects joined by 'and' form a plural subject.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-023",
+      "topic": "Compound Subjects Joined by And",
+      "prompt": "Bread and butter _____ his favorite morning snack.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Bread and butter' refers to a single unit/idea.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-024",
+      "topic": "Compound Subjects Joined by And",
+      "prompt": "The founder and CEO _____ addressing the shareholders today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Both titles refer to the same individual, so the verb is singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-025",
+      "topic": "Compound Subjects Joined by And",
+      "prompt": "The founder and the CEO _____ entering the conference hall together.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The repetition of 'the' indicates two distinct people, requiring 'are'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-026",
+      "topic": "Compound Subjects Joined by And",
+      "prompt": "Market analysis and strategic planning _____ crucial for growth.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Two separate concepts joined by 'and' form a plural subject.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-027",
+      "topic": "Compound Subjects with Or / Nor",
+      "prompt": "Either the teacher or the students _____ responsible for organizing the event.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The subject closest to the verb ('students') is plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-028",
+      "topic": "Compound Subjects with Or / Nor",
+      "prompt": "Either the students or the teacher _____ responsible for the equipment.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The subject closest to the verb ('teacher') is singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-029",
+      "topic": "Compound Subjects with Or / Nor",
+      "prompt": "Neither the books nor the article _____ useful for our report.",
+      "options": [
+        {
+          "id": "a",
+          "text": "been",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "were"
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The subject closest to the verb ('article') is singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-030",
+      "topic": "Compound Subjects with Or / Nor",
+      "prompt": "Neither the article nor the books _____ useful for our report.",
+      "options": [
+        {
+          "id": "a",
+          "text": "been",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The subject closest to the verb ('books') is plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-031",
+      "topic": "Compound Subjects with Or / Nor",
+      "prompt": "Either the manager or his assistants _____ going to sign the contract.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The closer subject ('assistants') is plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-032",
+      "topic": "Compound Subjects with Or / Nor",
+      "prompt": "Neither the supervisor nor the employees _____ about the schedule change.",
+      "options": [
+        {
+          "id": "a",
+          "text": "knowing",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "is knowing",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "know"
+        },
+        {
+          "id": "d",
+          "text": "knows"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The closer subject ('employees') is plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-033",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Everyone _____ an important role to play in this project.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "having",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are having",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Everyone' is an indefinite pronoun and takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-034",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Nobody _____ the exact answer to that question.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are knowing",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "know"
+        },
+        {
+          "id": "c",
+          "text": "knows"
+        },
+        {
+          "id": "d",
+          "text": "knowing",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Nobody' is singular and takes 'knows'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-035",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Each of the participants _____ a certificate of completion.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are receiving",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "receive"
+        },
+        {
+          "id": "c",
+          "text": "receives"
+        },
+        {
+          "id": "d",
+          "text": "receiving",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Each' is the subject and is singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-036",
+      "topic": "Indefinite Pronouns",
+      "prompt": "All of the water _____ gone from the storage tank.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Water' is uncountable, making 'All of the water' singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-037",
+      "topic": "Indefinite Pronouns",
+      "prompt": "All of the students _____ present in the auditorium.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Students' is plural, so 'All of the students' takes 'are'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-038",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Some of the information _____ outdated.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Information' is uncountable, so 'Some' takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-039",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Some of the documents _____ missing from the folder.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Documents' is plural, so 'Some' takes 'are'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-040",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Neither of the proposed solutions _____ satisfactory.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Neither' as a pronoun takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-041",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Somebody _____ left a notebook on the desk.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are having",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "having",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "have"
+        },
+        {
+          "id": "d",
+          "text": "has"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Somebody' is singular and takes 'has'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-042",
+      "topic": "Collective Nouns",
+      "prompt": "The team _____ its matches every season.",
+      "options": [
+        {
+          "id": "a",
+          "text": "wins"
+        },
+        {
+          "id": "b",
+          "text": "have win",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "win"
+        },
+        {
+          "id": "d",
+          "text": "winning",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In American English, collective nouns like 'team' acting as one unit take a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-043",
+      "topic": "Collective Nouns",
+      "prompt": "The committee _____ made its final decision.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are having",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "have"
+        },
+        {
+          "id": "c",
+          "text": "has"
+        },
+        {
+          "id": "d",
+          "text": "having",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Committee' acting as a single entity takes 'has'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-044",
+      "topic": "Collective Nouns",
+      "prompt": "The board of directors _____ meeting in the main office.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Board' is a singular collective noun.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-045",
+      "topic": "Collective Nouns",
+      "prompt": "The staff _____ attending safety training today.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Staff' as a unified group takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-046",
+      "topic": "Collective Nouns",
+      "prompt": "The family _____ planning a vacation together.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Family' acting as a single unit takes 'is'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-047",
+      "topic": "There / Here Sentences",
+      "prompt": "There _____ a technical problem with the server.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The true subject is 'a technical problem' (singular).",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-048",
+      "topic": "There / Here Sentences",
+      "prompt": "There _____ many reasons to invest in microfinance.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The true subject is 'many reasons' (plural).",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-049",
+      "topic": "There / Here Sentences",
+      "prompt": "Here _____ your requested document.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The subject 'document' is singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-050",
+      "topic": "There / Here Sentences",
+      "prompt": "Here _____ the financial reports you asked for.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The subject 'financial reports' is plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-051",
+      "topic": "There / Here Sentences",
+      "prompt": "There _____ several candidates waiting for an interview.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The subject 'several candidates' is plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-052",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "The United Nations _____ holding a global conference next month.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Organization names are singular even if they sound plural.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-053",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "Physics _____ required for all engineering students.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Academic subjects ending in -s are singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-054",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "Ten dollars _____ enough to cover the lunch fee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "is"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Sums of money as a total amount take a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-055",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "Five years _____ a long time to complete a degree.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Periods of time treated as a single unit take a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-056",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "Three kilometers _____ not far to walk on a pleasant morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "is"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Distances treated as a single quantity take 'is'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-057",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "'Gulliver's Travels' _____ a classical satire written in 1726.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Book titles are singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-058",
+      "topic": "Gerunds and Infinitives as Subjects",
+      "prompt": "Reading technical books _____ your vocabulary quickly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are improving",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "improving",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "improves"
+        },
+        {
+          "id": "d",
+          "text": "improve"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "A gerund ('Reading') as a subject takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-059",
+      "topic": "Gerunds and Infinitives as Subjects",
+      "prompt": "To travel abroad _____ careful budget planning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "require"
+        },
+        {
+          "id": "b",
+          "text": "are requiring",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "requires"
+        },
+        {
+          "id": "d",
+          "text": "requiring",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "An infinitive phrase ('To travel abroad') takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-060",
+      "topic": "Gerunds and Infinitives as Subjects",
+      "prompt": "Studying every day _____ students retain complex information.",
+      "options": [
+        {
+          "id": "a",
+          "text": "helping",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "help"
+        },
+        {
+          "id": "c",
+          "text": "are helping",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "helps"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "A gerund subject ('Studying every day') takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-061",
+      "topic": "Gerunds and Infinitives as Subjects",
+      "prompt": "Analyzing project metrics _____ team efficiency.",
+      "options": [
+        {
+          "id": "a",
+          "text": "increase"
+        },
+        {
+          "id": "b",
+          "text": "increases"
+        },
+        {
+          "id": "c",
+          "text": "are increasing",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "increasing",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The gerund 'Analyzing' is a singular subject.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-062",
+      "topic": "Relative Clauses and Inverted Sentences",
+      "prompt": "She is one of the students who _____ hard every day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is studying",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "studying",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "studies"
+        },
+        {
+          "id": "d",
+          "text": "study"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Who' refers to 'students' (plural), so 'study' is required.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-063",
+      "topic": "Relative Clauses and Inverted Sentences",
+      "prompt": "He is the only one of the students who _____ hard for the test.",
+      "options": [
+        {
+          "id": "a",
+          "text": "study"
+        },
+        {
+          "id": "b",
+          "text": "are studying",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "studying",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "studies"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'The only one' is singular, so 'who' refers to 'one' and takes 'studies'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-064",
+      "topic": "Relative Clauses and Inverted Sentences",
+      "prompt": "On the wall _____ several posters about sustainable development.",
+      "options": [
+        {
+          "id": "a",
+          "text": "hanging",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "hangs"
+        },
+        {
+          "id": "c",
+          "text": "is hanging",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "hang"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Inverted sentence structure: the real subject is 'several posters' (plural).",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-065",
+      "topic": "Relative Clauses and Inverted Sentences",
+      "prompt": "On the wall _____ a large framed poster.",
+      "options": [
+        {
+          "id": "a",
+          "text": "hangs"
+        },
+        {
+          "id": "b",
+          "text": "hanging",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "hang"
+        },
+        {
+          "id": "d",
+          "text": "are hanging",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Inverted sentence structure: the subject is 'a large framed poster' (singular).",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-066",
+      "topic": "Each / Every with Compound Subjects",
+      "prompt": "Every teacher and student _____ to register online.",
+      "options": [
+        {
+          "id": "a",
+          "text": "has"
+        },
+        {
+          "id": "b",
+          "text": "having",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are having",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "have"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When 'every' modifies compound subjects, the subject takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "The original prompt produced the ungrammatical key sentence 'Every teacher and student has required to register online' (the pattern is 'be required to do something'). Removed 'required' so the key reads 'has to register'.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/require"
+        ]
+      }
+    },
+    {
+      "id": "sva-067",
+      "topic": "Each / Every with Compound Subjects",
+      "prompt": "Each book and article _____ reviewed before publication.",
+      "options": [
+        {
+          "id": "a",
+          "text": "been",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "was"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "When 'each' precedes compound subjects, treat the subject as singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-068",
+      "topic": "Each / Every with Compound Subjects",
+      "prompt": "Every employee and manager _____ a unique identification number.",
+      "options": [
+        {
+          "id": "a",
+          "text": "are receiving",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "receive"
+        },
+        {
+          "id": "c",
+          "text": "receives"
+        },
+        {
+          "id": "d",
+          "text": "receiving",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Every' before nouns makes the subject singular.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-069",
+      "topic": "Core Rule & Basic Tenses",
+      "prompt": "The software engineer _____ clean code for web applications.",
+      "options": [
+        {
+          "id": "a",
+          "text": "write"
+        },
+        {
+          "id": "b",
+          "text": "writes"
+        },
+        {
+          "id": "c",
+          "text": "writing",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "are writing",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Singular subject ('engineer') takes 'writes'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-070",
+      "topic": "Words Between Subject and Verb",
+      "prompt": "The box of old tools _____ kept in the garage.",
+      "options": [
+        {
+          "id": "a",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The subject is 'box' (singular), not 'tools'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-071",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Most of the research _____ completed last month.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "been",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "were"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Research' is uncountable, so 'Most' takes 'was'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-072",
+      "topic": "Indefinite Pronouns",
+      "prompt": "Most of the survey respondents _____ satisfied with the service.",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "been",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "be",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Respondents' is plural, so 'Most' takes 'were'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-073",
+      "topic": "Collective Nouns",
+      "prompt": "The audience _____ listening attentively to the keynote speaker.",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "am",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Audience' acting as a unified whole takes a singular verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-074",
+      "topic": "Titles, Names, Quantities, and Units",
+      "prompt": "Twenty dollars _____ the price of admission.",
+      "options": [
+        {
+          "id": "a",
+          "text": "be",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "am",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "is"
+        },
+        {
+          "id": "d",
+          "text": "are"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Monetary sum treated as a single quantity takes 'is'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    },
+    {
+      "id": "sva-075",
+      "topic": "Gerunds and Infinitives as Subjects",
+      "prompt": "Building reliable applications _____ consistency and effort.",
+      "options": [
+        {
+          "id": "a",
+          "text": "requires"
+        },
+        {
+          "id": "b",
+          "text": "are requiring",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "require"
+        },
+        {
+          "id": "d",
+          "text": "requiring",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Gerund phrase ('Building reliable applications') takes 'requires'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\"."
+      }
+    }
+  ]
+}

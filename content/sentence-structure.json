@@ -1,0 +1,2023 @@
+{
+  "id": "sentence-structure",
+  "title": "Sentence Structure/Word Order",
+  "status": "active",
+  "source": "content-source/english_sentence_structure_practice.json",
+  "questions": [
+    {
+      "id": "ss-001",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'reads / she / books'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She reads books."
+        },
+        {
+          "id": "b",
+          "text": "Reads she books."
+        },
+        {
+          "id": "c",
+          "text": "Books she reads."
+        },
+        {
+          "id": "d",
+          "text": "She books reads."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "English simple statements follow Subject (She) + Verb (reads) + Object (books)."
+    },
+    {
+      "id": "ss-002",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'the project / finished / the team'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The team finished the project."
+        },
+        {
+          "id": "b",
+          "text": "Finished the team the project."
+        },
+        {
+          "id": "c",
+          "text": "The project finished the team."
+        },
+        {
+          "id": "d",
+          "text": "The team the project finished."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The team) + Verb (finished) + Object (the project)."
+    },
+    {
+      "id": "ss-003",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'a laptop / bought / Alex'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Alex bought a laptop."
+        },
+        {
+          "id": "b",
+          "text": "Bought Alex a laptop."
+        },
+        {
+          "id": "c",
+          "text": "A laptop Alex bought."
+        },
+        {
+          "id": "d",
+          "text": "Alex a laptop bought."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (Alex) + Verb (bought) + Object (a laptop)."
+    },
+    {
+      "id": "ss-004",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'coffee / drinks / manager / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The manager drinks coffee."
+        },
+        {
+          "id": "b",
+          "text": "Drinks the manager coffee."
+        },
+        {
+          "id": "c",
+          "text": "Coffee the manager drinks."
+        },
+        {
+          "id": "d",
+          "text": "The manager coffee drinks."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The manager) + Verb (drinks) + Object (coffee)."
+    },
+    {
+      "id": "ss-005",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'an email / sent / supervisor / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The supervisor sent an email."
+        },
+        {
+          "id": "b",
+          "text": "Sent the supervisor an email."
+        },
+        {
+          "id": "c",
+          "text": "An email the supervisor sent."
+        },
+        {
+          "id": "d",
+          "text": "The supervisor an email sent."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The supervisor) + Verb (sent) + Object (an email)."
+    },
+    {
+      "id": "ss-006",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'a report / wrote / candidate / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The candidate wrote a report."
+        },
+        {
+          "id": "b",
+          "text": "Wrote the candidate a report."
+        },
+        {
+          "id": "c",
+          "text": "A report wrote the candidate."
+        },
+        {
+          "id": "d",
+          "text": "The candidate a report wrote."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The candidate) + Verb (wrote) + Object (a report)."
+    },
+    {
+      "id": "ss-007",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'delicious food / cooks / chef / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The chef cooks delicious food."
+        },
+        {
+          "id": "b",
+          "text": "Cooks the chef delicious food."
+        },
+        {
+          "id": "c",
+          "text": "Delicious food the chef cooks."
+        },
+        {
+          "id": "d",
+          "text": "The chef delicious food cooks."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The chef) + Verb (cooks) + Object (delicious food)."
+    },
+    {
+      "id": "ss-008",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'the code / reviewed / developer / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The developer reviewed the code."
+        },
+        {
+          "id": "b",
+          "text": "Reviewed the developer the code."
+        },
+        {
+          "id": "c",
+          "text": "The code reviewed the developer."
+        },
+        {
+          "id": "d",
+          "text": "The developer the code reviewed."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The developer) + Verb (reviewed) + Object (the code)."
+    },
+    {
+      "id": "ss-009",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'new skills / learned / students / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The students learned new skills."
+        },
+        {
+          "id": "b",
+          "text": "Learned the students new skills."
+        },
+        {
+          "id": "c",
+          "text": "New skills the students learned."
+        },
+        {
+          "id": "d",
+          "text": "The students new skills learned."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The students) + Verb (learned) + Object (new skills)."
+    },
+    {
+      "id": "ss-010",
+      "topic": "Basic Sentence Pattern (SVO)",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'the document / signed / director / the'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The director signed the document."
+        },
+        {
+          "id": "b",
+          "text": "Signed the director the document."
+        },
+        {
+          "id": "c",
+          "text": "The document signed the director."
+        },
+        {
+          "id": "d",
+          "text": "The director the document signed."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (The director) + Verb (signed) + Object (the document)."
+    },
+    {
+      "id": "ss-011",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Choose the correct adjective order:",
+      "options": [
+        {
+          "id": "a",
+          "text": "a beautiful small old round brown French wooden table"
+        },
+        {
+          "id": "b",
+          "text": "a French wooden round old small brown beautiful table"
+        },
+        {
+          "id": "c",
+          "text": "a small beautiful round brown old wooden French table"
+        },
+        {
+          "id": "d",
+          "text": "a wooden French brown round old small beautiful table"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The correct order is Opinion (beautiful) -> Size (small) -> Age (old) -> Shape (round) -> Color (brown) -> Origin (French) -> Material (wooden) + Noun."
+    },
+    {
+      "id": "ss-012",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Which sentence correctly places the adjective?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She bought a red car."
+        },
+        {
+          "id": "b",
+          "text": "She bought a car red."
+        },
+        {
+          "id": "c",
+          "text": "She a red car bought."
+        },
+        {
+          "id": "d",
+          "text": "Bought she a red car."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adjectives come before the noun they describe in English."
+    },
+    {
+      "id": "ss-013",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Select the correct phrase:",
+      "options": [
+        {
+          "id": "a",
+          "text": "an interesting project"
+        },
+        {
+          "id": "b",
+          "text": "a project interesting"
+        },
+        {
+          "id": "c",
+          "text": "an project interesting"
+        },
+        {
+          "id": "d",
+          "text": "interesting an project"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adjectives precede the noun, and 'an' is used before vowel sounds."
+    },
+    {
+      "id": "ss-014",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "They discussed an important strategic decision."
+        },
+        {
+          "id": "b",
+          "text": "They discussed a decision strategic important."
+        },
+        {
+          "id": "c",
+          "text": "They discussed an strategic decision important."
+        },
+        {
+          "id": "d",
+          "text": "They discussed a strategic decision important."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opinion/quality adjectives come before modifying nouns/types."
+    },
+    {
+      "id": "ss-015",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Select the correctly ordered adjective phrase:",
+      "options": [
+        {
+          "id": "a",
+          "text": "a valuable ancient gold coin"
+        },
+        {
+          "id": "b",
+          "text": "a gold ancient valuable coin"
+        },
+        {
+          "id": "c",
+          "text": "an ancient gold valuable coin"
+        },
+        {
+          "id": "d",
+          "text": "a gold valuable ancient coin"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opinion (valuable) -> Age (ancient) -> Material (gold) + Noun."
+    },
+    {
+      "id": "ss-016",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Which option is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We watched an exciting new action movie."
+        },
+        {
+          "id": "b",
+          "text": "We watched a movie action new exciting."
+        },
+        {
+          "id": "c",
+          "text": "We watched an action new exciting movie."
+        },
+        {
+          "id": "d",
+          "text": "We watched a new action exciting movie."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opinion (exciting) -> Age (new) -> Type/Purpose (action) + Noun."
+    },
+    {
+      "id": "ss-017",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "He drives a fast modern German sports car."
+        },
+        {
+          "id": "b",
+          "text": "He drives a German fast modern sports car."
+        },
+        {
+          "id": "c",
+          "text": "He drives a sports fast German modern car."
+        },
+        {
+          "id": "d",
+          "text": "He drives a modern sports German fast car."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opinion/Quality (fast) -> Age (modern) -> Origin (German) -> Purpose (sports) + Noun."
+    },
+    {
+      "id": "ss-018",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Choose the correct phrase:",
+      "options": [
+        {
+          "id": "a",
+          "text": "a comfortable large blue sofa"
+        },
+        {
+          "id": "b",
+          "text": "a sofa comfortable large blue"
+        },
+        {
+          "id": "c",
+          "text": "a blue large comfortable sofa"
+        },
+        {
+          "id": "d",
+          "text": "a large blue comfortable sofa"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opinion (comfortable) -> Size (large) -> Color (blue) + Noun."
+    },
+    {
+      "id": "ss-019",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Select the correct option:",
+      "options": [
+        {
+          "id": "a",
+          "text": "an expensive new digital camera"
+        },
+        {
+          "id": "b",
+          "text": "a camera expensive new digital"
+        },
+        {
+          "id": "c",
+          "text": "a digital new expensive camera"
+        },
+        {
+          "id": "d",
+          "text": "a new expensive digital camera"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Opinion (expensive) -> Age (new) -> Type (digital) + Noun."
+    },
+    {
+      "id": "ss-020",
+      "topic": "Adjectives (Position & Order)",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The company introduced an innovative software tool."
+        },
+        {
+          "id": "b",
+          "text": "The company introduced a tool software innovative."
+        },
+        {
+          "id": "c",
+          "text": "The company introduced an software tool innovative."
+        },
+        {
+          "id": "d",
+          "text": "The company introduced a software tool innovative."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The adjective 'innovative' comes before the noun phrase 'software tool'."
+    },
+    {
+      "id": "ss-021",
+      "topic": "Adverb Placement",
+      "prompt": "Identify the sentence with correct adverb placement:",
+      "options": [
+        {
+          "id": "a",
+          "text": "She reads the report carefully."
+        },
+        {
+          "id": "b",
+          "text": "She reads carefully the report."
+        },
+        {
+          "id": "c",
+          "text": "Carefully she reads the report direct."
+        },
+        {
+          "id": "d",
+          "text": "She carefully report reads."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Do not place an adverb between a verb (reads) and its direct object (the report)."
+    },
+    {
+      "id": "ss-022",
+      "topic": "Adverb Placement",
+      "prompt": "Which sentence correctly places the frequency adverb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She often travels for work."
+        },
+        {
+          "id": "b",
+          "text": "She travels for often work."
+        },
+        {
+          "id": "c",
+          "text": "Often she for work travels."
+        },
+        {
+          "id": "d",
+          "text": "She travels for work often always."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Frequency adverbs usually go in mid-position, before the main verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'Often' can also go at the end of a clause, so 'She travels often for work.' is acceptable. Replaced that distractor.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/how-often",
+          "https://learnenglishteens.britishcouncil.org/grammar/a1-a2-grammar/adverbs-frequency"
+        ]
+      }
+    },
+    {
+      "id": "ss-023",
+      "topic": "Adverb Placement",
+      "prompt": "Choose the correct sentence with 'to be':",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is always punctual."
+        },
+        {
+          "id": "b",
+          "text": "She always is punctual."
+        },
+        {
+          "id": "c",
+          "text": "Is she always punctual always."
+        },
+        {
+          "id": "d",
+          "text": "Punctual she is always."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mid-position adverbs go AFTER the verb 'to be'."
+    },
+    {
+      "id": "ss-024",
+      "topic": "Adverb Placement",
+      "prompt": "Where does the adverb go in this sentence? 'He has ___ submitted the application.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "already"
+        },
+        {
+          "id": "b",
+          "text": "carefully yesterday"
+        },
+        {
+          "id": "c",
+          "text": "always tomorrow"
+        },
+        {
+          "id": "d",
+          "text": "at office"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Mid-position adverbs go between the auxiliary verb (has) and main verb (submitted)."
+    },
+    {
+      "id": "ss-025",
+      "topic": "Adverb Placement",
+      "prompt": "Which sentence is INCORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I write carefully the letter."
+        },
+        {
+          "id": "b",
+          "text": "I carefully write the letter."
+        },
+        {
+          "id": "c",
+          "text": "I write the letter carefully."
+        },
+        {
+          "id": "d",
+          "text": "Carefully, I write the letter."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Never separate the verb from its direct object with an adverb."
+    },
+    {
+      "id": "ss-026",
+      "topic": "Adverb Placement",
+      "prompt": "Select the sentence with a front-position adverb of time:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yesterday, she finished the report."
+        },
+        {
+          "id": "b",
+          "text": "She finished yesterday the report."
+        },
+        {
+          "id": "c",
+          "text": "She finished the report yesterday carefully yesterday."
+        },
+        {
+          "id": "d",
+          "text": "Finished she the report yesterday."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adverbs of time can go at the front for emphasis."
+    },
+    {
+      "id": "ss-027",
+      "topic": "Adverb Placement",
+      "prompt": "Which modifier placement is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "an extremely quick response"
+        },
+        {
+          "id": "b",
+          "text": "a quick extremely response"
+        },
+        {
+          "id": "c",
+          "text": "an response extremely quick"
+        },
+        {
+          "id": "d",
+          "text": "a response quick extremely"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adverbs modifying adjectives must go directly before the adjective."
+    },
+    {
+      "id": "ss-028",
+      "topic": "Adverb Placement",
+      "prompt": "Identify the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "They worked diligently on the assignment."
+        },
+        {
+          "id": "b",
+          "text": "They worked on the assignment diligently on."
+        },
+        {
+          "id": "c",
+          "text": "They diligently assignment worked."
+        },
+        {
+          "id": "d",
+          "text": "They worked diligently assignment."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Manner adverbs like 'diligently' modify the verb and fit naturally after the verb or clause."
+    },
+    {
+      "id": "ss-029",
+      "topic": "Adverb Placement",
+      "prompt": "Which sentence uses 'never' correctly?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is never late for meetings."
+        },
+        {
+          "id": "b",
+          "text": "He never is late for meetings."
+        },
+        {
+          "id": "c",
+          "text": "He late is never for meetings."
+        },
+        {
+          "id": "d",
+          "text": "Never he is late for meetings."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Never' comes after the verb 'to be'."
+    },
+    {
+      "id": "ss-030",
+      "topic": "Adverb Placement",
+      "prompt": "Choose the correct option:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Unfortunately, the flight was delayed."
+        },
+        {
+          "id": "b",
+          "text": "The flight was delayed unfortunately flight."
+        },
+        {
+          "id": "c",
+          "text": "Flight was unfortunately delayed the."
+        },
+        {
+          "id": "d",
+          "text": "Was delayed the flight unfortunately."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Attitude adverbs like 'Unfortunately' can stand at the beginning of a clause."
+    },
+    {
+      "id": "ss-031",
+      "topic": "Time and Place Expressions",
+      "prompt": "Choose the correct order of place and time at the end of a sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "We met at the office yesterday."
+        },
+        {
+          "id": "b",
+          "text": "We met yesterday at the office."
+        },
+        {
+          "id": "c",
+          "text": "We yesterday met at the office."
+        },
+        {
+          "id": "d",
+          "text": "At the office yesterday we met."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The default sequence at the end of a sentence is Place (at the office) -> Time (yesterday)."
+    },
+    {
+      "id": "ss-032",
+      "topic": "Time and Place Expressions",
+      "prompt": "Which sentence correctly arranges place and time?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She will present the project in Port-au-Prince next week."
+        },
+        {
+          "id": "b",
+          "text": "She will present the project next week in Port-au-Prince."
+        },
+        {
+          "id": "c",
+          "text": "She next week will present the project in Port-au-Prince."
+        },
+        {
+          "id": "d",
+          "text": "In Port-au-Prince next week she will present the project."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Standard neutral order is Place (in Port-au-Prince) before Time (next week)."
+    },
+    {
+      "id": "ss-033",
+      "topic": "Time and Place Expressions",
+      "prompt": "How can you move time to the front for emphasis?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yesterday, we met at the office."
+        },
+        {
+          "id": "b",
+          "text": "At the office, yesterday we met."
+        },
+        {
+          "id": "c",
+          "text": "Met we at the office yesterday."
+        },
+        {
+          "id": "d",
+          "text": "We at the office met yesterday."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Time expressions can be placed at the very front followed by a comma."
+    },
+    {
+      "id": "ss-034",
+      "topic": "Time and Place Expressions",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "They arrived at the airport at 8:00 AM."
+        },
+        {
+          "id": "b",
+          "text": "They arrived at 8:00 AM at the airport."
+        },
+        {
+          "id": "c",
+          "text": "They at 8:00 AM arrived at the airport."
+        },
+        {
+          "id": "d",
+          "text": "At 8:00 AM at the airport they arrived."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (at the airport) comes before Time (at 8:00 AM)."
+    },
+    {
+      "id": "ss-035",
+      "topic": "Time and Place Expressions",
+      "prompt": "Which sentence is most natural in neutral English?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We will have a meeting in Pétionville tomorrow."
+        },
+        {
+          "id": "b",
+          "text": "We will have a meeting tomorrow in Pétionville."
+        },
+        {
+          "id": "c",
+          "text": "We will have tomorrow a meeting in Pétionville."
+        },
+        {
+          "id": "d",
+          "text": "We tomorrow will have a meeting in Pétionville."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (in Pétionville) precedes Time (tomorrow)."
+    },
+    {
+      "id": "ss-036",
+      "topic": "Time and Place Expressions",
+      "prompt": "Identify the grammatically preferred sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The conference will take place at the hotel on Monday."
+        },
+        {
+          "id": "b",
+          "text": "The conference will take place on Monday at the hotel."
+        },
+        {
+          "id": "c",
+          "text": "The conference on Monday will take place at the hotel."
+        },
+        {
+          "id": "d",
+          "text": "On Monday at the hotel the conference will take place."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (at the hotel) -> Time (on Monday)."
+    },
+    {
+      "id": "ss-037",
+      "topic": "Time and Place Expressions",
+      "prompt": "Choose the correct structure:",
+      "options": [
+        {
+          "id": "a",
+          "text": "He signed the contract in Saint-Marc last month."
+        },
+        {
+          "id": "b",
+          "text": "He signed the contract last month in Saint-Marc."
+        },
+        {
+          "id": "c",
+          "text": "He last month signed the contract in Saint-Marc."
+        },
+        {
+          "id": "d",
+          "text": "In Saint-Marc last month signed he the contract."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (in Saint-Marc) comes before Time (last month)."
+    },
+    {
+      "id": "ss-038",
+      "topic": "Time and Place Expressions",
+      "prompt": "Fix the word order: 'She attended a workshop last night in Cap-Haïtien.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She attended a workshop in Cap-Haïtien last night."
+        },
+        {
+          "id": "b",
+          "text": "She attended last night a workshop in Cap-Haïtien."
+        },
+        {
+          "id": "c",
+          "text": "She in Cap-Haïtien attended a workshop last night."
+        },
+        {
+          "id": "d",
+          "text": "Last night in Cap-Haïtien attended she a workshop."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (in Cap-Haïtien) should precede Time (last night)."
+    },
+    {
+      "id": "ss-039",
+      "topic": "Time and Place Expressions",
+      "prompt": "Select the correct alternative:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Last week, they launched the initiative in Jacmel."
+        },
+        {
+          "id": "b",
+          "text": "They launched last week the initiative in Jacmel."
+        },
+        {
+          "id": "c",
+          "text": "They in Jacmel launched the initiative last week."
+        },
+        {
+          "id": "d",
+          "text": "In Jacmel last week launched they the initiative."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Time can be at the front, with place following the object."
+    },
+    {
+      "id": "ss-040",
+      "topic": "Time and Place Expressions",
+      "prompt": "Which option follows the Place -> Time rule?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The team completed the audit at headquarters on Friday."
+        },
+        {
+          "id": "b",
+          "text": "The team completed the audit on Friday at headquarters."
+        },
+        {
+          "id": "c",
+          "text": "The team on Friday completed the audit at headquarters."
+        },
+        {
+          "id": "d",
+          "text": "At headquarters on Friday completed the team the audit."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (at headquarters) comes before Time (on Friday)."
+    },
+    {
+      "id": "ss-041",
+      "topic": "Negative Sentences",
+      "prompt": "Convert to negative: 'I understand the lesson.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I do not understand the lesson."
+        },
+        {
+          "id": "b",
+          "text": "I understand not the lesson."
+        },
+        {
+          "id": "c",
+          "text": "I not understand the lesson."
+        },
+        {
+          "id": "d",
+          "text": "I am not understand the lesson."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Negatives require Subject + auxiliary (do) + not + main verb (understand)."
+    },
+    {
+      "id": "ss-042",
+      "topic": "Negative Sentences",
+      "prompt": "Convert to negative: 'She has finished her assignment.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She has not finished her assignment."
+        },
+        {
+          "id": "b",
+          "text": "She does not finished her assignment."
+        },
+        {
+          "id": "c",
+          "text": "She finished not her assignment."
+        },
+        {
+          "id": "d",
+          "text": "She is not finished her assignment."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Auxiliary (has) + not + past participle (finished)."
+    },
+    {
+      "id": "ss-043",
+      "topic": "Negative Sentences",
+      "prompt": "Convert to negative: 'They can attend the meeting.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "They cannot attend the meeting."
+        },
+        {
+          "id": "b",
+          "text": "They do not can attend the meeting."
+        },
+        {
+          "id": "c",
+          "text": "They can attend not the meeting."
+        },
+        {
+          "id": "d",
+          "text": "They are not attend the meeting."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Modal auxiliary (can) + not + base verb (attend)."
+    },
+    {
+      "id": "ss-044",
+      "topic": "Negative Sentences",
+      "prompt": "Convert to negative: 'He is ready.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "He is not ready."
+        },
+        {
+          "id": "b",
+          "text": "He does not ready."
+        },
+        {
+          "id": "c",
+          "text": "He is ready not."
+        },
+        {
+          "id": "d",
+          "text": "He not is ready."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "With 'to be' as the main verb, place 'not' directly after 'is'."
+    },
+    {
+      "id": "ss-045",
+      "topic": "Negative Sentences",
+      "prompt": "Which negative sentence has correct adverb placement?",
+      "options": [
+        {
+          "id": "a",
+          "text": "She does not often travel."
+        },
+        {
+          "id": "b",
+          "text": "She not often does travel."
+        },
+        {
+          "id": "c",
+          "text": "She does travel not often."
+        },
+        {
+          "id": "d",
+          "text": "Not she often travel does."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In negatives, adverbs like 'often' usually go after 'not' and before the main verb.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'She often does not travel.' is grammatical (with a different meaning). Replaced that distractor.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/how-often"
+        ]
+      }
+    },
+    {
+      "id": "ss-046",
+      "topic": "Negative Sentences",
+      "prompt": "Convert to negative: 'They were at home.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "They were not at home."
+        },
+        {
+          "id": "b",
+          "text": "They did not were at home."
+        },
+        {
+          "id": "c",
+          "text": "They were at home not."
+        },
+        {
+          "id": "d",
+          "text": "They not were at home."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'To be' in past tense takes 'not' directly after 'were'."
+    },
+    {
+      "id": "ss-047",
+      "topic": "Negative Sentences",
+      "prompt": "Select the correct negative sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The team does not have enough time."
+        },
+        {
+          "id": "b",
+          "text": "The team has not enough time."
+        },
+        {
+          "id": "c",
+          "text": "The team not does have enough time."
+        },
+        {
+          "id": "d",
+          "text": "The team does have not enough time."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present simple main verb 'have' uses auxiliary 'does not have' in modern English."
+    },
+    {
+      "id": "ss-048",
+      "topic": "Negative Sentences",
+      "prompt": "Which sentence is negative and grammatically correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "We did not see any errors in the report."
+        },
+        {
+          "id": "b",
+          "text": "We saw not any errors in the report."
+        },
+        {
+          "id": "c",
+          "text": "We did see not any errors in the report."
+        },
+        {
+          "id": "d",
+          "text": "We not did see any errors in the report."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Subject (We) + auxiliary (did) + not + verb (see)."
+    },
+    {
+      "id": "ss-049",
+      "topic": "Negative Sentences",
+      "prompt": "Convert to negative: 'He will accept the proposal.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "He will not accept the proposal."
+        },
+        {
+          "id": "b",
+          "text": "He does not will accept the proposal."
+        },
+        {
+          "id": "c",
+          "text": "He will accept not the proposal."
+        },
+        {
+          "id": "d",
+          "text": "He is not accept the proposal."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Modal (will) + not + main verb (accept)."
+    },
+    {
+      "id": "ss-050",
+      "topic": "Negative Sentences",
+      "prompt": "Choose the correct negative sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is not working today."
+        },
+        {
+          "id": "b",
+          "text": "She does not working today."
+        },
+        {
+          "id": "c",
+          "text": "She working not today."
+        },
+        {
+          "id": "d",
+          "text": "She not working today."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Present continuous negative uses 'is not' + '-ing' verb."
+    },
+    {
+      "id": "ss-051",
+      "topic": "Questions & Inversion",
+      "prompt": "Convert to a Yes/No question: 'You understand the lesson.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do you understand the lesson?"
+        },
+        {
+          "id": "b",
+          "text": "Understand you the lesson?"
+        },
+        {
+          "id": "c",
+          "text": "You understand the lesson?"
+        },
+        {
+          "id": "d",
+          "text": "Does you understand the lesson?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yes/No questions in present simple use Auxiliary (Do) + Subject (you) + Verb (understand)."
+    },
+    {
+      "id": "ss-052",
+      "topic": "Questions & Inversion",
+      "prompt": "Convert to a Yes/No question: 'She has submitted the report.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Has she submitted the report?"
+        },
+        {
+          "id": "b",
+          "text": "Does she have submitted the report?"
+        },
+        {
+          "id": "c",
+          "text": "She has submitted the report?"
+        },
+        {
+          "id": "d",
+          "text": "Submitted she the report?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Invert the auxiliary verb (Has) and the subject (she)."
+    },
+    {
+      "id": "ss-053",
+      "topic": "Questions & Inversion",
+      "prompt": "Convert to a Yes/No question: 'They can join the meeting.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Can they join the meeting?"
+        },
+        {
+          "id": "b",
+          "text": "Do they can join the meeting?"
+        },
+        {
+          "id": "c",
+          "text": "They can join the meeting?"
+        },
+        {
+          "id": "d",
+          "text": "Are they join the meeting?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Invert the modal verb (Can) and subject (they)."
+    },
+    {
+      "id": "ss-054",
+      "topic": "Questions & Inversion",
+      "prompt": "Form a Wh- question asking for place: 'You work (where)'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Where do you work?"
+        },
+        {
+          "id": "b",
+          "text": "Where you work?"
+        },
+        {
+          "id": "c",
+          "text": "Where work you?"
+        },
+        {
+          "id": "d",
+          "text": "Do where you work?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wh-word (Where) + Auxiliary (do) + Subject (you) + Verb (work)."
+    },
+    {
+      "id": "ss-055",
+      "topic": "Questions & Inversion",
+      "prompt": "Form a Wh- question: 'She has studied (what)'",
+      "options": [
+        {
+          "id": "a",
+          "text": "What has she studied?"
+        },
+        {
+          "id": "b",
+          "text": "What she has studied?"
+        },
+        {
+          "id": "c",
+          "text": "What studied she?"
+        },
+        {
+          "id": "d",
+          "text": "Has what she studied?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wh-word (What) + Auxiliary (has) + Subject (she) + Verb (studied)."
+    },
+    {
+      "id": "ss-056",
+      "topic": "Questions & Inversion",
+      "prompt": "Form a question where the Wh-word is the subject: '(Who) called you?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Who called you?"
+        },
+        {
+          "id": "b",
+          "text": "Who did call you?"
+        },
+        {
+          "id": "c",
+          "text": "Did who call you?"
+        },
+        {
+          "id": "d",
+          "text": "Who you called?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "When the Wh-word is the subject of the sentence, do not invert or use auxiliary 'do'."
+    },
+    {
+      "id": "ss-057",
+      "topic": "Questions & Inversion",
+      "prompt": "Which question is correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "When will they arrive?"
+        },
+        {
+          "id": "b",
+          "text": "When they will arrive?"
+        },
+        {
+          "id": "c",
+          "text": "When arrive will they?"
+        },
+        {
+          "id": "d",
+          "text": "Will when they arrive?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Wh-word (When) + Modal (will) + Subject (they) + Verb (arrive)."
+    },
+    {
+      "id": "ss-058",
+      "topic": "Questions & Inversion",
+      "prompt": "Convert to question with 'to be': 'He was at the office.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Was he at the office?"
+        },
+        {
+          "id": "b",
+          "text": "Did he be at the office?"
+        },
+        {
+          "id": "c",
+          "text": "He was at the office?"
+        },
+        {
+          "id": "d",
+          "text": "Were he at the office?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Invert 'was' and 'he' for 'to be' questions."
+    },
+    {
+      "id": "ss-059",
+      "topic": "Questions & Inversion",
+      "prompt": "Form a question where Wh-word is the subject: '(What) happened?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "What happened?"
+        },
+        {
+          "id": "b",
+          "text": "What did happen?"
+        },
+        {
+          "id": "c",
+          "text": "Did what happen?"
+        },
+        {
+          "id": "d",
+          "text": "What happened did?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'What' acts as subject, so standard SVO order is preserved without auxiliary 'did'."
+    },
+    {
+      "id": "ss-060",
+      "topic": "Questions & Inversion",
+      "prompt": "Choose the correct question format:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Are you ready?"
+        },
+        {
+          "id": "b",
+          "text": "You are ready?"
+        },
+        {
+          "id": "c",
+          "text": "Do you be ready?"
+        },
+        {
+          "id": "d",
+          "text": "Be you ready?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Invert 'Are' and 'you' for 'to be' questions."
+    },
+    {
+      "id": "ss-061",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Choose the correct word: 'The plan sounds ___.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "good"
+        },
+        {
+          "id": "b",
+          "text": "goodly"
+        },
+        {
+          "id": "c",
+          "text": "well (manner)"
+        },
+        {
+          "id": "d",
+          "text": "nicely"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Linking verbs like 'sounds' are followed by adjectives (good), not adverbs."
+    },
+    {
+      "id": "ss-062",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The project seems feasible."
+        },
+        {
+          "id": "b",
+          "text": "The project seems feasibly."
+        },
+        {
+          "id": "c",
+          "text": "The project seems feasibility."
+        },
+        {
+          "id": "d",
+          "text": "The project feasibly seems."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Seems' is a linking verb requiring an adjective complement (feasible)."
+    },
+    {
+      "id": "ss-063",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Which sentence uses a linking verb correctly?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He became a manager."
+        },
+        {
+          "id": "b",
+          "text": "He became managerly."
+        },
+        {
+          "id": "c",
+          "text": "He became managingly."
+        },
+        {
+          "id": "d",
+          "text": "He became to a manager."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Become' can take a noun complement ('a manager')."
+    },
+    {
+      "id": "ss-064",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Choose the correct option: 'This soup tastes ___.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "delicious"
+        },
+        {
+          "id": "b",
+          "text": "deliciously"
+        },
+        {
+          "id": "c",
+          "text": "with delicious"
+        },
+        {
+          "id": "d",
+          "text": "in deliciousness"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sensory linking verb 'tastes' requires an adjective ('delicious')."
+    },
+    {
+      "id": "ss-065",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Identify the sentence with a linking verb + adjective structure:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The proposal looks interesting."
+        },
+        {
+          "id": "b",
+          "text": "The proposal looks interestingly."
+        },
+        {
+          "id": "c",
+          "text": "The proposal interest looks."
+        },
+        {
+          "id": "d",
+          "text": "The proposal looks with interest."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Looks' functions as a linking verb followed by adjective 'interesting'."
+    },
+    {
+      "id": "ss-066",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "She feels confident about the interview."
+        },
+        {
+          "id": "b",
+          "text": "She feels confidently about the interview."
+        },
+        {
+          "id": "c",
+          "text": "She feels confidence about the interview."
+        },
+        {
+          "id": "d",
+          "text": "She confidently feels about the interview."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Sensory verb 'feels' takes adjective 'confident' describing the subject."
+    },
+    {
+      "id": "ss-067",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Choose the correct completion: 'The flowers smell ___.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "sweet"
+        },
+        {
+          "id": "b",
+          "text": "sweetly"
+        },
+        {
+          "id": "c",
+          "text": "sweetness"
+        },
+        {
+          "id": "d",
+          "text": "in sweet"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Smell' is a linking verb followed by adjective 'sweet'."
+    },
+    {
+      "id": "ss-068",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Which sentence contains a linking verb?",
+      "options": [
+        {
+          "id": "a",
+          "text": "He appeared calm during the crisis."
+        },
+        {
+          "id": "b",
+          "text": "He appeared suddenly at the door."
+        },
+        {
+          "id": "c",
+          "text": "He read the report carefully."
+        },
+        {
+          "id": "d",
+          "text": "He built a wooden table."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Appeared' here links subject 'He' to adjective 'calm'."
+    },
+    {
+      "id": "ss-069",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The performance was outstanding."
+        },
+        {
+          "id": "b",
+          "text": "The performance was outstandingly."
+        },
+        {
+          "id": "c",
+          "text": "The performance was in outstanding."
+        },
+        {
+          "id": "d",
+          "text": "The performance outstanding was."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Was' is a linking verb followed by adjective 'outstanding'."
+    },
+    {
+      "id": "ss-070",
+      "topic": "Linking Verbs & Complements",
+      "prompt": "Which sentence is INCORRECT?",
+      "options": [
+        {
+          "id": "a",
+          "text": "The music sounds loudly."
+        },
+        {
+          "id": "b",
+          "text": "The music sounds loud."
+        },
+        {
+          "id": "c",
+          "text": "The music sounds great."
+        },
+        {
+          "id": "d",
+          "text": "The music sounds soft."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Linking verb 'sounds' must be followed by an adjective (loud), not an adverb (loudly)."
+    },
+    {
+      "id": "ss-071",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Correct the French transfer error: 'I read carefully the text.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I read the text carefully."
+        },
+        {
+          "id": "b",
+          "text": "I read carefully the text."
+        },
+        {
+          "id": "c",
+          "text": "Carefully I text read."
+        },
+        {
+          "id": "d",
+          "text": "I the text read carefully."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In English, do not insert an adverb between the verb and its direct object."
+    },
+    {
+      "id": "ss-072",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Correct the French transfer error: 'She bought a car red.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She bought a red car."
+        },
+        {
+          "id": "b",
+          "text": "She bought a car red."
+        },
+        {
+          "id": "c",
+          "text": "A car red she bought."
+        },
+        {
+          "id": "d",
+          "text": "She red a car bought."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Adjectives precede the noun in English (unlike French where many follow the noun)."
+    },
+    {
+      "id": "ss-073",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Correct the question error: 'You do understand?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Do you understand?"
+        },
+        {
+          "id": "b",
+          "text": "You do understand?"
+        },
+        {
+          "id": "c",
+          "text": "Understand you?"
+        },
+        {
+          "id": "d",
+          "text": "You understand do?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Formal/standard English requires subject-auxiliary inversion in questions."
+    },
+    {
+      "id": "ss-074",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Correct the order: 'We met yesterday at the office.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "We met at the office yesterday."
+        },
+        {
+          "id": "b",
+          "text": "We met yesterday at the office."
+        },
+        {
+          "id": "c",
+          "text": "Yesterday at the office met we."
+        },
+        {
+          "id": "d",
+          "text": "We yesterday met at the office."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Standard English places Place before Time at the end of a sentence."
+    },
+    {
+      "id": "ss-075",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Identify the mistake in: 'He drives a car blue.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Adjective 'blue' should come before 'car'."
+        },
+        {
+          "id": "b",
+          "text": "Verb 'drives' should be at the end."
+        },
+        {
+          "id": "c",
+          "text": "Noun 'car' should be plural."
+        },
+        {
+          "id": "d",
+          "text": "No mistake."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In English, single color adjectives always go before the noun."
+    },
+    {
+      "id": "ss-076",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Fix the error: 'They discussed thoroughly the strategy.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "They discussed the strategy thoroughly."
+        },
+        {
+          "id": "b",
+          "text": "They thoroughly strategy discussed."
+        },
+        {
+          "id": "c",
+          "text": "They discussed thoroughly strategy."
+        },
+        {
+          "id": "d",
+          "text": "Thoroughly discussed they strategy."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "An adverb cannot break the connection between verb (discussed) and object (the strategy)."
+    },
+    {
+      "id": "ss-077",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Correct the sentence: 'We will have a meeting tomorrow in Saint-Marc.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "We will have a meeting in Saint-Marc tomorrow."
+        },
+        {
+          "id": "b",
+          "text": "We will have tomorrow a meeting in Saint-Marc."
+        },
+        {
+          "id": "c",
+          "text": "We tomorrow will have a meeting in Saint-Marc."
+        },
+        {
+          "id": "d",
+          "text": "In Saint-Marc tomorrow will have we a meeting."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Place (in Saint-Marc) comes before Time (tomorrow)."
+    },
+    {
+      "id": "ss-078",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Fix the question structure: 'You have finished the report?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Have you finished the report?"
+        },
+        {
+          "id": "b",
+          "text": "You have finished the report?"
+        },
+        {
+          "id": "c",
+          "text": "Finished you the report?"
+        },
+        {
+          "id": "d",
+          "text": "Have finished you the report?"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Invert auxiliary 'Have' and subject 'you' for formal written questions."
+    },
+    {
+      "id": "ss-079",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Fix the adjective order: 'She is an student intelligent.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She is an intelligent student."
+        },
+        {
+          "id": "b",
+          "text": "She is a student intelligent."
+        },
+        {
+          "id": "c",
+          "text": "She intelligent student is."
+        },
+        {
+          "id": "d",
+          "text": "An intelligent student she is."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The adjective 'intelligent' must come before the noun 'student'."
+    },
+    {
+      "id": "ss-080",
+      "topic": "French Speaker Common Errors",
+      "prompt": "Correct this sentence: 'I speak fluently English.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I speak English fluently."
+        },
+        {
+          "id": "b",
+          "text": "I speak fluently English."
+        },
+        {
+          "id": "c",
+          "text": "Fluently I English speak."
+        },
+        {
+          "id": "d",
+          "text": "I English speak fluently."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "The adverb 'fluently' must go after the object 'English', not between verb and object."
+    }
+  ]
+}

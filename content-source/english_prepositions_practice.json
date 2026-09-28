@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "category": "Simple Prepositions",
+    "question": "She lives ___ Port-au-Prince.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "to"
+    ],
+    "answer": "in",
+    "explanation": "'In' is used for cities, countries, and large geographic areas."
+  },
+  {
+    "id": 2,
+    "category": "Simple Prepositions",
+    "question": "The book is sitting ___ the table.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "into"
+    ],
+    "answer": "on",
+    "explanation": "'On' indicates position on a surface."
+  },
+  {
+    "id": 3,
+    "category": "Simple Prepositions",
+    "question": "We traveled to Cap-Haïtien ___ bus.",
+    "options": [
+      "with",
+      "by",
+      "in",
+      "on"
+    ],
+    "answer": "by",
+    "explanation": "'By' indicates the mode of transportation."
+  },
+  {
+    "id": 4,
+    "category": "Simple Prepositions",
+    "question": "He cut the rope ___ a sharp knife.",
+    "options": [
+      "by",
+      "with",
+      "from",
+      "at"
+    ],
+    "answer": "with",
+    "explanation": "'With' is used for tools or instruments used to perform an action."
+  },
+  {
+    "id": 5,
+    "category": "Simple Prepositions",
+    "question": "The cat hid ___ the bed during the thunderstorm.",
+    "options": [
+      "under",
+      "between",
+      "over",
+      "into"
+    ],
+    "answer": "under",
+    "explanation": "'Under' means directly below or covered by something."
+  },
+  {
+    "id": 6,
+    "category": "Compound Prepositions",
+    "question": "___ the forecast, it will rain tomorrow afternoon.",
+    "options": [
+      "According to",
+      "In spite of",
+      "Instead of",
+      "Because of"
+    ],
+    "answer": "According to",
+    "explanation": "'According to' means as stated or reported by someone/something."
+  },
+  {
+    "id": 7,
+    "category": "Compound Prepositions",
+    "question": "She succeeded ___ all the difficulties she faced.",
+    "options": [
+      "because of",
+      "in spite of",
+      "due to",
+      "in place of"
+    ],
+    "answer": "in spite of",
+    "explanation": "'In spite of' means regardless of or despite the obstacles."
+  },
+  {
+    "id": 8,
+    "category": "Compound Prepositions",
+    "question": "The outdoor game was canceled ___ heavy rain.",
+    "options": [
+      "because of",
+      "instead of",
+      "in front of",
+      "according to"
+    ],
+    "answer": "because of",
+    "explanation": "'Because of' indicates the reason or cause for something."
+  },
+  {
+    "id": 9,
+    "category": "Compound Prepositions",
+    "question": "There is a large oak tree ___ our house.",
+    "options": [
+      "in front of",
+      "in spite of",
+      "on behalf of",
+      "by means of"
+    ],
+    "answer": "in front of",
+    "explanation": "'In front of' indicates position directly ahead of something."
+  },
+  {
+    "id": 10,
+    "category": "Compound Prepositions",
+    "question": "The lawyer spoke ___ the entire community at the hearing.",
+    "options": [
+      "on behalf of",
+      "in charge of",
+      "instead of",
+      "out of"
+    ],
+    "answer": "on behalf of",
+    "explanation": "'On behalf of' means representing or as a representative of someone."
+  },
+  {
+    "id": 11,
+    "category": "Compound Prepositions",
+    "question": "Who is currently ___ this department?",
+    "options": [
+      "in charge of",
+      "in comparison with",
+      "in addition to",
+      "in contact with"
+    ],
+    "answer": "in charge of",
+    "explanation": "'In charge of' means having responsibility or authority over something."
+  },
+  {
+    "id": 12,
+    "category": "Compound Prepositions",
+    "question": "She ordered tea ___ coffee.",
+    "options": [
+      "instead of",
+      "in place of",
+      "ahead of",
+      "next to"
+    ],
+    "answer": "instead of",
+    "explanation": "'Instead of' means in place of or as an alternative to."
+  },
+  {
+    "id": 13,
+    "category": "Compound Prepositions",
+    "question": "___ your request, we have updated the document.",
+    "options": [
+      "With regard to",
+      "In spite of",
+      "Out of",
+      "On top of"
+    ],
+    "answer": "With regard to",
+    "explanation": "'With regard to' means concerning or in connection with."
+  },
+  {
+    "id": 14,
+    "category": "Prepositions of Time",
+    "question": "The meeting is scheduled to begin ___ 9:00 a.m.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "answer": "at",
+    "explanation": "'At' is used for exact clock times."
+  },
+  {
+    "id": 15,
+    "category": "Prepositions of Time",
+    "question": "Her birthday falls ___ Monday this year.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "for"
+    ],
+    "answer": "on",
+    "explanation": "'On' is used for days of the week and specific dates."
+  },
+  {
+    "id": 16,
+    "category": "Prepositions of Time",
+    "question": "The new project will launch ___ January.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "since"
+    ],
+    "answer": "in",
+    "explanation": "'In' is used for months, years, centuries, and seasons."
+  },
+  {
+    "id": 17,
+    "category": "Prepositions of Time",
+    "question": "Please submit your completed assignment ___ Friday afternoon.",
+    "options": [
+      "by",
+      "until",
+      "for",
+      "since"
+    ],
+    "answer": "by",
+    "explanation": "'By' means not later than a specific target deadline."
+  },
+  {
+    "id": 18,
+    "category": "Prepositions of Time",
+    "question": "They have lived in this city ___ 2020.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "until"
+    ],
+    "answer": "since",
+    "explanation": "'Since' refers to a specific starting point in time up to the present."
+  },
+  {
+    "id": 19,
+    "category": "Prepositions of Time",
+    "question": "He stayed at the library ___ three hours.",
+    "options": [
+      "for",
+      "since",
+      "during",
+      "within"
+    ],
+    "answer": "for",
+    "explanation": "'For' measures the total duration of time."
+  },
+  {
+    "id": 20,
+    "category": "Prepositions of Time",
+    "question": "Many people fell asleep ___ the long lecture.",
+    "options": [
+      "during",
+      "for",
+      "since",
+      "while"
+    ],
+    "answer": "during",
+    "explanation": "'During' indicates that an action happened throughout a period of time."
+  },
+  {
+    "id": 21,
+    "category": "Prepositions of Time",
+    "question": "Please stay here ___ I return.",
+    "options": [
+      "until",
+      "by",
+      "since",
+      "during"
+    ],
+    "answer": "until",
+    "explanation": "'Until' means up to a certain point in time."
+  },
+  {
+    "id": 22,
+    "category": "Prepositions of Time",
+    "question": "The office is open ___ 8:00 a.m. to 4:00 p.m.",
+    "options": [
+      "from",
+      "since",
+      "between",
+      "within"
+    ],
+    "answer": "from",
+    "explanation": "'From...to' marks the start and end of a time span."
+  },
+  {
+    "id": 23,
+    "category": "Prepositions of Time",
+    "question": "You should receive a reply ___ 24 hours.",
+    "options": [
+      "within",
+      "by",
+      "until",
+      "during"
+    ],
+    "answer": "within",
+    "explanation": "'Within' means inside a specified time frame."
+  },
+  {
+    "id": 24,
+    "category": "Prepositions of Time",
+    "question": "Make sure to lock the doors ___ leaving.",
+    "options": [
+      "before",
+      "after",
+      "during",
+      "until"
+    ],
+    "answer": "before",
+    "explanation": "'Before' indicates prior to a specific event or action."
+  },
+  {
+    "id": 25,
+    "category": "Prepositions of Place",
+    "question": "We agreed to meet ___ the entrance of the theater.",
+    "options": [
+      "at",
+      "in",
+      "on",
+      "over"
+    ],
+    "answer": "at",
+    "explanation": "'At' is used for specific points, addresses, or meeting places."
+  },
+  {
+    "id": 26,
+    "category": "Prepositions of Place",
+    "question": "There is a gorgeous painting ___ the living room wall.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "above"
+    ],
+    "answer": "on",
+    "explanation": "'On' is used for surfaces like walls, floors, and tables."
+  },
+  {
+    "id": 27,
+    "category": "Prepositions of Place",
+    "question": "She works ___ a hospital downtown.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "onto"
+    ],
+    "answer": "in",
+    "explanation": "'In' is used for enclosed spaces or buildings."
+  },
+  {
+    "id": 28,
+    "category": "Prepositions of Place",
+    "question": "The mirror hangs ___ the sink.",
+    "options": [
+      "above",
+      "on",
+      "in",
+      "between"
+    ],
+    "answer": "above",
+    "explanation": "'Above' means higher than something without direct surface contact."
+  },
+  {
+    "id": 29,
+    "category": "Prepositions of Place",
+    "question": "The temperature dropped ___ freezing last night.",
+    "options": [
+      "below",
+      "under",
+      "beneath",
+      "down"
+    ],
+    "answer": "below",
+    "explanation": "'Below' means lower than a specific reference level or measurement."
+  },
+  {
+    "id": 30,
+    "category": "Prepositions of Place",
+    "question": "The pharmacy is right ___ the bakery.",
+    "options": [
+      "next to",
+      "among",
+      "between",
+      "inside"
+    ],
+    "answer": "next to",
+    "explanation": "'Next to' means beside or adjacent to something."
+  },
+  {
+    "id": 31,
+    "category": "Prepositions of Place",
+    "question": "She sat ___ her two best friends.",
+    "options": [
+      "between",
+      "among",
+      "against",
+      "around"
+    ],
+    "answer": "between",
+    "explanation": "'Between' is used when position is in the middle of two distinct entities."
+  },
+  {
+    "id": 32,
+    "category": "Prepositions of Place",
+    "question": "The tourist was walking ___ the crowd at the market.",
+    "options": [
+      "among",
+      "between",
+      "opposite",
+      "beneath"
+    ],
+    "answer": "among",
+    "explanation": "'Among' is used when situated in the middle of a group of more than two."
+  },
+  {
+    "id": 33,
+    "category": "Prepositions of Place",
+    "question": "The restaurant is situated directly ___ the bank across the street.",
+    "options": [
+      "opposite",
+      "next to",
+      "between",
+      "behind"
+    ],
+    "answer": "opposite",
+    "explanation": "'Opposite' means facing something on the other side."
+  },
+  {
+    "id": 34,
+    "category": "Prepositions of Place",
+    "question": "Lean the ladder ___ the wall carefully.",
+    "options": [
+      "against",
+      "on",
+      "above",
+      "across"
+    ],
+    "answer": "against",
+    "explanation": "'Against' means touching and supported by a surface."
+  },
+  {
+    "id": 35,
+    "category": "Prepositions of Place",
+    "question": "They walked ___ the park to enjoy the trees.",
+    "options": [
+      "around",
+      "against",
+      "between",
+      "beneath"
+    ],
+    "answer": "around",
+    "explanation": "'Around' means surrounding or moving through various parts of an area."
+  },
+  {
+    "id": 36,
+    "category": "Prepositions of Movement",
+    "question": "She walked straight ___ the classroom and took a seat.",
+    "options": [
+      "into",
+      "in",
+      "on",
+      "onto"
+    ],
+    "answer": "into",
+    "explanation": "'Into' shows movement entering an enclosed space from outside."
+  },
+  {
+    "id": 37,
+    "category": "Prepositions of Movement",
+    "question": "He took his keys ___ his pocket.",
+    "options": [
+      "out of",
+      "off",
+      "from",
+      "down"
+    ],
+    "answer": "out of",
+    "explanation": "'Out of' shows movement leaving the interior of something."
+  },
+  {
+    "id": 38,
+    "category": "Prepositions of Movement",
+    "question": "The dog jumped ___ the fence into the neighboring yard.",
+    "options": [
+      "over",
+      "under",
+      "through",
+      "across"
+    ],
+    "answer": "over",
+    "explanation": "'Over' indicates movement directly above or across a barrier."
+  },
+  {
+    "id": 39,
+    "category": "Prepositions of Movement",
+    "question": "We drove ___ a dark tunnel under the mountain.",
+    "options": [
+      "through",
+      "across",
+      "along",
+      "past"
+    ],
+    "answer": "through",
+    "explanation": "'Through' denotes movement inside a three-dimensional space or passageway."
+  },
+  {
+    "id": 40,
+    "category": "Prepositions of Movement",
+    "question": "They walked ___ the beach as the sun was setting.",
+    "options": [
+      "along",
+      "across",
+      "through",
+      "into"
+    ],
+    "answer": "along",
+    "explanation": "'Along' means moving in a line following the edge or length of something."
+  },
+  {
+    "id": 41,
+    "category": "Prepositions of Movement",
+    "question": "He ran ___ the street to catch the bus.",
+    "options": [
+      "across",
+      "through",
+      "along",
+      "into"
+    ],
+    "answer": "across",
+    "explanation": "'Across' means moving from one side of a surface to the other."
+  },
+  {
+    "id": 42,
+    "category": "Prepositions of Movement",
+    "question": "The cat leaped ___ the high kitchen counter.",
+    "options": [
+      "onto",
+      "on",
+      "into",
+      "to"
+    ],
+    "answer": "onto",
+    "explanation": "'Onto' shows movement to a position on a surface."
+  },
+  {
+    "id": 43,
+    "category": "Prepositions of Movement",
+    "question": "An apple fell ___ the tree branch.",
+    "options": [
+      "off",
+      "out of",
+      "down",
+      "from"
+    ],
+    "answer": "off",
+    "explanation": "'Off' indicates movement away from a surface or position."
+  },
+  {
+    "id": 44,
+    "category": "Prepositions of Movement",
+    "question": "She walked right ___ the store without stopping.",
+    "options": [
+      "past",
+      "through",
+      "along",
+      "across"
+    ],
+    "answer": "past",
+    "explanation": "'Past' means going by a specific location without stopping."
+  },
+  {
+    "id": 45,
+    "category": "Prepositions of Movement",
+    "question": "They were walking ___ the beach toward the lighthouse.",
+    "options": [
+      "toward",
+      "into",
+      "onto",
+      "past"
+    ],
+    "answer": "toward",
+    "explanation": "'Toward' indicates direction of movement."
+  },
+  {
+    "id": 46,
+    "category": "Prepositions of Manner",
+    "question": "I sent the final report ___ email this morning.",
+    "options": [
+      "by",
+      "with",
+      "in",
+      "through"
+    ],
+    "answer": "by",
+    "explanation": "'By' indicates the method, means, or medium of communication."
+  },
+  {
+    "id": 47,
+    "category": "Prepositions of Manner",
+    "question": "She signed the official document ___ a blue pen.",
+    "options": [
+      "with",
+      "by",
+      "in",
+      "from"
+    ],
+    "answer": "with",
+    "explanation": "'With' is used when describing the tool or instrument used."
+  },
+  {
+    "id": 48,
+    "category": "Prepositions of Manner",
+    "question": "Please present your main findings ___ English.",
+    "options": [
+      "in",
+      "by",
+      "with",
+      "as"
+    ],
+    "answer": "in",
+    "explanation": "'In' is used to specify language, style, or format."
+  },
+  {
+    "id": 49,
+    "category": "Prepositions of Manner",
+    "question": "He runs fast, almost ___ a professional athlete.",
+    "options": [
+      "like",
+      "as",
+      "with",
+      "in"
+    ],
+    "answer": "like",
+    "explanation": "'Like' expresses similarity in comparisons."
+  },
+  {
+    "id": 50,
+    "category": "Prepositions of Manner",
+    "question": "She works ___ a senior business analyst at the firm.",
+    "options": [
+      "as",
+      "like",
+      "in",
+      "with"
+    ],
+    "answer": "as",
+    "explanation": "'As' denotes a specific role, function, or job position."
+  },
+  {
+    "id": 51,
+    "category": "Prepositions of Manner",
+    "question": "He left the meeting room ___ saying a word.",
+    "options": [
+      "without",
+      "against",
+      "by",
+      "off"
+    ],
+    "answer": "without",
+    "explanation": "'Without' indicates the absence or lack of an action or object."
+  },
+  {
+    "id": 52,
+    "category": "Prepositions of Cause / Reason",
+    "question": "The flight was delayed ___ technical difficulties.",
+    "options": [
+      "due to",
+      "because",
+      "from",
+      "through"
+    ],
+    "answer": "due to",
+    "explanation": "'Due to' means caused by and often follows forms of the verb 'be'."
+  },
+  {
+    "id": 53,
+    "category": "Prepositions of Cause / Reason",
+    "question": "___ severe weather, the concert had to be postponed.",
+    "options": [
+      "Owing to",
+      "Because",
+      "From",
+      "By"
+    ],
+    "answer": "Owing to",
+    "explanation": "'Owing to' is a formal prepositional phrase meaning because of."
+  },
+  {
+    "id": 54,
+    "category": "Prepositions of Cause / Reason",
+    "question": "The child was trembling ___ fear during the storm.",
+    "options": [
+      "from",
+      "with",
+      "out",
+      "by"
+    ],
+    "answer": "from",
+    "explanation": "'From' expresses cause linked to emotions or physical reactions."
+  },
+  {
+    "id": 55,
+    "category": "Prepositions of Cause / Reason",
+    "question": "She achieved success ___ sheer determination and hard work.",
+    "options": [
+      "through",
+      "due to",
+      "from",
+      "owing to"
+    ],
+    "answer": "through",
+    "explanation": "'Through' signifies achieving a result by means of something."
+  },
+  {
+    "id": 56,
+    "category": "Prepositions of Cause / Reason",
+    "question": "The store was closed early ___ the emergency lockdown.",
+    "options": [
+      "on account of",
+      "owing",
+      "through",
+      "from"
+    ],
+    "answer": "on account of",
+    "explanation": "'On account of' means because of (used in formal contexts)."
+  },
+  {
+    "id": 57,
+    "category": "Prepositions of Place",
+    "question": "The garden is hidden ___ the building.",
+    "options": [
+      "behind",
+      "below",
+      "under",
+      "beneath"
+    ],
+    "answer": "behind",
+    "explanation": "'Behind' means at the back of something."
+  },
+  {
+    "id": 58,
+    "category": "Prepositions of Time",
+    "question": "We usually visit our family ___ Christmas.",
+    "options": [
+      "at",
+      "on",
+      "in",
+      "by"
+    ],
+    "answer": "at",
+    "explanation": "'At' is used for holiday periods as a whole (e.g., at Christmas, at the weekend)."
+  },
+  {
+    "id": 59,
+    "category": "Prepositions of Place",
+    "question": "We spent our vacation ___ an island in the Caribbean.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "inside"
+    ],
+    "answer": "on",
+    "explanation": "'On' is used when referring to being on an island surface."
+  },
+  {
+    "id": 60,
+    "category": "Compound Prepositions",
+    "question": "They were forced to move ___ unforeseen circumstances.",
+    "options": [
+      "in view of",
+      "next to",
+      "in spite of",
+      "together with"
+    ],
+    "answer": "in view of",
+    "explanation": "'In view of' means considering or taking into account a circumstance."
+  }
+]

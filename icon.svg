@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="t">
+  <title id="t">English_GA</title>
+  <!-- App icon: the logo mark (logo.svg without the wordmark) on a white rounded tile -->
+  <rect width="256" height="256" rx="56" fill="#ffffff"/>
+  <g transform="translate(23 47)">
+    <path fill="#0b2a5b" d="M30 12H100V32H53V52H90V71H53V90H80C95 90 104 100 104 114V126C99 115 92 110 82 110H30Z"/>
+    <path fill="none" stroke="#1570ef" stroke-width="17" d="M112 76A34 34 0 1 1 177 64V126"/>
+    <path fill="none" stroke="#1570ef" stroke-width="15" stroke-linejoin="round" d="M104 130L148 72L178 102"/>
+    <path fill="none" stroke="#1570ef" stroke-width="12" d="M124 106H180"/>
+    <path fill="none" stroke="#ffffff" stroke-width="17" stroke-linecap="round" stroke-linejoin="round" d="M95 72L109 86L140 56"/>
+    <path fill="none" stroke="#1fc3b3" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" d="M95 72L109 86L140 56"/>
+    <g id="half">
+      <path fill="#0b2a5b" d="M105 150C85 138 50 133 10 137L8 126C48 120 84 125 105 138Z"/>
+      <path fill="#1570ef" d="M105 139C84 127 50 122 15 125L17 115C52 111 86 116 105 129Z"/>
+      <path fill="#dbe4f1" d="M105 129C86 117 56 112 24 114L28 105C58 103 88 108 105 120Z"/>
+    </g>
+    <use href="#half" transform="translate(210 0) scale(-1 1)"/>
+  </g>
+</svg>

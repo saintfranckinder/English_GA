@@ -1,0 +1,1557 @@
+{
+  "id": "prepositions",
+  "title": "Prepositions",
+  "status": "active",
+  "source": "content-source/english_prepositions_practice.json",
+  "questions": [
+    {
+      "id": "prep-001",
+      "topic": "Simple Prepositions",
+      "prompt": "She lives ___ Port-au-Prince.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In' is used for cities, countries, and large geographic areas."
+    },
+    {
+      "id": "prep-002",
+      "topic": "Simple Prepositions",
+      "prompt": "The book is sitting ___ the table.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "into"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'On' indicates position on a surface."
+    },
+    {
+      "id": "prep-003",
+      "topic": "Simple Prepositions",
+      "prompt": "We traveled to Cap-Haïtien ___ bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "with"
+        },
+        {
+          "id": "b",
+          "text": "by"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "on"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'By' indicates the mode of transportation."
+    },
+    {
+      "id": "prep-004",
+      "topic": "Simple Prepositions",
+      "prompt": "He cut the rope ___ a sharp knife.",
+      "options": [
+        {
+          "id": "a",
+          "text": "by"
+        },
+        {
+          "id": "b",
+          "text": "with"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'With' is used for tools or instruments used to perform an action."
+    },
+    {
+      "id": "prep-005",
+      "topic": "Simple Prepositions",
+      "prompt": "The cat hid ___ the bed during the thunderstorm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "under"
+        },
+        {
+          "id": "b",
+          "text": "between"
+        },
+        {
+          "id": "c",
+          "text": "over"
+        },
+        {
+          "id": "d",
+          "text": "into"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Under' means directly below or covered by something."
+    },
+    {
+      "id": "prep-006",
+      "topic": "Compound Prepositions",
+      "prompt": "___ the forecast, it will rain tomorrow afternoon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "According to"
+        },
+        {
+          "id": "b",
+          "text": "In spite of"
+        },
+        {
+          "id": "c",
+          "text": "Instead of"
+        },
+        {
+          "id": "d",
+          "text": "Because of"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'According to' means as stated or reported by someone/something."
+    },
+    {
+      "id": "prep-007",
+      "topic": "Compound Prepositions",
+      "prompt": "She succeeded ___ all the difficulties she faced.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because of"
+        },
+        {
+          "id": "b",
+          "text": "in spite of"
+        },
+        {
+          "id": "c",
+          "text": "due to"
+        },
+        {
+          "id": "d",
+          "text": "in place of"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'In spite of' means regardless of or despite the obstacles."
+    },
+    {
+      "id": "prep-008",
+      "topic": "Compound Prepositions",
+      "prompt": "The outdoor game was canceled ___ heavy rain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "because of"
+        },
+        {
+          "id": "b",
+          "text": "instead of"
+        },
+        {
+          "id": "c",
+          "text": "in front of"
+        },
+        {
+          "id": "d",
+          "text": "according to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Because of' indicates the reason or cause for something."
+    },
+    {
+      "id": "prep-009",
+      "topic": "Compound Prepositions",
+      "prompt": "There is a large oak tree ___ our house.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in front of"
+        },
+        {
+          "id": "b",
+          "text": "in spite of"
+        },
+        {
+          "id": "c",
+          "text": "on behalf of"
+        },
+        {
+          "id": "d",
+          "text": "by means of"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In front of' indicates position directly ahead of something."
+    },
+    {
+      "id": "prep-010",
+      "topic": "Compound Prepositions",
+      "prompt": "The lawyer spoke ___ the entire community at the hearing.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on behalf of"
+        },
+        {
+          "id": "b",
+          "text": "in charge of"
+        },
+        {
+          "id": "c",
+          "text": "instead of"
+        },
+        {
+          "id": "d",
+          "text": "out of"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'On behalf of' means representing or as a representative of someone."
+    },
+    {
+      "id": "prep-011",
+      "topic": "Compound Prepositions",
+      "prompt": "Who is currently ___ this department?",
+      "options": [
+        {
+          "id": "a",
+          "text": "in charge of"
+        },
+        {
+          "id": "b",
+          "text": "in comparison with"
+        },
+        {
+          "id": "c",
+          "text": "in addition to"
+        },
+        {
+          "id": "d",
+          "text": "in contact with"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In charge of' means having responsibility or authority over something."
+    },
+    {
+      "id": "prep-012",
+      "topic": "Compound Prepositions",
+      "prompt": "She ordered tea ___ coffee.",
+      "options": [
+        {
+          "id": "a",
+          "text": "instead of"
+        },
+        {
+          "id": "b",
+          "text": "in front of"
+        },
+        {
+          "id": "c",
+          "text": "ahead of"
+        },
+        {
+          "id": "d",
+          "text": "next to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Instead of' means in place of or as an alternative to.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'In place of' can also express substitution ('someone else in my place'), so it competed with 'instead of'. Replaced that distractor with 'in front of'.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/instead"
+        ]
+      }
+    },
+    {
+      "id": "prep-013",
+      "topic": "Compound Prepositions",
+      "prompt": "___ your request, we have updated the document.",
+      "options": [
+        {
+          "id": "a",
+          "text": "With regard to"
+        },
+        {
+          "id": "b",
+          "text": "In spite of"
+        },
+        {
+          "id": "c",
+          "text": "Out of"
+        },
+        {
+          "id": "d",
+          "text": "On top of"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'With regard to' means concerning or in connection with."
+    },
+    {
+      "id": "prep-014",
+      "topic": "Prepositions of Time",
+      "prompt": "The meeting is scheduled to begin ___ 9:00 a.m.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "by"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'At' is used for exact clock times."
+    },
+    {
+      "id": "prep-015",
+      "topic": "Prepositions of Time",
+      "prompt": "Her birthday falls ___ Monday this year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "for"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'On' is used for days of the week and specific dates."
+    },
+    {
+      "id": "prep-016",
+      "topic": "Prepositions of Time",
+      "prompt": "The new project will launch ___ January.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "at"
+        },
+        {
+          "id": "d",
+          "text": "since"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In' is used for months, years, centuries, and seasons."
+    },
+    {
+      "id": "prep-017",
+      "topic": "Prepositions of Time",
+      "prompt": "Please submit your completed assignment ___ Friday afternoon.",
+      "options": [
+        {
+          "id": "a",
+          "text": "by"
+        },
+        {
+          "id": "b",
+          "text": "until"
+        },
+        {
+          "id": "c",
+          "text": "for"
+        },
+        {
+          "id": "d",
+          "text": "since"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'By' means not later than a specific target deadline."
+    },
+    {
+      "id": "prep-018",
+      "topic": "Prepositions of Time",
+      "prompt": "They have lived in this city ___ 2020.",
+      "options": [
+        {
+          "id": "a",
+          "text": "since"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "until"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Since' refers to a specific starting point in time up to the present."
+    },
+    {
+      "id": "prep-019",
+      "topic": "Prepositions of Time",
+      "prompt": "He stayed at the library ___ three hours.",
+      "options": [
+        {
+          "id": "a",
+          "text": "for"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "within"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'For' measures the total duration of time."
+    },
+    {
+      "id": "prep-020",
+      "topic": "Prepositions of Time",
+      "prompt": "Many people fell asleep ___ the long lecture.",
+      "options": [
+        {
+          "id": "a",
+          "text": "during"
+        },
+        {
+          "id": "b",
+          "text": "for"
+        },
+        {
+          "id": "c",
+          "text": "since"
+        },
+        {
+          "id": "d",
+          "text": "while"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'During' indicates that an action happened throughout a period of time."
+    },
+    {
+      "id": "prep-021",
+      "topic": "Prepositions of Time",
+      "prompt": "Please stay here ___ I return.",
+      "options": [
+        {
+          "id": "a",
+          "text": "until"
+        },
+        {
+          "id": "b",
+          "text": "by"
+        },
+        {
+          "id": "c",
+          "text": "since"
+        },
+        {
+          "id": "d",
+          "text": "during"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Until' means up to a certain point in time."
+    },
+    {
+      "id": "prep-022",
+      "topic": "Prepositions of Time",
+      "prompt": "The office is open ___ 8:00 a.m. to 4:00 p.m.",
+      "options": [
+        {
+          "id": "a",
+          "text": "from"
+        },
+        {
+          "id": "b",
+          "text": "since"
+        },
+        {
+          "id": "c",
+          "text": "between"
+        },
+        {
+          "id": "d",
+          "text": "within"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'From...to' marks the start and end of a time span."
+    },
+    {
+      "id": "prep-023",
+      "topic": "Prepositions of Time",
+      "prompt": "You should receive a reply ___ 24 hours.",
+      "options": [
+        {
+          "id": "a",
+          "text": "within"
+        },
+        {
+          "id": "b",
+          "text": "by"
+        },
+        {
+          "id": "c",
+          "text": "until"
+        },
+        {
+          "id": "d",
+          "text": "during"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Within' means inside a specified time frame."
+    },
+    {
+      "id": "prep-024",
+      "topic": "Prepositions of Time",
+      "prompt": "Make sure to lock the doors ___ leaving.",
+      "options": [
+        {
+          "id": "a",
+          "text": "before"
+        },
+        {
+          "id": "b",
+          "text": "after"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "until"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Before' indicates prior to a specific event or action."
+    },
+    {
+      "id": "prep-025",
+      "topic": "Prepositions of Place",
+      "prompt": "We agreed to meet ___ the entrance of the theater.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "over"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'At' is used for specific points, addresses, or meeting places."
+    },
+    {
+      "id": "prep-026",
+      "topic": "Prepositions of Place",
+      "prompt": "There is a gorgeous painting ___ the living room wall.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "above"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'On' is used for surfaces like walls, floors, and tables."
+    },
+    {
+      "id": "prep-027",
+      "topic": "Prepositions of Place",
+      "prompt": "She works ___ a hospital downtown.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "into"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "onto"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In' is used for enclosed spaces or buildings.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Longman's example 'Lucy works as a nurse at the local hospital' shows 'at' is also correct. Replaced distractor 'at' with 'into'.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/hospital"
+        ]
+      }
+    },
+    {
+      "id": "prep-028",
+      "topic": "Prepositions of Place",
+      "prompt": "The mirror hangs ___ the sink.",
+      "options": [
+        {
+          "id": "a",
+          "text": "above"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "between"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Above' means higher than something without direct surface contact."
+    },
+    {
+      "id": "prep-029",
+      "topic": "Prepositions of Place",
+      "prompt": "The temperature dropped ___ freezing last night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "below"
+        },
+        {
+          "id": "b",
+          "text": "under"
+        },
+        {
+          "id": "c",
+          "text": "beneath"
+        },
+        {
+          "id": "d",
+          "text": "down"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Below' means lower than a specific reference level or measurement."
+    },
+    {
+      "id": "prep-030",
+      "topic": "Prepositions of Place",
+      "prompt": "The pharmacy is right ___ the bakery.",
+      "options": [
+        {
+          "id": "a",
+          "text": "next to"
+        },
+        {
+          "id": "b",
+          "text": "among"
+        },
+        {
+          "id": "c",
+          "text": "between"
+        },
+        {
+          "id": "d",
+          "text": "inside"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Next to' means beside or adjacent to something."
+    },
+    {
+      "id": "prep-031",
+      "topic": "Prepositions of Place",
+      "prompt": "She sat ___ her two best friends.",
+      "options": [
+        {
+          "id": "a",
+          "text": "between"
+        },
+        {
+          "id": "b",
+          "text": "among"
+        },
+        {
+          "id": "c",
+          "text": "against"
+        },
+        {
+          "id": "d",
+          "text": "around"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Between' is used when position is in the middle of two distinct entities."
+    },
+    {
+      "id": "prep-032",
+      "topic": "Prepositions of Place",
+      "prompt": "The tourist was walking ___ the crowd at the market.",
+      "options": [
+        {
+          "id": "a",
+          "text": "among"
+        },
+        {
+          "id": "b",
+          "text": "between"
+        },
+        {
+          "id": "c",
+          "text": "opposite"
+        },
+        {
+          "id": "d",
+          "text": "beneath"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Among' is used when situated in the middle of a group of more than two."
+    },
+    {
+      "id": "prep-033",
+      "topic": "Prepositions of Place",
+      "prompt": "The restaurant is situated directly ___ the bank across the street.",
+      "options": [
+        {
+          "id": "a",
+          "text": "opposite"
+        },
+        {
+          "id": "b",
+          "text": "next to"
+        },
+        {
+          "id": "c",
+          "text": "between"
+        },
+        {
+          "id": "d",
+          "text": "behind"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Opposite' means facing something on the other side."
+    },
+    {
+      "id": "prep-034",
+      "topic": "Prepositions of Place",
+      "prompt": "Lean the ladder ___ the wall carefully.",
+      "options": [
+        {
+          "id": "a",
+          "text": "against"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "above"
+        },
+        {
+          "id": "d",
+          "text": "across"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Against' means touching and supported by a surface."
+    },
+    {
+      "id": "prep-035",
+      "topic": "Prepositions of Place",
+      "prompt": "They walked ___ the park to enjoy the trees.",
+      "options": [
+        {
+          "id": "a",
+          "text": "around"
+        },
+        {
+          "id": "b",
+          "text": "against"
+        },
+        {
+          "id": "c",
+          "text": "between"
+        },
+        {
+          "id": "d",
+          "text": "beneath"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Around' means surrounding or moving through various parts of an area."
+    },
+    {
+      "id": "prep-036",
+      "topic": "Prepositions of Movement",
+      "prompt": "She walked straight ___ the classroom and took a seat.",
+      "options": [
+        {
+          "id": "a",
+          "text": "into"
+        },
+        {
+          "id": "b",
+          "text": "in"
+        },
+        {
+          "id": "c",
+          "text": "on"
+        },
+        {
+          "id": "d",
+          "text": "onto"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Into' shows movement entering an enclosed space from outside."
+    },
+    {
+      "id": "prep-037",
+      "topic": "Prepositions of Movement",
+      "prompt": "He took his keys ___ his pocket.",
+      "options": [
+        {
+          "id": "a",
+          "text": "out of"
+        },
+        {
+          "id": "b",
+          "text": "off"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "down"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Out of' shows movement leaving the interior of something."
+    },
+    {
+      "id": "prep-038",
+      "topic": "Prepositions of Movement",
+      "prompt": "The dog jumped ___ the fence into the neighboring yard.",
+      "options": [
+        {
+          "id": "a",
+          "text": "over"
+        },
+        {
+          "id": "b",
+          "text": "under"
+        },
+        {
+          "id": "c",
+          "text": "through"
+        },
+        {
+          "id": "d",
+          "text": "across"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Over' indicates movement directly above or across a barrier."
+    },
+    {
+      "id": "prep-039",
+      "topic": "Prepositions of Movement",
+      "prompt": "We drove ___ a dark tunnel under the mountain.",
+      "options": [
+        {
+          "id": "a",
+          "text": "through"
+        },
+        {
+          "id": "b",
+          "text": "across"
+        },
+        {
+          "id": "c",
+          "text": "along"
+        },
+        {
+          "id": "d",
+          "text": "past"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Through' denotes movement inside a three-dimensional space or passageway."
+    },
+    {
+      "id": "prep-040",
+      "topic": "Prepositions of Movement",
+      "prompt": "They walked ___ the beach as the sun was setting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "along"
+        },
+        {
+          "id": "b",
+          "text": "across"
+        },
+        {
+          "id": "c",
+          "text": "through"
+        },
+        {
+          "id": "d",
+          "text": "into"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Along' means moving in a line following the edge or length of something."
+    },
+    {
+      "id": "prep-041",
+      "topic": "Prepositions of Movement",
+      "prompt": "He ran ___ the street to catch the bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "across"
+        },
+        {
+          "id": "b",
+          "text": "through"
+        },
+        {
+          "id": "c",
+          "text": "along"
+        },
+        {
+          "id": "d",
+          "text": "into"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Across' means moving from one side of a surface to the other."
+    },
+    {
+      "id": "prep-042",
+      "topic": "Prepositions of Movement",
+      "prompt": "The cat leaped ___ the high kitchen counter.",
+      "options": [
+        {
+          "id": "a",
+          "text": "onto"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "into"
+        },
+        {
+          "id": "d",
+          "text": "to"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Onto' shows movement to a position on a surface."
+    },
+    {
+      "id": "prep-043",
+      "topic": "Prepositions of Movement",
+      "prompt": "An apple fell ___ the tree branch.",
+      "options": [
+        {
+          "id": "a",
+          "text": "off"
+        },
+        {
+          "id": "b",
+          "text": "out of"
+        },
+        {
+          "id": "c",
+          "text": "during"
+        },
+        {
+          "id": "d",
+          "text": "at"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Off' indicates movement away from a surface or position.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'An apple fell from the tree branch' is also correct, and 'fell down the tree branch' can be read as movement along it. Replaced both distractors; 'off' (removed from a surface, as in Longman's 'his hat fell off') stays the key.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/off"
+        ]
+      }
+    },
+    {
+      "id": "prep-044",
+      "topic": "Prepositions of Movement",
+      "prompt": "She walked right ___ the store without stopping.",
+      "options": [
+        {
+          "id": "a",
+          "text": "past"
+        },
+        {
+          "id": "b",
+          "text": "through"
+        },
+        {
+          "id": "c",
+          "text": "along"
+        },
+        {
+          "id": "d",
+          "text": "across"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Past' means going by a specific location without stopping."
+    },
+    {
+      "id": "prep-045",
+      "topic": "Prepositions of Movement",
+      "prompt": "They were walking ___ the lighthouse, getting closer with every step.",
+      "options": [
+        {
+          "id": "a",
+          "text": "toward"
+        },
+        {
+          "id": "b",
+          "text": "of"
+        },
+        {
+          "id": "c",
+          "text": "since"
+        },
+        {
+          "id": "d",
+          "text": "during"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Toward' indicates direction of movement.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "The key produced 'walking toward the beach toward the lighthouse'. Rewrote the prompt and replaced distractors that would also be grammatical ('into', 'past').",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/towards"
+        ]
+      }
+    },
+    {
+      "id": "prep-046",
+      "topic": "Prepositions of Manner",
+      "prompt": "I sent the final report ___ email this morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "by"
+        },
+        {
+          "id": "b",
+          "text": "with"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "through"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'By' indicates the method, means, or medium of communication."
+    },
+    {
+      "id": "prep-047",
+      "topic": "Prepositions of Manner",
+      "prompt": "She signed the official document ___ a blue pen.",
+      "options": [
+        {
+          "id": "a",
+          "text": "with"
+        },
+        {
+          "id": "b",
+          "text": "by"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "from"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'With' is used when describing the tool or instrument used."
+    },
+    {
+      "id": "prep-048",
+      "topic": "Prepositions of Manner",
+      "prompt": "Please present your main findings ___ English.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in"
+        },
+        {
+          "id": "b",
+          "text": "by"
+        },
+        {
+          "id": "c",
+          "text": "with"
+        },
+        {
+          "id": "d",
+          "text": "as"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In' is used to specify language, style, or format."
+    },
+    {
+      "id": "prep-049",
+      "topic": "Prepositions of Manner",
+      "prompt": "He runs fast, almost ___ a professional athlete.",
+      "options": [
+        {
+          "id": "a",
+          "text": "like"
+        },
+        {
+          "id": "b",
+          "text": "as"
+        },
+        {
+          "id": "c",
+          "text": "with"
+        },
+        {
+          "id": "d",
+          "text": "in"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Like' expresses similarity in comparisons."
+    },
+    {
+      "id": "prep-050",
+      "topic": "Prepositions of Manner",
+      "prompt": "She works ___ a senior business analyst at the firm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "as"
+        },
+        {
+          "id": "b",
+          "text": "like"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "with"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'As' denotes a specific role, function, or job position."
+    },
+    {
+      "id": "prep-051",
+      "topic": "Prepositions of Manner",
+      "prompt": "He left the meeting room ___ saying a word.",
+      "options": [
+        {
+          "id": "a",
+          "text": "without"
+        },
+        {
+          "id": "b",
+          "text": "against"
+        },
+        {
+          "id": "c",
+          "text": "by"
+        },
+        {
+          "id": "d",
+          "text": "off"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Without' indicates the absence or lack of an action or object."
+    },
+    {
+      "id": "prep-052",
+      "topic": "Prepositions of Cause / Reason",
+      "prompt": "The flight was delayed ___ technical difficulties.",
+      "options": [
+        {
+          "id": "a",
+          "text": "due to"
+        },
+        {
+          "id": "b",
+          "text": "because"
+        },
+        {
+          "id": "c",
+          "text": "from"
+        },
+        {
+          "id": "d",
+          "text": "through"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Due to' means caused by and often follows forms of the verb 'be'."
+    },
+    {
+      "id": "prep-053",
+      "topic": "Prepositions of Cause / Reason",
+      "prompt": "___ severe weather, the concert had to be postponed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "Owing to"
+        },
+        {
+          "id": "b",
+          "text": "Because"
+        },
+        {
+          "id": "c",
+          "text": "From"
+        },
+        {
+          "id": "d",
+          "text": "By"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Owing to' is a formal prepositional phrase meaning because of."
+    },
+    {
+      "id": "prep-054",
+      "topic": "Prepositions of Cause / Reason",
+      "prompt": "The child was trembling ___ fear during the storm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "with"
+        },
+        {
+          "id": "c",
+          "text": "out"
+        },
+        {
+          "id": "d",
+          "text": "by"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'With' expresses the cause of a physical reaction to an emotion (trembling with fear, shaking with anger).",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Longman gives 'tremble with anger/fear' as the pattern, and 'with' was listed as a distractor. Made 'with' the key and replaced 'from' with 'at'.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/tremble"
+        ]
+      }
+    },
+    {
+      "id": "prep-055",
+      "topic": "Prepositions of Cause / Reason",
+      "prompt": "She achieved success ___ sheer determination and hard work.",
+      "options": [
+        {
+          "id": "a",
+          "text": "through"
+        },
+        {
+          "id": "b",
+          "text": "among"
+        },
+        {
+          "id": "c",
+          "text": "until"
+        },
+        {
+          "id": "d",
+          "text": "since"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Through' signifies achieving a result by means of something.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'Due to', 'owing to' and 'from' also produced grammatical sentences. Replaced them; 'through' (by means of) stays the key.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/through"
+        ]
+      }
+    },
+    {
+      "id": "prep-056",
+      "topic": "Prepositions of Cause / Reason",
+      "prompt": "The store was closed early ___ the emergency lockdown.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on account of"
+        },
+        {
+          "id": "b",
+          "text": "owing"
+        },
+        {
+          "id": "c",
+          "text": "through"
+        },
+        {
+          "id": "d",
+          "text": "from"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'On account of' means because of (used in formal contexts)."
+    },
+    {
+      "id": "prep-057",
+      "topic": "Prepositions of Place",
+      "prompt": "The garden is hidden ___ the building.",
+      "options": [
+        {
+          "id": "a",
+          "text": "behind"
+        },
+        {
+          "id": "b",
+          "text": "below"
+        },
+        {
+          "id": "c",
+          "text": "under"
+        },
+        {
+          "id": "d",
+          "text": "beneath"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Behind' means at the back of something."
+    },
+    {
+      "id": "prep-058",
+      "topic": "Prepositions of Time",
+      "prompt": "We usually visit our family ___ Christmas Day.",
+      "options": [
+        {
+          "id": "a",
+          "text": "at"
+        },
+        {
+          "id": "b",
+          "text": "on"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "by"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use 'on' for a specific day, including holidays with 'Day' ('on Christmas Day'). 'At Christmas' refers to the whole holiday period.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "'On Christmas' is also correct in American English. Changed the prompt to 'Christmas Day', where 'on' is correct in all varieties.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/a1-a2-grammar/prepositions-of-time-at-in-on"
+        ]
+      }
+    },
+    {
+      "id": "prep-059",
+      "topic": "Prepositions of Place",
+      "prompt": "We spent our vacation ___ an island in the Caribbean.",
+      "options": [
+        {
+          "id": "a",
+          "text": "on"
+        },
+        {
+          "id": "b",
+          "text": "at"
+        },
+        {
+          "id": "c",
+          "text": "in"
+        },
+        {
+          "id": "d",
+          "text": "inside"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'On' is used when referring to being on an island surface."
+    },
+    {
+      "id": "prep-060",
+      "topic": "Compound Prepositions",
+      "prompt": "They were forced to move ___ unforeseen circumstances.",
+      "options": [
+        {
+          "id": "a",
+          "text": "in view of"
+        },
+        {
+          "id": "b",
+          "text": "next to"
+        },
+        {
+          "id": "c",
+          "text": "in spite of"
+        },
+        {
+          "id": "d",
+          "text": "together with"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'In view of' means considering or taking into account a circumstance."
+    }
+  ]
+}

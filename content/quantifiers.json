@@ -1,0 +1,1258 @@
+{
+  "id": "quantifiers",
+  "title": "Quantifiers",
+  "status": "active",
+  "source": "content-source/quantifiers_practice_questions.json",
+  "questions": [
+    {
+      "id": "qnt-001",
+      "topic": "Countable and Uncountable Nouns",
+      "prompt": "Which of the following words is an uncountable noun?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Book"
+        },
+        {
+          "id": "b",
+          "text": "Information"
+        },
+        {
+          "id": "c",
+          "text": "Apple"
+        },
+        {
+          "id": "d",
+          "text": "Question"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Information' is an uncountable noun and cannot be made plural directly."
+    },
+    {
+      "id": "qnt-002",
+      "topic": "Countable and Uncountable Nouns",
+      "prompt": "Choose the grammatically correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "She gave me three good advices."
+        },
+        {
+          "id": "b",
+          "text": "She gave me an advice."
+        },
+        {
+          "id": "c",
+          "text": "She gave me three pieces of advice."
+        },
+        {
+          "id": "d",
+          "text": "She gave me three piece of advice."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Uncountable nouns like 'advice' use measure words like 'pieces of' to show quantity."
+    },
+    {
+      "id": "qnt-003",
+      "topic": "Countable and Uncountable Nouns",
+      "prompt": "Select the incorrect expression:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Two furnitures"
+        },
+        {
+          "id": "b",
+          "text": "Two pieces of furniture"
+        },
+        {
+          "id": "c",
+          "text": "Some furniture"
+        },
+        {
+          "id": "d",
+          "text": "A lot of furniture"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Furniture' is uncountable and cannot take the plural form 'furnitures'."
+    },
+    {
+      "id": "qnt-004",
+      "topic": "Countable and Uncountable Nouns",
+      "prompt": "Which noun can be used with the article 'a' or 'an'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Traffic"
+        },
+        {
+          "id": "b",
+          "text": "Knowledge"
+        },
+        {
+          "id": "c",
+          "text": "Student"
+        },
+        {
+          "id": "d",
+          "text": "Equipment"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Student' is a countable singular noun, so it takes 'a'."
+    },
+    {
+      "id": "qnt-005",
+      "topic": "Countable and Uncountable Nouns",
+      "prompt": "Complete the sentence: 'The technician installed three new ___ of equipment in the lab.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "pieces"
+        },
+        {
+          "id": "b",
+          "text": "items"
+        },
+        {
+          "id": "c",
+          "text": "parts"
+        },
+        {
+          "id": "d",
+          "text": "both A and B"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Both 'pieces' and 'items' can be used as counters for uncountable nouns like equipment."
+    },
+    {
+      "id": "qnt-006",
+      "topic": "Some and Any",
+      "prompt": "Fill in the blank: 'I bought ___ apples at the store.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "any"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "much"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Some' is used in affirmative statements with plural countable nouns."
+    },
+    {
+      "id": "qnt-007",
+      "topic": "Some and Any",
+      "prompt": "Fill in the blank: 'We do not have ___ money left for expenses.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "some"
+        },
+        {
+          "id": "b",
+          "text": "any"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Any' is standard in negative statements."
+    },
+    {
+      "id": "qnt-008",
+      "topic": "Some and Any",
+      "prompt": "Fill in the blank: 'Would you like ___ coffee?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "any"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Some' is used in questions when offering something."
+    },
+    {
+      "id": "qnt-009",
+      "topic": "Some and Any",
+      "prompt": "Fill in the blank: 'You can choose ___ book you like from the shelf.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "any"
+        },
+        {
+          "id": "b",
+          "text": "some"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Any' in an affirmative sentence can mean 'it does not matter which'."
+    },
+    {
+      "id": "qnt-010",
+      "topic": "Some and Any",
+      "prompt": "Which of the following is correct for a question asking for permission/request?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Could I have any water, please?"
+        },
+        {
+          "id": "b",
+          "text": "Could I have some water, please?"
+        },
+        {
+          "id": "c",
+          "text": "Could I have many water, please?"
+        },
+        {
+          "id": "d",
+          "text": "Could I have few water, please?"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Some' is used in requests where a positive answer is expected."
+    },
+    {
+      "id": "qnt-011",
+      "topic": "Much and Many",
+      "prompt": "Fill in the blank: 'How ___ students are enrolled in the course?'",
+      "options": [
+        {
+          "id": "a",
+          "text": "much"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "little"
+        },
+        {
+          "id": "d",
+          "text": "any"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Many' is used with plural countable nouns like 'students'."
+    },
+    {
+      "id": "qnt-012",
+      "topic": "Much and Many",
+      "prompt": "Fill in the blank: 'There isn't ___ water left in the container.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "many"
+        },
+        {
+          "id": "b",
+          "text": "several"
+        },
+        {
+          "id": "c",
+          "text": "much"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Much' is used with uncountable nouns like 'water' in negative sentences."
+    },
+    {
+      "id": "qnt-013",
+      "topic": "Much and Many",
+      "prompt": "Which option is most natural in informal affirmative sentences?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have much work to do today."
+        },
+        {
+          "id": "b",
+          "text": "I have a lot of work to do today."
+        },
+        {
+          "id": "c",
+          "text": "I have many work to do today."
+        },
+        {
+          "id": "d",
+          "text": "I have few work to do today."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "In informal affirmative sentences, 'a lot of' is more natural than 'much'."
+    },
+    {
+      "id": "qnt-014",
+      "topic": "Much and Many",
+      "prompt": "Which context often uses 'much' in affirmative statements?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Casual conversation"
+        },
+        {
+          "id": "b",
+          "text": "Formal academic writing"
+        },
+        {
+          "id": "c",
+          "text": "Text messages"
+        },
+        {
+          "id": "d",
+          "text": "Social media captions"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Much' is common in formal or academic contexts (e.g., 'Much research has been done')."
+    },
+    {
+      "id": "qnt-015",
+      "topic": "Much and Many",
+      "prompt": "Identify the incorrect sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "She doesn't have many friends."
+        },
+        {
+          "id": "b",
+          "text": "There are much opportunities available."
+        },
+        {
+          "id": "c",
+          "text": "How much money do you need?"
+        },
+        {
+          "id": "d",
+          "text": "We don't have much time."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Opportunities' is countable plural, so it requires 'many', not 'much'."
+    },
+    {
+      "id": "qnt-016",
+      "topic": "A Lot of, Lots of, Plenty of",
+      "prompt": "'Plenty of' strictly means:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hardly any"
+        },
+        {
+          "id": "b",
+          "text": "More than enough"
+        },
+        {
+          "id": "c",
+          "text": "Too little"
+        },
+        {
+          "id": "d",
+          "text": "Exactly one"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Plenty of' signifies a comfortable, sufficient quantity or more than enough."
+    },
+    {
+      "id": "qnt-017",
+      "topic": "A Lot of, Lots of, Plenty of",
+      "prompt": "Which quantifier can be used with BOTH countable plural and uncountable nouns?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Many"
+        },
+        {
+          "id": "b",
+          "text": "Much"
+        },
+        {
+          "id": "c",
+          "text": "A lot of"
+        },
+        {
+          "id": "d",
+          "text": "Few"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'A lot of' works with both countable plural nouns and uncountable nouns."
+    },
+    {
+      "id": "qnt-018",
+      "topic": "A Lot of, Lots of, Plenty of",
+      "prompt": "Fill in the blank: 'Don't rush, we have ___ time.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "plenty of"
+        },
+        {
+          "id": "b",
+          "text": "many"
+        },
+        {
+          "id": "c",
+          "text": "few"
+        },
+        {
+          "id": "d",
+          "text": "a few"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Plenty of' fits uncountable 'time' to indicate more than enough time."
+    },
+    {
+      "id": "qnt-019",
+      "topic": "A Lot of, Lots of, Plenty of",
+      "prompt": "Compare 'a lot of' and 'lots of':",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Lots of' is more formal than 'a lot of'."
+        },
+        {
+          "id": "b",
+          "text": "'Lots of' is slightly more informal than 'a lot of'."
+        },
+        {
+          "id": "c",
+          "text": "'A lot of' can only be used with countable nouns."
+        },
+        {
+          "id": "d",
+          "text": "They have completely opposite meanings."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Lots of' is slightly more informal than 'a lot of'."
+    },
+    {
+      "id": "qnt-020",
+      "topic": "A Lot of, Lots of, Plenty of",
+      "prompt": "Fill in the blank: 'There were ___ people at the seminar.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "lots of"
+        },
+        {
+          "id": "b",
+          "text": "much"
+        },
+        {
+          "id": "c",
+          "text": "a little"
+        },
+        {
+          "id": "d",
+          "text": "little"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Lots of' modifies plural countable nouns like 'people'."
+    },
+    {
+      "id": "qnt-021",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "What is the difference in meaning between 'few' and 'a few'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "'Few' has a positive tone; 'a few' has a negative tone."
+        },
+        {
+          "id": "b",
+          "text": "'Few' means almost none (insufficient); 'a few' means some (sufficient)."
+        },
+        {
+          "id": "c",
+          "text": "'Few' is used with uncountable nouns; 'a few' with countable nouns."
+        },
+        {
+          "id": "d",
+          "text": "There is no grammatical difference."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Few' implies scarcity (negative tone), while 'a few' means a small positive amount."
+    },
+    {
+      "id": "qnt-022",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "Fill in the blank: 'He has ___ experience in marketing, so he failed the assessment.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "a little"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Experience' is uncountable, and the negative result requires 'little' (almost none)."
+    },
+    {
+      "id": "qnt-023",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "Fill in the blank: 'We still have ___ minutes before the train leaves.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "a little"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "much"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Minutes' is countable plural, and having some positive time left calls for 'a few'."
+    },
+    {
+      "id": "qnt-024",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "Fill in the blank: 'There is ___ hope of recovery.' (meaning almost no hope)",
+      "options": [
+        {
+          "id": "a",
+          "text": "a little"
+        },
+        {
+          "id": "b",
+          "text": "little"
+        },
+        {
+          "id": "c",
+          "text": "a few"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Hope' is uncountable; 'little hope' means almost no hope."
+    },
+    {
+      "id": "qnt-025",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "Which quantifier pairs correctly with uncountable nouns?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Few / A few"
+        },
+        {
+          "id": "b",
+          "text": "Little / A little"
+        },
+        {
+          "id": "c",
+          "text": "Many / Several"
+        },
+        {
+          "id": "d",
+          "text": "Every / Each"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Little' and 'a little' modify uncountable nouns."
+    },
+    {
+      "id": "qnt-026",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "I have a little friends in town."
+        },
+        {
+          "id": "b",
+          "text": "She spoke a little Spanish during the trip."
+        },
+        {
+          "id": "c",
+          "text": "There are little mistakes in your essay."
+        },
+        {
+          "id": "d",
+          "text": "He has a few knowledge about economics."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Spanish' (language) is uncountable, correctly modified by 'a little'."
+    },
+    {
+      "id": "qnt-027",
+      "topic": "Few, A Few, Little, A Little",
+      "prompt": "If I say 'Few people attended the meeting', what does it imply?",
+      "options": [
+        {
+          "id": "a",
+          "text": "A large group was present."
+        },
+        {
+          "id": "b",
+          "text": "The room was full."
+        },
+        {
+          "id": "c",
+          "text": "Almost nobody came."
+        },
+        {
+          "id": "d",
+          "text": "Exactly ten people came."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Few people' emphasizes that attendance was very low."
+    },
+    {
+      "id": "qnt-028",
+      "topic": "All, Every, Each",
+      "prompt": "Fill in the blank: '___ student must bring their ID card.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "All"
+        },
+        {
+          "id": "b",
+          "text": "Every"
+        },
+        {
+          "id": "c",
+          "text": "Both"
+        },
+        {
+          "id": "d",
+          "text": "All of"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Every' is followed by a singular countable noun ('student')."
+    },
+    {
+      "id": "qnt-029",
+      "topic": "All, Every, Each",
+      "prompt": "Which quantifier focuses on members of a group individually?",
+      "options": [
+        {
+          "id": "a",
+          "text": "All"
+        },
+        {
+          "id": "b",
+          "text": "Every"
+        },
+        {
+          "id": "c",
+          "text": "Each"
+        },
+        {
+          "id": "d",
+          "text": "Most"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Each' emphasizes individual items/members separately."
+    },
+    {
+      "id": "qnt-030",
+      "topic": "All, Every, Each",
+      "prompt": "Identify the incorrect usage:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every students passed the exam."
+        },
+        {
+          "id": "b",
+          "text": "Every student passed the exam."
+        },
+        {
+          "id": "c",
+          "text": "All students passed the exam."
+        },
+        {
+          "id": "d",
+          "text": "Each student received a certificate."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Every' cannot be followed directly by a plural noun ('students')."
+    },
+    {
+      "id": "qnt-031",
+      "topic": "All, Every, Each",
+      "prompt": "Fill in the blank: '___ the information was stored safely.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every"
+        },
+        {
+          "id": "b",
+          "text": "Each"
+        },
+        {
+          "id": "c",
+          "text": "All"
+        },
+        {
+          "id": "d",
+          "text": "Either"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'All' can modify uncountable nouns like 'information'."
+    },
+    {
+      "id": "qnt-032",
+      "topic": "All, Every, Each",
+      "prompt": "Choose the sentence that emphasizes individual difference:",
+      "options": [
+        {
+          "id": "a",
+          "text": "Every candidate passed."
+        },
+        {
+          "id": "b",
+          "text": "All candidates passed."
+        },
+        {
+          "id": "c",
+          "text": "Each candidate received a different interview score."
+        },
+        {
+          "id": "d",
+          "text": "All candidates received scores."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Each' highlights individuality in the group."
+    },
+    {
+      "id": "qnt-033",
+      "topic": "Both, Either, Neither",
+      "prompt": "How many items or people do 'both', 'either', and 'neither' refer to?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Exactly three"
+        },
+        {
+          "id": "b",
+          "text": "Exactly two"
+        },
+        {
+          "id": "c",
+          "text": "More than five"
+        },
+        {
+          "id": "d",
+          "text": "Any number"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "These three quantifiers specifically refer to sets of two."
+    },
+    {
+      "id": "qnt-034",
+      "topic": "Both, Either, Neither",
+      "prompt": "Fill in the blank: '___ answer is correct. They are both wrong.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both"
+        },
+        {
+          "id": "b",
+          "text": "Either"
+        },
+        {
+          "id": "c",
+          "text": "Neither"
+        },
+        {
+          "id": "d",
+          "text": "Every"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Neither' means 'not one and not the other'."
+    },
+    {
+      "id": "qnt-035",
+      "topic": "Both, Either, Neither",
+      "prompt": "Fill in the blank: 'You can choose ___ Monday or Tuesday for the interview.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "both"
+        },
+        {
+          "id": "b",
+          "text": "either"
+        },
+        {
+          "id": "c",
+          "text": "neither"
+        },
+        {
+          "id": "d",
+          "text": "all"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Either... or' refers to choosing one of two options."
+    },
+    {
+      "id": "qnt-036",
+      "topic": "Both, Either, Neither",
+      "prompt": "What verb form should formally follow 'Neither answer...'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "is"
+        },
+        {
+          "id": "b",
+          "text": "are"
+        },
+        {
+          "id": "c",
+          "text": "were"
+        },
+        {
+          "id": "d",
+          "text": "have been"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Neither' takes a singular noun and singular verb in formal grammar."
+    },
+    {
+      "id": "qnt-037",
+      "topic": "Both, Either, Neither",
+      "prompt": "Fill in the blank: '___ of my parents are teachers.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Both"
+        },
+        {
+          "id": "b",
+          "text": "Either"
+        },
+        {
+          "id": "c",
+          "text": "Neither"
+        },
+        {
+          "id": "d",
+          "text": "Every"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Both of my parents' refers to the two parents together with a plural verb ('are')."
+    },
+    {
+      "id": "qnt-038",
+      "topic": "Enough, Too Much, Too Many",
+      "prompt": "Where does 'enough' go when modifying a NOUN?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Before the noun"
+        },
+        {
+          "id": "b",
+          "text": "After the noun"
+        },
+        {
+          "id": "c",
+          "text": "At the end of the clause"
+        },
+        {
+          "id": "d",
+          "text": "Before the verb"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Enough' comes BEFORE a noun (e.g., 'enough money')."
+    },
+    {
+      "id": "qnt-039",
+      "topic": "Enough, Too Much, Too Many",
+      "prompt": "Where does 'enough' go when modifying an ADJECTIVE?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Before the adjective"
+        },
+        {
+          "id": "b",
+          "text": "After the adjective"
+        },
+        {
+          "id": "c",
+          "text": "At the start of the sentence"
+        },
+        {
+          "id": "d",
+          "text": "Never used with adjectives"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Enough' comes AFTER an adjective (e.g., 'old enough')."
+    },
+    {
+      "id": "qnt-040",
+      "topic": "Enough, Too Much, Too Many",
+      "prompt": "Fill in the blank: 'There is ___ noise in the hallway.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "too many"
+        },
+        {
+          "id": "b",
+          "text": "too much"
+        },
+        {
+          "id": "c",
+          "text": "many"
+        },
+        {
+          "id": "d",
+          "text": "few"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Noise' is uncountable, requiring 'too much'."
+    },
+    {
+      "id": "qnt-041",
+      "topic": "Enough, Too Much, Too Many",
+      "prompt": "Fill in the blank: 'There are ___ errors in this report.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "too much"
+        },
+        {
+          "id": "b",
+          "text": "too many"
+        },
+        {
+          "id": "c",
+          "text": "little"
+        },
+        {
+          "id": "d",
+          "text": "a little"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Errors' is countable plural, requiring 'too many'."
+    },
+    {
+      "id": "qnt-042",
+      "topic": "Enough, Too Much, Too Many",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "The room is enough big for us."
+        },
+        {
+          "id": "b",
+          "text": "The room is big enough for us."
+        },
+        {
+          "id": "c",
+          "text": "We have money enough to buy it."
+        },
+        {
+          "id": "d",
+          "text": "She speaks clearly enough not."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Big' is an adjective, so 'enough' follows it."
+    },
+    {
+      "id": "qnt-043",
+      "topic": "No and None",
+      "prompt": "Which sentence contains an ungrammatical double negative?",
+      "options": [
+        {
+          "id": "a",
+          "text": "I don't have any money."
+        },
+        {
+          "id": "b",
+          "text": "I have no money."
+        },
+        {
+          "id": "c",
+          "text": "I don't have no money."
+        },
+        {
+          "id": "d",
+          "text": "None of the money was lost."
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Don't have no' creates a double negative, which is incorrect in standard English."
+    },
+    {
+      "id": "qnt-044",
+      "topic": "No and None",
+      "prompt": "Fill in the blank: 'How many questions were answered? ___.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "No"
+        },
+        {
+          "id": "b",
+          "text": "None"
+        },
+        {
+          "id": "c",
+          "text": "Any"
+        },
+        {
+          "id": "d",
+          "text": "Little"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'None' stands alone without a noun in short answers."
+    },
+    {
+      "id": "qnt-045",
+      "topic": "No and None",
+      "prompt": "Fill in the blank: '___ of the students were late.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "No"
+        },
+        {
+          "id": "b",
+          "text": "None"
+        },
+        {
+          "id": "c",
+          "text": "Any"
+        },
+        {
+          "id": "d",
+          "text": "Much"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'None of' is used before determiners + nouns."
+    },
+    {
+      "id": "qnt-046",
+      "topic": "Expressions with Of & Agreement",
+      "prompt": "What verb form follows 'A number of students...'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plural verb (e.g., are)"
+        },
+        {
+          "id": "b",
+          "text": "Singular verb (e.g., is)"
+        },
+        {
+          "id": "c",
+          "text": "Uncountable verb"
+        },
+        {
+          "id": "d",
+          "text": "Past participle only"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'A number of' means many and takes a plural verb."
+    },
+    {
+      "id": "qnt-047",
+      "topic": "Expressions with Of & Agreement",
+      "prompt": "What verb form follows 'The number of applicants...'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Plural verb (e.g., are)"
+        },
+        {
+          "id": "b",
+          "text": "Singular verb (e.g., is)"
+        },
+        {
+          "id": "c",
+          "text": "Base form only"
+        },
+        {
+          "id": "d",
+          "text": "No verb needed"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'The number of' refers to the single numeric total, taking a singular verb."
+    },
+    {
+      "id": "qnt-048",
+      "topic": "Expressions with Of & Agreement",
+      "prompt": "Fill in the blank: 'A great deal of time ___ spent on research.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "were"
+        },
+        {
+          "id": "b",
+          "text": "was"
+        },
+        {
+          "id": "c",
+          "text": "are"
+        },
+        {
+          "id": "d",
+          "text": "have been"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'A great deal of' modifies uncountable nouns ('time') and takes a singular verb."
+    },
+    {
+      "id": "qnt-049",
+      "topic": "Expressions with Of & Agreement",
+      "prompt": "When is 'of' required after quantifiers like 'some' or 'many'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Before a generic plural noun"
+        },
+        {
+          "id": "b",
+          "text": "Before determiners like 'the', 'my', 'these', or pronouns like 'us'"
+        },
+        {
+          "id": "c",
+          "text": "Always"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Of' is used when referring to a specific group preceded by determiners/pronouns."
+    },
+    {
+      "id": "qnt-050",
+      "topic": "Expressions with Of & Agreement",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        {
+          "id": "a",
+          "text": "A lot of information are online."
+        },
+        {
+          "id": "b",
+          "text": "A lot of information is online."
+        },
+        {
+          "id": "c",
+          "text": "A lot of students is present."
+        },
+        {
+          "id": "d",
+          "text": "Many of students attended."
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'A lot of' agreement depends on the noun: 'information' is uncountable, so it takes 'is'."
+    }
+  ]
+}

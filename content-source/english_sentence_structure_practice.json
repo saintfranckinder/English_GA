@@ -1,0 +1,1127 @@
+{
+  "title": "English Sentence Structure & Word Order Practice Questions",
+  "total_questions": 80,
+  "description": "80 practice questions categorized by core grammar rules from the study guide.",
+  "questions": [
+    {
+      "id": 1,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'reads / she / books'",
+      "options": [
+        "She reads books.",
+        "Reads she books.",
+        "Books she reads.",
+        "She books reads."
+      ],
+      "correct_answer": "She reads books.",
+      "explanation": "English simple statements follow Subject (She) + Verb (reads) + Object (books)."
+    },
+    {
+      "id": 2,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'the project / finished / the team'",
+      "options": [
+        "The team finished the project.",
+        "Finished the team the project.",
+        "The project finished the team.",
+        "The team the project finished."
+      ],
+      "correct_answer": "The team finished the project.",
+      "explanation": "Subject (The team) + Verb (finished) + Object (the project)."
+    },
+    {
+      "id": 3,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'a laptop / bought / Alex'",
+      "options": [
+        "Alex bought a laptop.",
+        "Bought Alex a laptop.",
+        "A laptop Alex bought.",
+        "Alex a laptop bought."
+      ],
+      "correct_answer": "Alex bought a laptop.",
+      "explanation": "Subject (Alex) + Verb (bought) + Object (a laptop)."
+    },
+    {
+      "id": 4,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'coffee / drinks / manager / the'",
+      "options": [
+        "The manager drinks coffee.",
+        "Drinks the manager coffee.",
+        "Coffee the manager drinks.",
+        "The manager coffee drinks."
+      ],
+      "correct_answer": "The manager drinks coffee.",
+      "explanation": "Subject (The manager) + Verb (drinks) + Object (coffee)."
+    },
+    {
+      "id": 5,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'an email / sent / supervisor / the'",
+      "options": [
+        "The supervisor sent an email.",
+        "Sent the supervisor an email.",
+        "An email the supervisor sent.",
+        "The supervisor an email sent."
+      ],
+      "correct_answer": "The supervisor sent an email.",
+      "explanation": "Subject (The supervisor) + Verb (sent) + Object (an email)."
+    },
+    {
+      "id": 6,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'a report / wrote / candidate / the'",
+      "options": [
+        "The candidate wrote a report.",
+        "Wrote the candidate a report.",
+        "A report wrote the candidate.",
+        "The candidate a report wrote."
+      ],
+      "correct_answer": "The candidate wrote a report.",
+      "explanation": "Subject (The candidate) + Verb (wrote) + Object (a report)."
+    },
+    {
+      "id": 7,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'delicious food / cooks / chef / the'",
+      "options": [
+        "The chef cooks delicious food.",
+        "Cooks the chef delicious food.",
+        "Delicious food the chef cooks.",
+        "The chef delicious food cooks."
+      ],
+      "correct_answer": "The chef cooks delicious food.",
+      "explanation": "Subject (The chef) + Verb (cooks) + Object (delicious food)."
+    },
+    {
+      "id": 8,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'the code / reviewed / developer / the'",
+      "options": [
+        "The developer reviewed the code.",
+        "Reviewed the developer the code.",
+        "The code reviewed the developer.",
+        "The developer the code reviewed."
+      ],
+      "correct_answer": "The developer reviewed the code.",
+      "explanation": "Subject (The developer) + Verb (reviewed) + Object (the code)."
+    },
+    {
+      "id": 9,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'new skills / learned / students / the'",
+      "options": [
+        "The students learned new skills.",
+        "Learned the students new skills.",
+        "New skills the students learned.",
+        "The students new skills learned."
+      ],
+      "correct_answer": "The students learned new skills.",
+      "explanation": "Subject (The students) + Verb (learned) + Object (new skills)."
+    },
+    {
+      "id": 10,
+      "category": "Basic Sentence Pattern (SVO)",
+      "question_type": "multiple_choice",
+      "prompt": "Reorder the words to form a correct SVO sentence: 'the document / signed / director / the'",
+      "options": [
+        "The director signed the document.",
+        "Signed the director the document.",
+        "The document signed the director.",
+        "The director the document signed."
+      ],
+      "correct_answer": "The director signed the document.",
+      "explanation": "Subject (The director) + Verb (signed) + Object (the document)."
+    },
+    {
+      "id": 11,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct adjective order:",
+      "options": [
+        "a beautiful small old round brown French wooden table",
+        "a French wooden round old small brown beautiful table",
+        "a small beautiful round brown old wooden French table",
+        "a wooden French brown round old small beautiful table"
+      ],
+      "correct_answer": "a beautiful small old round brown French wooden table",
+      "explanation": "The correct order is Opinion (beautiful) -> Size (small) -> Age (old) -> Shape (round) -> Color (brown) -> Origin (French) -> Material (wooden) + Noun."
+    },
+    {
+      "id": 12,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence correctly places the adjective?",
+      "options": [
+        "She bought a red car.",
+        "She bought a car red.",
+        "She a red car bought.",
+        "Bought she a red car."
+      ],
+      "correct_answer": "She bought a red car.",
+      "explanation": "Adjectives come before the noun they describe in English."
+    },
+    {
+      "id": 13,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct phrase:",
+      "options": [
+        "an interesting project",
+        "a project interesting",
+        "an project interesting",
+        "interesting an project"
+      ],
+      "correct_answer": "an interesting project",
+      "explanation": "Adjectives precede the noun, and 'an' is used before vowel sounds."
+    },
+    {
+      "id": 14,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        "They discussed an important strategic decision.",
+        "They discussed a decision strategic important.",
+        "They discussed an strategic decision important.",
+        "They discussed a strategic decision important."
+      ],
+      "correct_answer": "They discussed an important strategic decision.",
+      "explanation": "Opinion/quality adjectives come before modifying nouns/types."
+    },
+    {
+      "id": 15,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correctly ordered adjective phrase:",
+      "options": [
+        "a valuable ancient gold coin",
+        "a gold ancient valuable coin",
+        "an ancient gold valuable coin",
+        "a gold valuable ancient coin"
+      ],
+      "correct_answer": "a valuable ancient gold coin",
+      "explanation": "Opinion (valuable) -> Age (ancient) -> Material (gold) + Noun."
+    },
+    {
+      "id": 16,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Which option is correct?",
+      "options": [
+        "We watched an exciting new action movie.",
+        "We watched a movie action new exciting.",
+        "We watched an action new exciting movie.",
+        "We watched a new action exciting movie."
+      ],
+      "correct_answer": "We watched an exciting new action movie.",
+      "explanation": "Opinion (exciting) -> Age (new) -> Type/Purpose (action) + Noun."
+    },
+    {
+      "id": 17,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        "He drives a fast modern German sports car.",
+        "He drives a German fast modern sports car.",
+        "He drives a sports fast German modern car.",
+        "He drives a modern sports German fast car."
+      ],
+      "correct_answer": "He drives a fast modern German sports car.",
+      "explanation": "Opinion/Quality (fast) -> Age (modern) -> Origin (German) -> Purpose (sports) + Noun."
+    },
+    {
+      "id": 18,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct phrase:",
+      "options": [
+        "a comfortable large blue sofa",
+        "a sofa comfortable large blue",
+        "a blue large comfortable sofa",
+        "a large blue comfortable sofa"
+      ],
+      "correct_answer": "a comfortable large blue sofa",
+      "explanation": "Opinion (comfortable) -> Size (large) -> Color (blue) + Noun."
+    },
+    {
+      "id": 19,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct option:",
+      "options": [
+        "an expensive new digital camera",
+        "a camera expensive new digital",
+        "a digital new expensive camera",
+        "a new expensive digital camera"
+      ],
+      "correct_answer": "an expensive new digital camera",
+      "explanation": "Opinion (expensive) -> Age (new) -> Type (digital) + Noun."
+    },
+    {
+      "id": 20,
+      "category": "Adjectives (Position & Order)",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is grammatically correct?",
+      "options": [
+        "The company introduced an innovative software tool.",
+        "The company introduced a tool software innovative.",
+        "The company introduced an software tool innovative.",
+        "The company introduced a software tool innovative."
+      ],
+      "correct_answer": "The company introduced an innovative software tool.",
+      "explanation": "The adjective 'innovative' comes before the noun phrase 'software tool'."
+    },
+    {
+      "id": 21,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the sentence with correct adverb placement:",
+      "options": [
+        "She reads the report carefully.",
+        "She reads carefully the report.",
+        "Carefully she reads the report direct.",
+        "She carefully report reads."
+      ],
+      "correct_answer": "She reads the report carefully.",
+      "explanation": "Do not place an adverb between a verb (reads) and its direct object (the report)."
+    },
+    {
+      "id": 22,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence correctly places the frequency adverb?",
+      "options": [
+        "She often travels for work.",
+        "She travels often for work.",
+        "Often she for work travels.",
+        "She travels for work often always."
+      ],
+      "correct_answer": "She often travels for work.",
+      "explanation": "Frequency adverbs usually go in mid-position, before the main verb."
+    },
+    {
+      "id": 23,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct sentence with 'to be':",
+      "options": [
+        "She is always punctual.",
+        "She always is punctual.",
+        "Is she always punctual always.",
+        "Punctual she is always."
+      ],
+      "correct_answer": "She is always punctual.",
+      "explanation": "Mid-position adverbs go AFTER the verb 'to be'."
+    },
+    {
+      "id": 24,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Where does the adverb go in this sentence? 'He has ___ submitted the application.'",
+      "options": [
+        "already",
+        "carefully yesterday",
+        "always tomorrow",
+        "at office"
+      ],
+      "correct_answer": "already",
+      "explanation": "Mid-position adverbs go between the auxiliary verb (has) and main verb (submitted)."
+    },
+    {
+      "id": 25,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is INCORRECT?",
+      "options": [
+        "I write carefully the letter.",
+        "I carefully write the letter.",
+        "I write the letter carefully.",
+        "Carefully, I write the letter."
+      ],
+      "correct_answer": "I write carefully the letter.",
+      "explanation": "Never separate the verb from its direct object with an adverb."
+    },
+    {
+      "id": 26,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Select the sentence with a front-position adverb of time:",
+      "options": [
+        "Yesterday, she finished the report.",
+        "She finished yesterday the report.",
+        "She finished the report yesterday carefully yesterday.",
+        "Finished she the report yesterday."
+      ],
+      "correct_answer": "Yesterday, she finished the report.",
+      "explanation": "Adverbs of time can go at the front for emphasis."
+    },
+    {
+      "id": 27,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Which modifier placement is correct?",
+      "options": [
+        "an extremely quick response",
+        "a quick extremely response",
+        "an response extremely quick",
+        "a response quick extremely"
+      ],
+      "correct_answer": "an extremely quick response",
+      "explanation": "Adverbs modifying adjectives must go directly before the adjective."
+    },
+    {
+      "id": 28,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the correct sentence:",
+      "options": [
+        "They worked diligently on the assignment.",
+        "They worked on the assignment diligently on.",
+        "They diligently assignment worked.",
+        "They worked diligently assignment."
+      ],
+      "correct_answer": "They worked diligently on the assignment.",
+      "explanation": "Manner adverbs like 'diligently' modify the verb and fit naturally after the verb or clause."
+    },
+    {
+      "id": 29,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence uses 'never' correctly?",
+      "options": [
+        "He is never late for meetings.",
+        "He never is late for meetings.",
+        "He late is never for meetings.",
+        "Never he is late for meetings."
+      ],
+      "correct_answer": "He is never late for meetings.",
+      "explanation": "'Never' comes after the verb 'to be'."
+    },
+    {
+      "id": 30,
+      "category": "Adverb Placement",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct option:",
+      "options": [
+        "Unfortunately, the flight was delayed.",
+        "The flight was delayed unfortunately flight.",
+        "Flight was unfortunately delayed the.",
+        "Was delayed the flight unfortunately."
+      ],
+      "correct_answer": "Unfortunately, the flight was delayed.",
+      "explanation": "Attitude adverbs like 'Unfortunately' can stand at the beginning of a clause."
+    },
+    {
+      "id": 31,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct order of place and time at the end of a sentence:",
+      "options": [
+        "We met at the office yesterday.",
+        "We met yesterday at the office.",
+        "We yesterday met at the office.",
+        "At the office yesterday we met."
+      ],
+      "correct_answer": "We met at the office yesterday.",
+      "explanation": "The default sequence at the end of a sentence is Place (at the office) -> Time (yesterday)."
+    },
+    {
+      "id": 32,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence correctly arranges place and time?",
+      "options": [
+        "She will present the project in Port-au-Prince next week.",
+        "She will present the project next week in Port-au-Prince.",
+        "She next week will present the project in Port-au-Prince.",
+        "In Port-au-Prince next week she will present the project."
+      ],
+      "correct_answer": "She will present the project in Port-au-Prince next week.",
+      "explanation": "Standard neutral order is Place (in Port-au-Prince) before Time (next week)."
+    },
+    {
+      "id": 33,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "How can you move time to the front for emphasis?",
+      "options": [
+        "Yesterday, we met at the office.",
+        "At the office, yesterday we met.",
+        "Met we at the office yesterday.",
+        "We at the office met yesterday."
+      ],
+      "correct_answer": "Yesterday, we met at the office.",
+      "explanation": "Time expressions can be placed at the very front followed by a comma."
+    },
+    {
+      "id": 34,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        "They arrived at the airport at 8:00 AM.",
+        "They arrived at 8:00 AM at the airport.",
+        "They at 8:00 AM arrived at the airport.",
+        "At 8:00 AM at the airport they arrived."
+      ],
+      "correct_answer": "They arrived at the airport at 8:00 AM.",
+      "explanation": "Place (at the airport) comes before Time (at 8:00 AM)."
+    },
+    {
+      "id": 35,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is most natural in neutral English?",
+      "options": [
+        "We will have a meeting in Pétionville tomorrow.",
+        "We will have a meeting tomorrow in Pétionville.",
+        "We will have tomorrow a meeting in Pétionville.",
+        "We tomorrow will have a meeting in Pétionville."
+      ],
+      "correct_answer": "We will have a meeting in Pétionville tomorrow.",
+      "explanation": "Place (in Pétionville) precedes Time (tomorrow)."
+    },
+    {
+      "id": 36,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the grammatically preferred sentence:",
+      "options": [
+        "The conference will take place at the hotel on Monday.",
+        "The conference will take place on Monday at the hotel.",
+        "The conference on Monday will take place at the hotel.",
+        "On Monday at the hotel the conference will take place."
+      ],
+      "correct_answer": "The conference will take place at the hotel on Monday.",
+      "explanation": "Place (at the hotel) -> Time (on Monday)."
+    },
+    {
+      "id": 37,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct structure:",
+      "options": [
+        "He signed the contract in Saint-Marc last month.",
+        "He signed the contract last month in Saint-Marc.",
+        "He last month signed the contract in Saint-Marc.",
+        "In Saint-Marc last month signed he the contract."
+      ],
+      "correct_answer": "He signed the contract in Saint-Marc last month.",
+      "explanation": "Place (in Saint-Marc) comes before Time (last month)."
+    },
+    {
+      "id": 38,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Fix the word order: 'She attended a workshop last night in Cap-Haïtien.'",
+      "options": [
+        "She attended a workshop in Cap-Haïtien last night.",
+        "She attended last night a workshop in Cap-Haïtien.",
+        "She in Cap-Haïtien attended a workshop last night.",
+        "Last night in Cap-Haïtien attended she a workshop."
+      ],
+      "correct_answer": "She attended a workshop in Cap-Haïtien last night.",
+      "explanation": "Place (in Cap-Haïtien) should precede Time (last night)."
+    },
+    {
+      "id": 39,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct alternative:",
+      "options": [
+        "Last week, they launched the initiative in Jacmel.",
+        "They launched last week the initiative in Jacmel.",
+        "They in Jacmel launched the initiative last week.",
+        "In Jacmel last week launched they the initiative."
+      ],
+      "correct_answer": "Last week, they launched the initiative in Jacmel.",
+      "explanation": "Time can be at the front, with place following the object."
+    },
+    {
+      "id": 40,
+      "category": "Time and Place Expressions",
+      "question_type": "multiple_choice",
+      "prompt": "Which option follows the Place -> Time rule?",
+      "options": [
+        "The team completed the audit at headquarters on Friday.",
+        "The team completed the audit on Friday at headquarters.",
+        "The team on Friday completed the audit at headquarters.",
+        "At headquarters on Friday completed the team the audit."
+      ],
+      "correct_answer": "The team completed the audit at headquarters on Friday.",
+      "explanation": "Place (at headquarters) comes before Time (on Friday)."
+    },
+    {
+      "id": 41,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to negative: 'I understand the lesson.'",
+      "options": [
+        "I do not understand the lesson.",
+        "I understand not the lesson.",
+        "I not understand the lesson.",
+        "I am not understand the lesson."
+      ],
+      "correct_answer": "I do not understand the lesson.",
+      "explanation": "Negatives require Subject + auxiliary (do) + not + main verb (understand)."
+    },
+    {
+      "id": 42,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to negative: 'She has finished her assignment.'",
+      "options": [
+        "She has not finished her assignment.",
+        "She does not finished her assignment.",
+        "She finished not her assignment.",
+        "She is not finished her assignment."
+      ],
+      "correct_answer": "She has not finished her assignment.",
+      "explanation": "Auxiliary (has) + not + past participle (finished)."
+    },
+    {
+      "id": 43,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to negative: 'They can attend the meeting.'",
+      "options": [
+        "They cannot attend the meeting.",
+        "They do not can attend the meeting.",
+        "They can attend not the meeting.",
+        "They are not attend the meeting."
+      ],
+      "correct_answer": "They cannot attend the meeting.",
+      "explanation": "Modal auxiliary (can) + not + base verb (attend)."
+    },
+    {
+      "id": 44,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to negative: 'He is ready.'",
+      "options": [
+        "He is not ready.",
+        "He does not ready.",
+        "He is ready not.",
+        "He not is ready."
+      ],
+      "correct_answer": "He is not ready.",
+      "explanation": "With 'to be' as the main verb, place 'not' directly after 'is'."
+    },
+    {
+      "id": 45,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Which negative sentence has correct adverb placement?",
+      "options": [
+        "She does not often travel.",
+        "She often does not travel.",
+        "She does travel not often.",
+        "Not she often travel does."
+      ],
+      "correct_answer": "She does not often travel.",
+      "explanation": "In negatives, adverbs like 'often' usually go after 'not' and before the main verb."
+    },
+    {
+      "id": 46,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to negative: 'They were at home.'",
+      "options": [
+        "They were not at home.",
+        "They did not were at home.",
+        "They were at home not.",
+        "They not were at home."
+      ],
+      "correct_answer": "They were not at home.",
+      "explanation": "'To be' in past tense takes 'not' directly after 'were'."
+    },
+    {
+      "id": 47,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct negative sentence:",
+      "options": [
+        "The team does not have enough time.",
+        "The team has not enough time.",
+        "The team not does have enough time.",
+        "The team does have not enough time."
+      ],
+      "correct_answer": "The team does not have enough time.",
+      "explanation": "Present simple main verb 'have' uses auxiliary 'does not have' in modern English."
+    },
+    {
+      "id": 48,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is negative and grammatically correct?",
+      "options": [
+        "We did not see any errors in the report.",
+        "We saw not any errors in the report.",
+        "We did see not any errors in the report.",
+        "We not did see any errors in the report."
+      ],
+      "correct_answer": "We did not see any errors in the report.",
+      "explanation": "Subject (We) + auxiliary (did) + not + verb (see)."
+    },
+    {
+      "id": 49,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to negative: 'He will accept the proposal.'",
+      "options": [
+        "He will not accept the proposal.",
+        "He does not will accept the proposal.",
+        "He will accept not the proposal.",
+        "He is not accept the proposal."
+      ],
+      "correct_answer": "He will not accept the proposal.",
+      "explanation": "Modal (will) + not + main verb (accept)."
+    },
+    {
+      "id": 50,
+      "category": "Negative Sentences",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct negative sentence:",
+      "options": [
+        "She is not working today.",
+        "She does not working today.",
+        "She working not today.",
+        "She not working today."
+      ],
+      "correct_answer": "She is not working today.",
+      "explanation": "Present continuous negative uses 'is not' + '-ing' verb."
+    },
+    {
+      "id": 51,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to a Yes/No question: 'You understand the lesson.'",
+      "options": [
+        "Do you understand the lesson?",
+        "Understand you the lesson?",
+        "You understand the lesson?",
+        "Does you understand the lesson?"
+      ],
+      "correct_answer": "Do you understand the lesson?",
+      "explanation": "Yes/No questions in present simple use Auxiliary (Do) + Subject (you) + Verb (understand)."
+    },
+    {
+      "id": 52,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to a Yes/No question: 'She has submitted the report.'",
+      "options": [
+        "Has she submitted the report?",
+        "Does she have submitted the report?",
+        "She has submitted the report?",
+        "Submitted she the report?"
+      ],
+      "correct_answer": "Has she submitted the report?",
+      "explanation": "Invert the auxiliary verb (Has) and the subject (she)."
+    },
+    {
+      "id": 53,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to a Yes/No question: 'They can join the meeting.'",
+      "options": [
+        "Can they join the meeting?",
+        "Do they can join the meeting?",
+        "They can join the meeting?",
+        "Are they join the meeting?"
+      ],
+      "correct_answer": "Can they join the meeting?",
+      "explanation": "Invert the modal verb (Can) and subject (they)."
+    },
+    {
+      "id": 54,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Form a Wh- question asking for place: 'You work (where)'",
+      "options": [
+        "Where do you work?",
+        "Where you work?",
+        "Where work you?",
+        "Do where you work?"
+      ],
+      "correct_answer": "Where do you work?",
+      "explanation": "Wh-word (Where) + Auxiliary (do) + Subject (you) + Verb (work)."
+    },
+    {
+      "id": 55,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Form a Wh- question: 'She has studied (what)'",
+      "options": [
+        "What has she studied?",
+        "What she has studied?",
+        "What studied she?",
+        "Has what she studied?"
+      ],
+      "correct_answer": "What has she studied?",
+      "explanation": "Wh-word (What) + Auxiliary (has) + Subject (she) + Verb (studied)."
+    },
+    {
+      "id": 56,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Form a question where the Wh-word is the subject: '(Who) called you?'",
+      "options": [
+        "Who called you?",
+        "Who did call you?",
+        "Did who call you?",
+        "Who you called?"
+      ],
+      "correct_answer": "Who called you?",
+      "explanation": "When the Wh-word is the subject of the sentence, do not invert or use auxiliary 'do'."
+    },
+    {
+      "id": 57,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Which question is correct?",
+      "options": [
+        "When will they arrive?",
+        "When they will arrive?",
+        "When arrive will they?",
+        "Will when they arrive?"
+      ],
+      "correct_answer": "When will they arrive?",
+      "explanation": "Wh-word (When) + Modal (will) + Subject (they) + Verb (arrive)."
+    },
+    {
+      "id": 58,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Convert to question with 'to be': 'He was at the office.'",
+      "options": [
+        "Was he at the office?",
+        "Did he be at the office?",
+        "He was at the office?",
+        "Were he at the office?"
+      ],
+      "correct_answer": "Was he at the office?",
+      "explanation": "Invert 'was' and 'he' for 'to be' questions."
+    },
+    {
+      "id": 59,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Form a question where Wh-word is the subject: '(What) happened?'",
+      "options": [
+        "What happened?",
+        "What did happen?",
+        "Did what happen?",
+        "What happened did?"
+      ],
+      "correct_answer": "What happened?",
+      "explanation": "'What' acts as subject, so standard SVO order is preserved without auxiliary 'did'."
+    },
+    {
+      "id": 60,
+      "category": "Questions & Inversion",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct question format:",
+      "options": [
+        "Are you ready?",
+        "You are ready?",
+        "Do you be ready?",
+        "Be you ready?"
+      ],
+      "correct_answer": "Are you ready?",
+      "explanation": "Invert 'Are' and 'you' for 'to be' questions."
+    },
+    {
+      "id": 61,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct word: 'The plan sounds ___.'",
+      "options": [
+        "good",
+        "goodly",
+        "well (manner)",
+        "nicely"
+      ],
+      "correct_answer": "good",
+      "explanation": "Linking verbs like 'sounds' are followed by adjectives (good), not adverbs."
+    },
+    {
+      "id": 62,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        "The project seems feasible.",
+        "The project seems feasibly.",
+        "The project seems feasibility.",
+        "The project feasibly seems."
+      ],
+      "correct_answer": "The project seems feasible.",
+      "explanation": "'Seems' is a linking verb requiring an adjective complement (feasible)."
+    },
+    {
+      "id": 63,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence uses a linking verb correctly?",
+      "options": [
+        "He became a manager.",
+        "He became managerly.",
+        "He became managingly.",
+        "He became to a manager."
+      ],
+      "correct_answer": "He became a manager.",
+      "explanation": "'Become' can take a noun complement ('a manager')."
+    },
+    {
+      "id": 64,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct option: 'This soup tastes ___.'",
+      "options": [
+        "delicious",
+        "deliciously",
+        "with delicious",
+        "in deliciousness"
+      ],
+      "correct_answer": "delicious",
+      "explanation": "Sensory linking verb 'tastes' requires an adjective ('delicious')."
+    },
+    {
+      "id": 65,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the sentence with a linking verb + adjective structure:",
+      "options": [
+        "The proposal looks interesting.",
+        "The proposal looks interestingly.",
+        "The proposal interest looks.",
+        "The proposal looks with interest."
+      ],
+      "correct_answer": "The proposal looks interesting.",
+      "explanation": "'Looks' functions as a linking verb followed by adjective 'interesting'."
+    },
+    {
+      "id": 66,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Select the correct sentence:",
+      "options": [
+        "She feels confident about the interview.",
+        "She feels confidently about the interview.",
+        "She feels confidence about the interview.",
+        "She confidently feels about the interview."
+      ],
+      "correct_answer": "She feels confident about the interview.",
+      "explanation": "Sensory verb 'feels' takes adjective 'confident' describing the subject."
+    },
+    {
+      "id": 67,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct completion: 'The flowers smell ___.'",
+      "options": [
+        "sweet",
+        "sweetly",
+        "sweetness",
+        "in sweet"
+      ],
+      "correct_answer": "sweet",
+      "explanation": "'Smell' is a linking verb followed by adjective 'sweet'."
+    },
+    {
+      "id": 68,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence contains a linking verb?",
+      "options": [
+        "He appeared calm during the crisis.",
+        "He appeared suddenly at the door.",
+        "He read the report carefully.",
+        "He built a wooden table."
+      ],
+      "correct_answer": "He appeared calm during the crisis.",
+      "explanation": "'Appeared' here links subject 'He' to adjective 'calm'."
+    },
+    {
+      "id": 69,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Choose the correct sentence:",
+      "options": [
+        "The performance was outstanding.",
+        "The performance was outstandingly.",
+        "The performance was in outstanding.",
+        "The performance outstanding was."
+      ],
+      "correct_answer": "The performance was outstanding.",
+      "explanation": "'Was' is a linking verb followed by adjective 'outstanding'."
+    },
+    {
+      "id": 70,
+      "category": "Linking Verbs & Complements",
+      "question_type": "multiple_choice",
+      "prompt": "Which sentence is INCORRECT?",
+      "options": [
+        "The music sounds loudly.",
+        "The music sounds loud.",
+        "The music sounds great.",
+        "The music sounds soft."
+      ],
+      "correct_answer": "The music sounds loudly.",
+      "explanation": "Linking verb 'sounds' must be followed by an adjective (loud), not an adverb (loudly)."
+    },
+    {
+      "id": 71,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Correct the French transfer error: 'I read carefully the text.'",
+      "options": [
+        "I read the text carefully.",
+        "I read carefully the text.",
+        "Carefully I text read.",
+        "I the text read carefully."
+      ],
+      "correct_answer": "I read the text carefully.",
+      "explanation": "In English, do not insert an adverb between the verb and its direct object."
+    },
+    {
+      "id": 72,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Correct the French transfer error: 'She bought a car red.'",
+      "options": [
+        "She bought a red car.",
+        "She bought a car red.",
+        "A car red she bought.",
+        "She red a car bought."
+      ],
+      "correct_answer": "She bought a red car.",
+      "explanation": "Adjectives precede the noun in English (unlike French where many follow the noun)."
+    },
+    {
+      "id": 73,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Correct the question error: 'You do understand?'",
+      "options": [
+        "Do you understand?",
+        "You do understand?",
+        "Understand you?",
+        "You understand do?"
+      ],
+      "correct_answer": "Do you understand?",
+      "explanation": "Formal/standard English requires subject-auxiliary inversion in questions."
+    },
+    {
+      "id": 74,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Correct the order: 'We met yesterday at the office.'",
+      "options": [
+        "We met at the office yesterday.",
+        "We met yesterday at the office.",
+        "Yesterday at the office met we.",
+        "We yesterday met at the office."
+      ],
+      "correct_answer": "We met at the office yesterday.",
+      "explanation": "Standard English places Place before Time at the end of a sentence."
+    },
+    {
+      "id": 75,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Identify the mistake in: 'He drives a car blue.'",
+      "options": [
+        "Adjective 'blue' should come before 'car'.",
+        "Verb 'drives' should be at the end.",
+        "Noun 'car' should be plural.",
+        "No mistake."
+      ],
+      "correct_answer": "Adjective 'blue' should come before 'car'.",
+      "explanation": "In English, single color adjectives always go before the noun."
+    },
+    {
+      "id": 76,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Fix the error: 'They discussed thoroughly the strategy.'",
+      "options": [
+        "They discussed the strategy thoroughly.",
+        "They thoroughly strategy discussed.",
+        "They discussed thoroughly strategy.",
+        "Thoroughly discussed they strategy."
+      ],
+      "correct_answer": "They discussed the strategy thoroughly.",
+      "explanation": "An adverb cannot break the connection between verb (discussed) and object (the strategy)."
+    },
+    {
+      "id": 77,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Correct the sentence: 'We will have a meeting tomorrow in Saint-Marc.'",
+      "options": [
+        "We will have a meeting in Saint-Marc tomorrow.",
+        "We will have tomorrow a meeting in Saint-Marc.",
+        "We tomorrow will have a meeting in Saint-Marc.",
+        "In Saint-Marc tomorrow will have we a meeting."
+      ],
+      "correct_answer": "We will have a meeting in Saint-Marc tomorrow.",
+      "explanation": "Place (in Saint-Marc) comes before Time (tomorrow)."
+    },
+    {
+      "id": 78,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Fix the question structure: 'You have finished the report?'",
+      "options": [
+        "Have you finished the report?",
+        "You have finished the report?",
+        "Finished you the report?",
+        "Have finished you the report?"
+      ],
+      "correct_answer": "Have you finished the report?",
+      "explanation": "Invert auxiliary 'Have' and subject 'you' for formal written questions."
+    },
+    {
+      "id": 79,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Fix the adjective order: 'She is an student intelligent.'",
+      "options": [
+        "She is an intelligent student.",
+        "She is a student intelligent.",
+        "She intelligent student is.",
+        "An intelligent student she is."
+      ],
+      "correct_answer": "She is an intelligent student.",
+      "explanation": "The adjective 'intelligent' must come before the noun 'student'."
+    },
+    {
+      "id": 80,
+      "category": "French Speaker Common Errors",
+      "question_type": "multiple_choice",
+      "prompt": "Correct this sentence: 'I speak fluently English.'",
+      "options": [
+        "I speak English fluently.",
+        "I speak fluently English.",
+        "Fluently I English speak.",
+        "I English speak fluently."
+      ],
+      "correct_answer": "I speak English fluently.",
+      "explanation": "The adverb 'fluently' must go after the object 'English', not between verb and object."
+    }
+  ]
+}

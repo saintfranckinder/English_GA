@@ -1,0 +1,2158 @@
+{
+  "id": "relative-clauses",
+  "title": "Relative Clauses",
+  "status": "active",
+  "source": "content-source/relative_clauses_practice_questions.json",
+  "questions": [
+    {
+      "id": "rc-001",
+      "topic": "Fill in the blank",
+      "prompt": "The woman _____ lives next door is a doctor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Who' is used for people when functioning as the subject of the clause."
+    },
+    {
+      "id": "rc-002",
+      "topic": "Fill in the blank",
+      "prompt": "The book, _____ is on the table, belongs to the library.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Which' is used for non-defining relative clauses referring to things. 'That' cannot be used after a comma."
+    },
+    {
+      "id": "rc-003",
+      "topic": "Fill in the blank",
+      "prompt": "The student _____ project won the competition is from Haiti.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "whom"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "'Whose' indicates possession for people, animals, or things."
+    },
+    {
+      "id": "rc-004",
+      "topic": "Fill in the blank",
+      "prompt": "The man _____ you met yesterday is my uncle.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whom' is used in formal English when referring to a person as the object of the clause."
+    },
+    {
+      "id": "rc-005",
+      "topic": "Fill in the blank",
+      "prompt": "This is the city _____ I was born.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "when"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Where' is a relative adverb used to refer to locations."
+    },
+    {
+      "id": "rc-006",
+      "topic": "Fill in the blank",
+      "prompt": "I still remember the day _____ we first met.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "when"
+        },
+        {
+          "id": "c",
+          "text": "why"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'When' is a relative adverb used to refer to time."
+    },
+    {
+      "id": "rc-007",
+      "topic": "Fill in the blank",
+      "prompt": "That is the reason _____ she decided to leave early.",
+      "options": [
+        {
+          "id": "a",
+          "text": "why"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "when"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Why' is a relative adverb used to refer to reasons."
+    },
+    {
+      "id": "rc-008",
+      "topic": "Fill in the blank",
+      "prompt": "The car _____ I bought last week runs smoothly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'That' is used in defining relative clauses to refer to things."
+    },
+    {
+      "id": "rc-009",
+      "topic": "Fill in the blank",
+      "prompt": "Dr. Jean, _____ research focuses on microfinance, published a paper.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "whose"
+        },
+        {
+          "id": "c",
+          "text": "whom"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Whose' shows possession ('his research')."
+    },
+    {
+      "id": "rc-010",
+      "topic": "Fill in the blank",
+      "prompt": "She passed all her exams, _____ surprised her teachers.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "what"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Which' can refer back to an entire preceding sentence or clause."
+    },
+    {
+      "id": "rc-011",
+      "topic": "Fill in the blank",
+      "prompt": "The restaurant _____ we had dinner was very crowded.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "which"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "when"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Where' specifies the location where the action took place."
+    },
+    {
+      "id": "rc-012",
+      "topic": "Fill in the blank",
+      "prompt": "The applicant _____ credentials were verified was hired immediately.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whom"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whose' indicates possession of credentials."
+    },
+    {
+      "id": "rc-013",
+      "topic": "Fill in the blank",
+      "prompt": "The report _____ was published yesterday contains vital data.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "when"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Which' (or 'that') refers to things like reports."
+    },
+    {
+      "id": "rc-014",
+      "topic": "Fill in the blank",
+      "prompt": "The year _____ the company was founded was 2010.",
+      "options": [
+        {
+          "id": "a",
+          "text": "when"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "why"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'When' refers to time ('the year')."
+    },
+    {
+      "id": "rc-015",
+      "topic": "Fill in the blank",
+      "prompt": "The entrepreneur _____ you interviewed operates in Gonaïves.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whom' is the object relative pronoun referring to the person being interviewed."
+    },
+    {
+      "id": "rc-016",
+      "topic": "Fill in the blank",
+      "prompt": "Port-au-Prince, _____ is the capital of Haiti, has a vibrant culture.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "In non-defining relative clauses, 'which' must be used for places/things, not 'that'."
+    },
+    {
+      "id": "rc-017",
+      "topic": "Fill in the blank",
+      "prompt": "The dog _____ owner lives upstairs barked all night.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "that"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whose' indicates possession for animals as well."
+    },
+    {
+      "id": "rc-018",
+      "topic": "Fill in the blank",
+      "prompt": "The candidate _____ we recommended got the job offer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whom"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "whose"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whom' is used for people in the object position in formal English."
+    },
+    {
+      "id": "rc-019",
+      "topic": "Fill in the blank",
+      "prompt": "The building _____ was damaged in the storm is being repaired.",
+      "options": [
+        {
+          "id": "a",
+          "text": "that"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "where"
+        },
+        {
+          "id": "d",
+          "text": "when"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'That' refers to things in defining relative clauses."
+    },
+    {
+      "id": "rc-020",
+      "topic": "Fill in the blank",
+      "prompt": "The moment _____ she announced the winner was unforgettable.",
+      "options": [
+        {
+          "id": "a",
+          "text": "when"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "why"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'When' is used for time references."
+    },
+    {
+      "id": "rc-021",
+      "topic": "Fill in the blank",
+      "prompt": "My colleague, _____ speaks three languages, led the conference.",
+      "options": [
+        {
+          "id": "a",
+          "text": "who"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "which"
+        },
+        {
+          "id": "d",
+          "text": "whom"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Who' is used for people in non-defining relative clauses. 'That' is prohibited."
+    },
+    {
+      "id": "rc-022",
+      "topic": "Fill in the blank",
+      "prompt": "The hotel _____ we stayed offered a beautiful view of the bay.",
+      "options": [
+        {
+          "id": "a",
+          "text": "where"
+        },
+        {
+          "id": "b",
+          "text": "when"
+        },
+        {
+          "id": "c",
+          "text": "who"
+        },
+        {
+          "id": "d",
+          "text": "whose"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Where' refers to place."
+    },
+    {
+      "id": "rc-023",
+      "topic": "Fill in the blank",
+      "prompt": "He lost his wallet, _____ forced him to cancel his credit cards.",
+      "options": [
+        {
+          "id": "a",
+          "text": "which"
+        },
+        {
+          "id": "b",
+          "text": "that"
+        },
+        {
+          "id": "c",
+          "text": "what"
+        },
+        {
+          "id": "d",
+          "text": "where"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Which' refers back to the entire clause 'He lost his wallet'."
+    },
+    {
+      "id": "rc-024",
+      "topic": "Fill in the blank",
+      "prompt": "The author _____ latest novel became a bestseller is visiting town.",
+      "options": [
+        {
+          "id": "a",
+          "text": "whose"
+        },
+        {
+          "id": "b",
+          "text": "who"
+        },
+        {
+          "id": "c",
+          "text": "whom"
+        },
+        {
+          "id": "d",
+          "text": "which"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whose' indicates possession ('her latest novel')."
+    },
+    {
+      "id": "rc-025",
+      "topic": "Fill in the blank",
+      "prompt": "The reason _____ he applied for the grant was clear.",
+      "options": [
+        {
+          "id": "a",
+          "text": "why"
+        },
+        {
+          "id": "b",
+          "text": "where"
+        },
+        {
+          "id": "c",
+          "text": "when"
+        },
+        {
+          "id": "d",
+          "text": "who"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Why' introduces reasons."
+    },
+    {
+      "id": "rc-026",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The project that we launched last month is successful.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Defining (Restrictive)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The clause specifies which project and is essential to the sentence meaning; no commas are used.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-027",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'My colleague, who specializes in AI, gave a presentation.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Defining (Restrictive)"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The clause adds extra information, is enclosed in commas, and the main sentence makes full sense without it.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-028",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The Eiffel Tower, which is in Paris, is a famous landmark.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Non-Defining (Non-Restrictive)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The information is extra detail enclosed in commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-029",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'Students who study regularly achieve higher marks.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "b",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "d",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The clause restricts the noun to specific students (only those who study regularly).",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-030",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The microfinance institution which operates in Haiti serves 10,000 clients.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "d",
+          "text": "Defining (Restrictive)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "There are no commas, indicating the clause defines which institution.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-031",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The SDGs, which were adopted in 2015, guide global development.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The clause adds supplementary information enclosed in commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-032",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The car that is parked outside belongs to the director.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "d",
+          "text": "Defining (Restrictive)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "It identifies the specific car; 'that' is used without commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-033",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'My brother, who lives in Miami, is visiting next week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "d",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Commas separate the extra detail about where the brother lives.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-034",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The doctor who examined me was very thorough.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "d",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Essential information identifying which doctor is meant.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-035",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'Coffee, which is grown in many tropical regions, is popular worldwide.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Non-Defining (Non-Restrictive)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "The clause provides extra non-essential details enclosed in commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-036",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The house where I grew up has been renovated.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "b",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Non-Defining (Non-Restrictive)"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "It specifies which house is being referred to.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-037",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'Her speech, which lasted forty minutes, inspired everyone.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "d",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The length of the speech is non-essential detail surrounded by commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-038",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The software that was installed yesterday caused a system error.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Defining (Restrictive)"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Essential clause specifying which software caused the issue.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-039",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'Professor Williams, whose book won an award, will give a lecture.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Defining (Restrictive)"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Extra possessive detail about a named individual set off by commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-040",
+      "topic": "Clause type",
+      "prompt": "Classify the relative clause in: 'The reason why she quit her job remains unknown.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Defining (Restrictive)"
+        },
+        {
+          "id": "b",
+          "text": "Non-Defining (Non-Restrictive)"
+        },
+        {
+          "id": "c",
+          "text": "Not a relative clause (adverb clause)",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Not a relative clause (noun clause)",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Essential clause restricting the noun 'reason'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Defining (Restrictive) / Non-Defining (Non-Restrictive)."
+      }
+    },
+    {
+      "id": "rc-041",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'My teacher, that is from Canada, speaks French.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'who' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'whose' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'which' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Correct"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Incorrect. 'That' cannot be used in non-defining relative clauses (with commas). Use 'who' instead.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-042",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The book, that I read, was interesting.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: remove the commas",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'who' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Correct"
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'whose' instead of 'that'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Incorrect. Do not use commas around defining relative clauses, nor use 'that' after a comma.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-043",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The woman which called is my aunt.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'who' instead of 'which'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Correct"
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'where' instead of 'which'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'whose' instead of 'which'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Incorrect. 'Which' cannot refer to people. Use 'who' or 'that'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-044",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'My friend, lives in Pétionville, is a marketer.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: add 'that' before 'lives'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: add 'which' before 'lives'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: add 'who' before 'lives'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Correct"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Incorrect. Relative pronouns cannot be omitted in non-defining relative clauses. It should be 'who lives in Pétionville'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-045",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The man who I saw at the market was helpful.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'whose' instead of 'who'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'where' instead of 'who'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'which' instead of 'who'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Correct"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Correct. 'Who' (or 'whom'/'that') can be used as object pronouns in informal and everyday spoken English.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-046",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The report, which was published yesterday, contains new data.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'whose' instead of 'which'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Correct"
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'that' instead of 'which'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'who' instead of 'which'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Correct. Non-defining clause correctly uses 'which' and commas.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-047",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'This is the laptop, that I bought last week.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'whose' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'who' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Correct"
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: remove the comma",
+          "added": true
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Incorrect. Unnecessary comma before 'that' in a defining relative clause.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-048",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The student whose project won is from Haiti.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'which' instead of 'whose'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'whom' instead of 'whose'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Correct"
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'who' instead of 'whose'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Correct. 'Whose' correctly indicates possession in a defining relative clause.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-049",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The manager which hired me left the firm.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Correct"
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'where' instead of 'which'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'who' instead of 'which'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'whose' instead of 'which'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Incorrect. 'Which' is used for things/animals, not people. Use 'who' or 'that'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-050",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'She failed the exam, that made her parents upset.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'whose' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'who' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Correct"
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'which' instead of 'that'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Incorrect. When referring to a whole preceding clause after a comma, use 'which', not 'that'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-051",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The hospital where my sister works is downtown.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'who' instead of 'where'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'whose' instead of 'where'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Correct"
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'when' instead of 'where'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Correct. 'Where' is correctly used to specify place.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-052",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'My uncle, who's house is nearby, is a carpenter.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'which' instead of 'who's'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'whose' instead of 'who's'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'who' instead of 'who's'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Correct"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Incorrect. 'Who's' means 'who is'. The possessive form is 'whose'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-053",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The firm, whose headquarters are in Paris, expanded to America.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Correct"
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'which' instead of 'whose'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'who's' instead of 'whose'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Incorrect: use 'that' instead of 'whose'",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Correct. 'Whose' can refer to entities/things to show possession.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-054",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The place when we met was quiet.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'whose' instead of 'when'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'who' instead of 'when'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'where' instead of 'when'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Correct"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Incorrect. 'When' refers to time, whereas 'place' requires 'where'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-055",
+      "topic": "Error identification",
+      "prompt": "Is this sentence correct or incorrect? 'The movie that we saw yesterday was thrilling.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Incorrect: use 'whose' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Incorrect: use 'who' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Incorrect: use 'where' instead of 'that'",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Correct"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Correct. Defining relative clause correctly uses 'that'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Correct / Incorrect."
+      }
+    },
+    {
+      "id": "rc-056",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The book [that] I read was interesting', can the relative pronoun 'that' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "No, it cannot be omitted: 'that' can never be omitted.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Yes. In defining relative clauses, the pronoun can be omitted if it functions as the object of the clause ('I read [the book]').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-057",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The man who called you is my brother', can 'who' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Yes, it can be omitted: relative pronouns can always be omitted.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "No. 'Who' is the subject of the clause ('who called you'), so it cannot be omitted.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-058",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'My brother, who lives in Miami, is visiting next week', can 'who' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it can be omitted: relative pronouns can always be omitted.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Yes, it can be omitted: non-defining clauses do not need a pronoun.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "No. Relative pronouns can NEVER be omitted in non-defining relative clauses.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-059",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The song that you played was beautiful', can 'that' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "No, it cannot be omitted: 'that' can never be omitted.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yes. 'That' is the object of 'played' in a defining clause, so it can be omitted ('The song you played...').",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-060",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The woman who lives next door is a doctor', can 'who' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Yes, it can be omitted: relative pronouns can always be omitted.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "No. 'Who' is the subject of 'lives'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-061",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The candidate whom you interviewed was impressive', can 'whom' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "No, it cannot be omitted: 'whom' can never be omitted.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Yes. 'Whom' is the object of the verb 'interviewed' in a defining clause.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-062",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The Eiffel Tower, which is in Paris, is famous', can 'which' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it can be omitted: relative pronouns can always be omitted.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Yes, it can be omitted: non-defining clauses do not need a pronoun.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "No. Pronouns cannot be omitted in non-defining relative clauses.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-063",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The car that was parked outside was stolen', can 'that' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Yes, it can be omitted: relative pronouns can always be omitted.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "No. 'That' acts as the subject of 'was parked'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-064",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The food which we ordered arrived late', can 'which' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "No, it cannot be omitted: it is the subject of the clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "No, it cannot be omitted: 'which' can never be omitted.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "No, it cannot be omitted: it is in a non-defining clause.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Yes. 'Which' is the object of 'ordered' in a defining relative clause.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-065",
+      "topic": "Pronoun omission",
+      "prompt": "In the sentence 'The person whose phone rang left the room', can 'whose' be omitted?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Yes, it can be omitted: it is in a defining clause.",
+          "added": true
+        },
+        {
+          "id": "b",
+          "text": "No, it cannot be omitted: 'whose' shows possession.",
+          "added": true
+        },
+        {
+          "id": "c",
+          "text": "Yes, it can be omitted: it is the object of the clause.",
+          "added": true
+        },
+        {
+          "id": "d",
+          "text": "Yes, it can be omitted: relative pronouns can always be omitted.",
+          "added": true
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "No. Possessive relative pronouns ('whose') can never be omitted.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Options expanded from 2 to 4 with owner authorization; added options are marked \"added\". Original options: Yes, it can be omitted. / No, it cannot be omitted.."
+      }
+    },
+    {
+      "id": "rc-066",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences using a defining relative clause: 'I met a woman. She works in digital marketing.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I met a woman who works in digital marketing."
+        },
+        {
+          "id": "b",
+          "text": "I met a woman, that works in digital marketing."
+        },
+        {
+          "id": "c",
+          "text": "I met a woman, which works in digital marketing."
+        },
+        {
+          "id": "d",
+          "text": "I met a woman whose works in digital marketing."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Who' introduces the subject relative clause without commas for a defining relationship."
+    },
+    {
+      "id": "rc-067",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'The course is online. It focuses on sustainable development.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The course that focuses on sustainable development is online."
+        },
+        {
+          "id": "b",
+          "text": "The course, who focuses on sustainable development, is online."
+        },
+        {
+          "id": "c",
+          "text": "The course where focuses on sustainable development is online."
+        },
+        {
+          "id": "d",
+          "text": "The course whose focuses on sustainable development is online."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'That' or 'which' correctly modifies the non-person noun 'course'."
+    },
+    {
+      "id": "rc-068",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences using a non-defining relative clause: 'Port-au-Prince is the capital. I was born there.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Port-au-Prince, where I was born, is the capital."
+        },
+        {
+          "id": "b",
+          "text": "Port-au-Prince that I was born there is the capital."
+        },
+        {
+          "id": "c",
+          "text": "Port-au-Prince, which I was born, is the capital."
+        },
+        {
+          "id": "d",
+          "text": "Port-au-Prince who I was born in is the capital."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Where' introduces the relative clause of location, set off by commas."
+    },
+    {
+      "id": "rc-069",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'Dr. Jean published a paper. His research focuses on microfinance.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dr. Jean, whose research focuses on microfinance, published a paper."
+        },
+        {
+          "id": "b",
+          "text": "Dr. Jean, who research focuses on microfinance, published a paper."
+        },
+        {
+          "id": "c",
+          "text": "Dr. Jean, whom research focuses on microfinance, published a paper."
+        },
+        {
+          "id": "d",
+          "text": "Dr. Jean that research focuses on microfinance published a paper."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whose' replaces the possessive pronoun 'his'."
+    },
+    {
+      "id": "rc-070",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'The project was successful. We launched it last month.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The project that we launched last month was successful."
+        },
+        {
+          "id": "b",
+          "text": "The project, that we launched last month, was successful."
+        },
+        {
+          "id": "c",
+          "text": "The project who we launched last month was successful."
+        },
+        {
+          "id": "d",
+          "text": "The project where we launched last month was successful."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'That' correctly connects the object relative clause without commas."
+    },
+    {
+      "id": "rc-071",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'The girl won the prize. Her mother is an architect.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The girl whose mother is an architect won the prize."
+        },
+        {
+          "id": "b",
+          "text": "The girl who mother is an architect won the prize."
+        },
+        {
+          "id": "c",
+          "text": "The girl, that mother is an architect, won the prize."
+        },
+        {
+          "id": "d",
+          "text": "The girl whom mother is an architect won the prize."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whose' replaces 'her' to show possession."
+    },
+    {
+      "id": "rc-072",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'I visited the village. My grandparents live there.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "I visited the village where my grandparents live."
+        },
+        {
+          "id": "b",
+          "text": "I visited the village when my grandparents live."
+        },
+        {
+          "id": "c",
+          "text": "I visited the village who my grandparents live."
+        },
+        {
+          "id": "d",
+          "text": "I visited the village whose my grandparents live."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Where' replaces 'there' to indicate place."
+    },
+    {
+      "id": "rc-073",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'She passed her exam. This surprised everyone.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "She passed her exam, which surprised everyone."
+        },
+        {
+          "id": "b",
+          "text": "She passed her exam, that surprised everyone."
+        },
+        {
+          "id": "c",
+          "text": "She passed her exam where surprised everyone."
+        },
+        {
+          "id": "d",
+          "text": "She passed her exam, who surprised everyone."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Which' after a comma refers back to the whole situation ('She passed her exam')."
+    },
+    {
+      "id": "rc-074",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: 'The company hired a consultant. You recommended him.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "The company hired the consultant whom you recommended."
+        },
+        {
+          "id": "b",
+          "text": "The company hired the consultant which you recommended."
+        },
+        {
+          "id": "c",
+          "text": "The company hired the consultant, that you recommended."
+        },
+        {
+          "id": "d",
+          "text": "The company hired the consultant whose you recommended."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Whom' (or 'who'/'that') refers to the consultant as the object of 'recommended'."
+    },
+    {
+      "id": "rc-075",
+      "topic": "Sentence combination",
+      "prompt": "Combine these sentences: '2015 was the year. The Sustainable Development Goals were adopted then.'",
+      "options": [
+        {
+          "id": "a",
+          "text": "2015 was the year when the Sustainable Development Goals were adopted."
+        },
+        {
+          "id": "b",
+          "text": "2015 was the year where the Sustainable Development Goals were adopted."
+        },
+        {
+          "id": "c",
+          "text": "2015 was the year which the Sustainable Development Goals were adopted then."
+        },
+        {
+          "id": "d",
+          "text": "2015 was the year whose the Sustainable Development Goals were adopted."
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'When' replaces 'then' to refer to a time period."
+    }
+  ]
+}

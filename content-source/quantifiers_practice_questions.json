@@ -1,0 +1,707 @@
+{
+    "title": "English Quantifiers Practice Questions",
+    "description": "50 practice questions based on the English Quantifiers Study Guide.",
+    "total_questions": 50,
+    "questions": [
+        {
+            "id": 1,
+            "category": "Countable and Uncountable Nouns",
+            "type": "multiple_choice",
+            "question": "Which of the following words is an uncountable noun?",
+            "options": [
+                "A) Book",
+                "B) Information",
+                "C) Apple",
+                "D) Question"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Information' is an uncountable noun and cannot be made plural directly."
+        },
+        {
+            "id": 2,
+            "category": "Countable and Uncountable Nouns",
+            "type": "multiple_choice",
+            "question": "Choose the grammatically correct sentence:",
+            "options": [
+                "A) She gave me three good advices.",
+                "B) She gave me an advice.",
+                "C) She gave me three pieces of advice.",
+                "D) She gave me three piece of advice."
+            ],
+            "correct_answer": "C",
+            "explanation": "Uncountable nouns like 'advice' use measure words like 'pieces of' to show quantity."
+        },
+        {
+            "id": 3,
+            "category": "Countable and Uncountable Nouns",
+            "type": "multiple_choice",
+            "question": "Select the incorrect expression:",
+            "options": [
+                "A) Two furnitures",
+                "B) Two pieces of furniture",
+                "C) Some furniture",
+                "D) A lot of furniture"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Furniture' is uncountable and cannot take the plural form 'furnitures'."
+        },
+        {
+            "id": 4,
+            "category": "Countable and Uncountable Nouns",
+            "type": "multiple_choice",
+            "question": "Which noun can be used with the article 'a' or 'an'?",
+            "options": [
+                "A) Traffic",
+                "B) Knowledge",
+                "C) Student",
+                "D) Equipment"
+            ],
+            "correct_answer": "C",
+            "explanation": "'Student' is a countable singular noun, so it takes 'a'."
+        },
+        {
+            "id": 5,
+            "category": "Countable and Uncountable Nouns",
+            "type": "fill_in_the_blank",
+            "question": "Complete the sentence: 'The technician installed three new ___ of equipment in the lab.'",
+            "options": [
+                "A) pieces",
+                "B) items",
+                "C) parts",
+                "D) both A and B"
+            ],
+            "correct_answer": "D",
+            "explanation": "Both 'pieces' and 'items' can be used as counters for uncountable nouns like equipment."
+        },
+        {
+            "id": 6,
+            "category": "Some and Any",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'I bought ___ apples at the store.'",
+            "options": [
+                "A) any",
+                "B) some",
+                "C) much",
+                "D) little"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Some' is used in affirmative statements with plural countable nouns."
+        },
+        {
+            "id": 7,
+            "category": "Some and Any",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'We do not have ___ money left for expenses.'",
+            "options": [
+                "A) some",
+                "B) any",
+                "C) many",
+                "D) few"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Any' is standard in negative statements."
+        },
+        {
+            "id": 8,
+            "category": "Some and Any",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'Would you like ___ coffee?'",
+            "options": [
+                "A) any",
+                "B) some",
+                "C) many",
+                "D) few"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Some' is used in questions when offering something."
+        },
+        {
+            "id": 9,
+            "category": "Some and Any",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'You can choose ___ book you like from the shelf.'",
+            "options": [
+                "A) any",
+                "B) some",
+                "C) many",
+                "D) much"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Any' in an affirmative sentence can mean 'it does not matter which'."
+        },
+        {
+            "id": 10,
+            "category": "Some and Any",
+            "type": "multiple_choice",
+            "question": "Which of the following is correct for a question asking for permission/request?",
+            "options": [
+                "A) Could I have any water, please?",
+                "B) Could I have some water, please?",
+                "C) Could I have many water, please?",
+                "D) Could I have few water, please?"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Some' is used in requests where a positive answer is expected."
+        },
+        {
+            "id": 11,
+            "category": "Much and Many",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'How ___ students are enrolled in the course?'",
+            "options": [
+                "A) much",
+                "B) many",
+                "C) little",
+                "D) any"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Many' is used with plural countable nouns like 'students'."
+        },
+        {
+            "id": 12,
+            "category": "Much and Many",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'There isn't ___ water left in the container.'",
+            "options": [
+                "A) many",
+                "B) several",
+                "C) much",
+                "D) few"
+            ],
+            "correct_answer": "C",
+            "explanation": "'Much' is used with uncountable nouns like 'water' in negative sentences."
+        },
+        {
+            "id": 13,
+            "category": "Much and Many",
+            "type": "multiple_choice",
+            "question": "Which option is most natural in informal affirmative sentences?",
+            "options": [
+                "A) I have much work to do today.",
+                "B) I have a lot of work to do today.",
+                "C) I have many work to do today.",
+                "D) I have few work to do today."
+            ],
+            "correct_answer": "B",
+            "explanation": "In informal affirmative sentences, 'a lot of' is more natural than 'much'."
+        },
+        {
+            "id": 14,
+            "category": "Much and Many",
+            "type": "multiple_choice",
+            "question": "Which context often uses 'much' in affirmative statements?",
+            "options": [
+                "A) Casual conversation",
+                "B) Formal academic writing",
+                "C) Text messages",
+                "D) Social media captions"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Much' is common in formal or academic contexts (e.g., 'Much research has been done')."
+        },
+        {
+            "id": 15,
+            "category": "Much and Many",
+            "type": "multiple_choice",
+            "question": "Identify the incorrect sentence:",
+            "options": [
+                "A) She doesn't have many friends.",
+                "B) There are much opportunities available.",
+                "C) How much money do you need?",
+                "D) We don't have much time."
+            ],
+            "correct_answer": "B",
+            "explanation": "'Opportunities' is countable plural, so it requires 'many', not 'much'."
+        },
+        {
+            "id": 16,
+            "category": "A Lot of, Lots of, Plenty of",
+            "type": "multiple_choice",
+            "question": "'Plenty of' strictly means:",
+            "options": [
+                "A) Hardly any",
+                "B) More than enough",
+                "C) Too little",
+                "D) Exactly one"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Plenty of' signifies a comfortable, sufficient quantity or more than enough."
+        },
+        {
+            "id": 17,
+            "category": "A Lot of, Lots of, Plenty of",
+            "type": "multiple_choice",
+            "question": "Which quantifier can be used with BOTH countable plural and uncountable nouns?",
+            "options": [
+                "A) Many",
+                "B) Much",
+                "C) A lot of",
+                "D) Few"
+            ],
+            "correct_answer": "C",
+            "explanation": "'A lot of' works with both countable plural nouns and uncountable nouns."
+        },
+        {
+            "id": 18,
+            "category": "A Lot of, Lots of, Plenty of",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'Don't rush, we have ___ time.'",
+            "options": [
+                "A) plenty of",
+                "B) many",
+                "C) few",
+                "D) a few"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Plenty of' fits uncountable 'time' to indicate more than enough time."
+        },
+        {
+            "id": 19,
+            "category": "A Lot of, Lots of, Plenty of",
+            "type": "multiple_choice",
+            "question": "Compare 'a lot of' and 'lots of':",
+            "options": [
+                "A) 'Lots of' is more formal than 'a lot of'.",
+                "B) 'Lots of' is slightly more informal than 'a lot of'.",
+                "C) 'A lot of' can only be used with countable nouns.",
+                "D) They have completely opposite meanings."
+            ],
+            "correct_answer": "B",
+            "explanation": "'Lots of' is slightly more informal than 'a lot of'."
+        },
+        {
+            "id": 20,
+            "category": "A Lot of, Lots of, Plenty of",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'There were ___ people at the seminar.'",
+            "options": [
+                "A) lots of",
+                "B) much",
+                "C) a little",
+                "D) little"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Lots of' modifies plural countable nouns like 'people'."
+        },
+        {
+            "id": 21,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "What is the difference in meaning between 'few' and 'a few'?",
+            "options": [
+                "A) 'Few' has a positive tone; 'a few' has a negative tone.",
+                "B) 'Few' means almost none (insufficient); 'a few' means some (sufficient).",
+                "C) 'Few' is used with uncountable nouns; 'a few' with countable nouns.",
+                "D) There is no grammatical difference."
+            ],
+            "correct_answer": "B",
+            "explanation": "'Few' implies scarcity (negative tone), while 'a few' means a small positive amount."
+        },
+        {
+            "id": 22,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'He has ___ experience in marketing, so he failed the assessment.'",
+            "options": [
+                "A) a little",
+                "B) little",
+                "C) a few",
+                "D) few"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Experience' is uncountable, and the negative result requires 'little' (almost none)."
+        },
+        {
+            "id": 23,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'We still have ___ minutes before the train leaves.'",
+            "options": [
+                "A) a little",
+                "B) little",
+                "C) a few",
+                "D) much"
+            ],
+            "correct_answer": "C",
+            "explanation": "'Minutes' is countable plural, and having some positive time left calls for 'a few'."
+        },
+        {
+            "id": 24,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'There is ___ hope of recovery.' (meaning almost no hope)",
+            "options": [
+                "A) a little",
+                "B) little",
+                "C) a few",
+                "D) few"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Hope' is uncountable; 'little hope' means almost no hope."
+        },
+        {
+            "id": 25,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "Which quantifier pairs correctly with uncountable nouns?",
+            "options": [
+                "A) Few / A few",
+                "B) Little / A little",
+                "C) Many / Several",
+                "D) Every / Each"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Little' and 'a little' modify uncountable nouns."
+        },
+        {
+            "id": 26,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "Select the correct sentence:",
+            "options": [
+                "A) I have a little friends in town.",
+                "B) She spoke a little Spanish during the trip.",
+                "C) There are little mistakes in your essay.",
+                "D) He has a few knowledge about economics."
+            ],
+            "correct_answer": "B",
+            "explanation": "'Spanish' (language) is uncountable, correctly modified by 'a little'."
+        },
+        {
+            "id": 27,
+            "category": "Few, A Few, Little, A Little",
+            "type": "multiple_choice",
+            "question": "If I say 'Few people attended the meeting', what does it imply?",
+            "options": [
+                "A) A large group was present.",
+                "B) The room was full.",
+                "C) Almost nobody came.",
+                "D) Exactly ten people came."
+            ],
+            "correct_answer": "C",
+            "explanation": "'Few people' emphasizes that attendance was very low."
+        },
+        {
+            "id": 28,
+            "category": "All, Every, Each",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: '___ student must bring their ID card.'",
+            "options": [
+                "A) All",
+                "B) Every",
+                "C) Both",
+                "D) All of"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Every' is followed by a singular countable noun ('student')."
+        },
+        {
+            "id": 29,
+            "category": "All, Every, Each",
+            "type": "multiple_choice",
+            "question": "Which quantifier focuses on members of a group individually?",
+            "options": [
+                "A) All",
+                "B) Every",
+                "C) Each",
+                "D) Most"
+            ],
+            "correct_answer": "C",
+            "explanation": "'Each' emphasizes individual items/members separately."
+        },
+        {
+            "id": 30,
+            "category": "All, Every, Each",
+            "type": "multiple_choice",
+            "question": "Identify the incorrect usage:",
+            "options": [
+                "A) Every students passed the exam.",
+                "B) Every student passed the exam.",
+                "C) All students passed the exam.",
+                "D) Each student received a certificate."
+            ],
+            "correct_answer": "A",
+            "explanation": "'Every' cannot be followed directly by a plural noun ('students')."
+        },
+        {
+            "id": 31,
+            "category": "All, Every, Each",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: '___ the information was stored safely.'",
+            "options": [
+                "A) Every",
+                "B) Each",
+                "C) All",
+                "D) Either"
+            ],
+            "correct_answer": "C",
+            "explanation": "'All' can modify uncountable nouns like 'information'."
+        },
+        {
+            "id": 32,
+            "category": "All, Every, Each",
+            "type": "multiple_choice",
+            "question": "Choose the sentence that emphasizes individual difference:",
+            "options": [
+                "A) Every candidate passed.",
+                "B) All candidates passed.",
+                "C) Each candidate received a different interview score.",
+                "D) All candidates received scores."
+            ],
+            "correct_answer": "C",
+            "explanation": "'Each' highlights individuality in the group."
+        },
+        {
+            "id": 33,
+            "category": "Both, Either, Neither",
+            "type": "multiple_choice",
+            "question": "How many items or people do 'both', 'either', and 'neither' refer to?",
+            "options": [
+                "A) Exactly three",
+                "B) Exactly two",
+                "C) More than five",
+                "D) Any number"
+            ],
+            "correct_answer": "B",
+            "explanation": "These three quantifiers specifically refer to sets of two."
+        },
+        {
+            "id": 34,
+            "category": "Both, Either, Neither",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: '___ answer is correct. They are both wrong.'",
+            "options": [
+                "A) Both",
+                "B) Either",
+                "C) Neither",
+                "D) Every"
+            ],
+            "correct_answer": "C",
+            "explanation": "'Neither' means 'not one and not the other'."
+        },
+        {
+            "id": 35,
+            "category": "Both, Either, Neither",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'You can choose ___ Monday or Tuesday for the interview.'",
+            "options": [
+                "A) both",
+                "B) either",
+                "C) neither",
+                "D) all"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Either... or' refers to choosing one of two options."
+        },
+        {
+            "id": 36,
+            "category": "Both, Either, Neither",
+            "type": "multiple_choice",
+            "question": "What verb form should formally follow 'Neither answer...'?",
+            "options": [
+                "A) is",
+                "B) are",
+                "C) were",
+                "D) have been"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Neither' takes a singular noun and singular verb in formal grammar."
+        },
+        {
+            "id": 37,
+            "category": "Both, Either, Neither",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: '___ of my parents are teachers.'",
+            "options": [
+                "A) Both",
+                "B) Either",
+                "C) Neither",
+                "D) Every"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Both of my parents' refers to the two parents together with a plural verb ('are')."
+        },
+        {
+            "id": 38,
+            "category": "Enough, Too Much, Too Many",
+            "type": "multiple_choice",
+            "question": "Where does 'enough' go when modifying a NOUN?",
+            "options": [
+                "A) Before the noun",
+                "B) After the noun",
+                "C) At the end of the clause",
+                "D) Before the verb"
+            ],
+            "correct_answer": "A",
+            "explanation": "'Enough' comes BEFORE a noun (e.g., 'enough money')."
+        },
+        {
+            "id": 39,
+            "category": "Enough, Too Much, Too Many",
+            "type": "multiple_choice",
+            "question": "Where does 'enough' go when modifying an ADJECTIVE?",
+            "options": [
+                "A) Before the adjective",
+                "B) After the adjective",
+                "C) At the start of the sentence",
+                "D) Never used with adjectives"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Enough' comes AFTER an adjective (e.g., 'old enough')."
+        },
+        {
+            "id": 40,
+            "category": "Enough, Too Much, Too Many",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'There is ___ noise in the hallway.'",
+            "options": [
+                "A) too many",
+                "B) too much",
+                "C) many",
+                "D) few"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Noise' is uncountable, requiring 'too much'."
+        },
+        {
+            "id": 41,
+            "category": "Enough, Too Much, Too Many",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'There are ___ errors in this report.'",
+            "options": [
+                "A) too much",
+                "B) too many",
+                "C) little",
+                "D) a little"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Errors' is countable plural, requiring 'too many'."
+        },
+        {
+            "id": 42,
+            "category": "Enough, Too Much, Too Many",
+            "type": "multiple_choice",
+            "question": "Choose the correct sentence:",
+            "options": [
+                "A) The room is enough big for us.",
+                "B) The room is big enough for us.",
+                "C) We have money enough to buy it.",
+                "D) She speaks clearly enough not."
+            ],
+            "correct_answer": "B",
+            "explanation": "'Big' is an adjective, so 'enough' follows it."
+        },
+        {
+            "id": 43,
+            "category": "No and None",
+            "type": "multiple_choice",
+            "question": "Which sentence contains an ungrammatical double negative?",
+            "options": [
+                "A) I don't have any money.",
+                "B) I have no money.",
+                "C) I don't have no money.",
+                "D) None of the money was lost."
+            ],
+            "correct_answer": "C",
+            "explanation": "'Don't have no' creates a double negative, which is incorrect in standard English."
+        },
+        {
+            "id": 44,
+            "category": "No and None",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'How many questions were answered? ___.'",
+            "options": [
+                "A) No",
+                "B) None",
+                "C) Any",
+                "D) Little"
+            ],
+            "correct_answer": "B",
+            "explanation": "'None' stands alone without a noun in short answers."
+        },
+        {
+            "id": 45,
+            "category": "No and None",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: '___ of the students were late.'",
+            "options": [
+                "A) No",
+                "B) None",
+                "C) Any",
+                "D) Much"
+            ],
+            "correct_answer": "B",
+            "explanation": "'None of' is used before determiners + nouns."
+        },
+        {
+            "id": 46,
+            "category": "Expressions with Of & Agreement",
+            "type": "multiple_choice",
+            "question": "What verb form follows 'A number of students...'?",
+            "options": [
+                "A) Plural verb (e.g., are)",
+                "B) Singular verb (e.g., is)",
+                "C) Uncountable verb",
+                "D) Past participle only"
+            ],
+            "correct_answer": "A",
+            "explanation": "'A number of' means many and takes a plural verb."
+        },
+        {
+            "id": 47,
+            "category": "Expressions with Of & Agreement",
+            "type": "multiple_choice",
+            "question": "What verb form follows 'The number of applicants...'?",
+            "options": [
+                "A) Plural verb (e.g., are)",
+                "B) Singular verb (e.g., is)",
+                "C) Base form only",
+                "D) No verb needed"
+            ],
+            "correct_answer": "B",
+            "explanation": "'The number of' refers to the single numeric total, taking a singular verb."
+        },
+        {
+            "id": 48,
+            "category": "Expressions with Of & Agreement",
+            "type": "multiple_choice",
+            "question": "Fill in the blank: 'A great deal of time ___ spent on research.'",
+            "options": [
+                "A) were",
+                "B) was",
+                "C) are",
+                "D) have been"
+            ],
+            "correct_answer": "B",
+            "explanation": "'A great deal of' modifies uncountable nouns ('time') and takes a singular verb."
+        },
+        {
+            "id": 49,
+            "category": "Expressions with Of & Agreement",
+            "type": "multiple_choice",
+            "question": "When is 'of' required after quantifiers like 'some' or 'many'?",
+            "options": [
+                "A) Before a generic plural noun",
+                "B) Before determiners like 'the', 'my', 'these', or pronouns like 'us'",
+                "C) Always",
+                "D) Never"
+            ],
+            "correct_answer": "B",
+            "explanation": "'Of' is used when referring to a specific group preceded by determiners/pronouns."
+        },
+        {
+            "id": 50,
+            "category": "Expressions with Of & Agreement",
+            "type": "multiple_choice",
+            "question": "Choose the correct sentence:",
+            "options": [
+                "A) A lot of information are online.",
+                "B) A lot of information is online.",
+                "C) A lot of students is present.",
+                "D) Many of students attended."
+            ],
+            "correct_answer": "B",
+            "explanation": "'A lot of' agreement depends on the noun: 'information' is uncountable, so it takes 'is'."
+        }
+    ]
+}

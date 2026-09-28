@@ -1,0 +1,902 @@
+{
+  "title": "Relative Clauses Practice Questions",
+  "total_questions": 75,
+  "description": "Practice questions on English relative clauses based on the study guide.",
+  "questions": [
+    {
+      "id": 1,
+      "type": "fill_in_the_blank",
+      "question": "The woman _____ lives next door is a doctor.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "where"
+      ],
+      "correct_answer": "who",
+      "explanation": "'Who' is used for people when functioning as the subject of the clause."
+    },
+    {
+      "id": 2,
+      "type": "fill_in_the_blank",
+      "question": "The book, _____ is on the table, belongs to the library.",
+      "options": [
+        "that",
+        "which",
+        "who",
+        "where"
+      ],
+      "correct_answer": "which",
+      "explanation": "'Which' is used for non-defining relative clauses referring to things. 'That' cannot be used after a comma."
+    },
+    {
+      "id": 3,
+      "type": "fill_in_the_blank",
+      "question": "The student _____ project won the competition is from Haiti.",
+      "options": [
+        "who",
+        "whom",
+        "whose",
+        "which"
+      ],
+      "correct_answer": "whose",
+      "explanation": "'Whose' indicates possession for people, animals, or things."
+    },
+    {
+      "id": 4,
+      "type": "fill_in_the_blank",
+      "question": "The man _____ you met yesterday is my uncle.",
+      "options": [
+        "whom",
+        "where",
+        "whose",
+        "which"
+      ],
+      "correct_answer": "whom",
+      "explanation": "'Whom' is used in formal English when referring to a person as the object of the clause."
+    },
+    {
+      "id": 5,
+      "type": "fill_in_the_blank",
+      "question": "This is the city _____ I was born.",
+      "options": [
+        "where",
+        "when",
+        "which",
+        "who"
+      ],
+      "correct_answer": "where",
+      "explanation": "'Where' is a relative adverb used to refer to locations."
+    },
+    {
+      "id": 6,
+      "type": "fill_in_the_blank",
+      "question": "I still remember the day _____ we first met.",
+      "options": [
+        "where",
+        "when",
+        "why",
+        "which"
+      ],
+      "correct_answer": "when",
+      "explanation": "'When' is a relative adverb used to refer to time."
+    },
+    {
+      "id": 7,
+      "type": "fill_in_the_blank",
+      "question": "That is the reason _____ she decided to leave early.",
+      "options": [
+        "why",
+        "where",
+        "when",
+        "whose"
+      ],
+      "correct_answer": "why",
+      "explanation": "'Why' is a relative adverb used to refer to reasons."
+    },
+    {
+      "id": 8,
+      "type": "fill_in_the_blank",
+      "question": "The car _____ I bought last week runs smoothly.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "whose"
+      ],
+      "correct_answer": "that",
+      "explanation": "'That' is used in defining relative clauses to refer to things."
+    },
+    {
+      "id": 9,
+      "type": "fill_in_the_blank",
+      "question": "Dr. Jean, _____ research focuses on microfinance, published a paper.",
+      "options": [
+        "who",
+        "whose",
+        "whom",
+        "which"
+      ],
+      "correct_answer": "whose",
+      "explanation": "'Whose' shows possession ('his research')."
+    },
+    {
+      "id": 10,
+      "type": "fill_in_the_blank",
+      "question": "She passed all her exams, _____ surprised her teachers.",
+      "options": [
+        "that",
+        "which",
+        "who",
+        "what"
+      ],
+      "correct_answer": "which",
+      "explanation": "'Which' can refer back to an entire preceding sentence or clause."
+    },
+    {
+      "id": 11,
+      "type": "fill_in_the_blank",
+      "question": "The restaurant _____ we had dinner was very crowded.",
+      "options": [
+        "where",
+        "which",
+        "who",
+        "when"
+      ],
+      "correct_answer": "where",
+      "explanation": "'Where' specifies the location where the action took place."
+    },
+    {
+      "id": 12,
+      "type": "fill_in_the_blank",
+      "question": "The applicant _____ credentials were verified was hired immediately.",
+      "options": [
+        "whose",
+        "who",
+        "whom",
+        "which"
+      ],
+      "correct_answer": "whose",
+      "explanation": "'Whose' indicates possession of credentials."
+    },
+    {
+      "id": 13,
+      "type": "fill_in_the_blank",
+      "question": "The report _____ was published yesterday contains vital data.",
+      "options": [
+        "which",
+        "who",
+        "where",
+        "when"
+      ],
+      "correct_answer": "which",
+      "explanation": "'Which' (or 'that') refers to things like reports."
+    },
+    {
+      "id": 14,
+      "type": "fill_in_the_blank",
+      "question": "The year _____ the company was founded was 2010.",
+      "options": [
+        "when",
+        "where",
+        "which",
+        "why"
+      ],
+      "correct_answer": "when",
+      "explanation": "'When' refers to time ('the year')."
+    },
+    {
+      "id": 15,
+      "type": "fill_in_the_blank",
+      "question": "The entrepreneur _____ you interviewed operates in Gonaïves.",
+      "options": [
+        "whom",
+        "where",
+        "which",
+        "whose"
+      ],
+      "correct_answer": "whom",
+      "explanation": "'Whom' is the object relative pronoun referring to the person being interviewed."
+    },
+    {
+      "id": 16,
+      "type": "fill_in_the_blank",
+      "question": "Port-au-Prince, _____ is the capital of Haiti, has a vibrant culture.",
+      "options": [
+        "which",
+        "that",
+        "where",
+        "who"
+      ],
+      "correct_answer": "which",
+      "explanation": "In non-defining relative clauses, 'which' must be used for places/things, not 'that'."
+    },
+    {
+      "id": 17,
+      "type": "fill_in_the_blank",
+      "question": "The dog _____ owner lives upstairs barked all night.",
+      "options": [
+        "whose",
+        "who",
+        "which",
+        "that"
+      ],
+      "correct_answer": "whose",
+      "explanation": "'Whose' indicates possession for animals as well."
+    },
+    {
+      "id": 18,
+      "type": "fill_in_the_blank",
+      "question": "The candidate _____ we recommended got the job offer.",
+      "options": [
+        "whom",
+        "where",
+        "whose",
+        "which"
+      ],
+      "correct_answer": "whom",
+      "explanation": "'Whom' is used for people in the object position in formal English."
+    },
+    {
+      "id": 19,
+      "type": "fill_in_the_blank",
+      "question": "The building _____ was damaged in the storm is being repaired.",
+      "options": [
+        "that",
+        "who",
+        "where",
+        "when"
+      ],
+      "correct_answer": "that",
+      "explanation": "'That' refers to things in defining relative clauses."
+    },
+    {
+      "id": 20,
+      "type": "fill_in_the_blank",
+      "question": "The moment _____ she announced the winner was unforgettable.",
+      "options": [
+        "when",
+        "where",
+        "which",
+        "why"
+      ],
+      "correct_answer": "when",
+      "explanation": "'When' is used for time references."
+    },
+    {
+      "id": 21,
+      "type": "fill_in_the_blank",
+      "question": "My colleague, _____ speaks three languages, led the conference.",
+      "options": [
+        "who",
+        "that",
+        "which",
+        "whom"
+      ],
+      "correct_answer": "who",
+      "explanation": "'Who' is used for people in non-defining relative clauses. 'That' is prohibited."
+    },
+    {
+      "id": 22,
+      "type": "fill_in_the_blank",
+      "question": "The hotel _____ we stayed offered a beautiful view of the bay.",
+      "options": [
+        "where",
+        "when",
+        "who",
+        "whose"
+      ],
+      "correct_answer": "where",
+      "explanation": "'Where' refers to place."
+    },
+    {
+      "id": 23,
+      "type": "fill_in_the_blank",
+      "question": "He lost his wallet, _____ forced him to cancel his credit cards.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "where"
+      ],
+      "correct_answer": "which",
+      "explanation": "'Which' refers back to the entire clause 'He lost his wallet'."
+    },
+    {
+      "id": 24,
+      "type": "fill_in_the_blank",
+      "question": "The author _____ latest novel became a bestseller is visiting town.",
+      "options": [
+        "whose",
+        "who",
+        "whom",
+        "which"
+      ],
+      "correct_answer": "whose",
+      "explanation": "'Whose' indicates possession ('her latest novel')."
+    },
+    {
+      "id": 25,
+      "type": "fill_in_the_blank",
+      "question": "The reason _____ he applied for the grant was clear.",
+      "options": [
+        "why",
+        "where",
+        "when",
+        "who"
+      ],
+      "correct_answer": "why",
+      "explanation": "'Why' introduces reasons."
+    },
+    {
+      "id": 26,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The project that we launched last month is successful.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "The clause specifies which project and is essential to the sentence meaning; no commas are used."
+    },
+    {
+      "id": 27,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'My colleague, who specializes in AI, gave a presentation.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "The clause adds extra information, is enclosed in commas, and the main sentence makes full sense without it."
+    },
+    {
+      "id": 28,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The Eiffel Tower, which is in Paris, is a famous landmark.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "The information is extra detail enclosed in commas."
+    },
+    {
+      "id": 29,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'Students who study regularly achieve higher marks.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "The clause restricts the noun to specific students (only those who study regularly)."
+    },
+    {
+      "id": 30,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The microfinance institution which operates in Haiti serves 10,000 clients.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "There are no commas, indicating the clause defines which institution."
+    },
+    {
+      "id": 31,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The SDGs, which were adopted in 2015, guide global development.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "The clause adds supplementary information enclosed in commas."
+    },
+    {
+      "id": 32,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The car that is parked outside belongs to the director.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "It identifies the specific car; 'that' is used without commas."
+    },
+    {
+      "id": 33,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'My brother, who lives in Miami, is visiting next week.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "Commas separate the extra detail about where the brother lives."
+    },
+    {
+      "id": 34,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The doctor who examined me was very thorough.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "Essential information identifying which doctor is meant."
+    },
+    {
+      "id": 35,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'Coffee, which is grown in many tropical regions, is popular worldwide.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "The clause provides extra non-essential details enclosed in commas."
+    },
+    {
+      "id": 36,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The house where I grew up has been renovated.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "It specifies which house is being referred to."
+    },
+    {
+      "id": 37,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'Her speech, which lasted forty minutes, inspired everyone.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "The length of the speech is non-essential detail surrounded by commas."
+    },
+    {
+      "id": 38,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The software that was installed yesterday caused a system error.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "Essential clause specifying which software caused the issue."
+    },
+    {
+      "id": 39,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'Professor Williams, whose book won an award, will give a lecture.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Non-Defining (Non-Restrictive)",
+      "explanation": "Extra possessive detail about a named individual set off by commas."
+    },
+    {
+      "id": 40,
+      "type": "identify_clause_type",
+      "question": "Classify the relative clause in: 'The reason why she quit her job remains unknown.'",
+      "options": [
+        "Defining (Restrictive)",
+        "Non-Defining (Non-Restrictive)"
+      ],
+      "correct_answer": "Defining (Restrictive)",
+      "explanation": "Essential clause restricting the noun 'reason'."
+    },
+    {
+      "id": 41,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'My teacher, that is from Canada, speaks French.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. 'That' cannot be used in non-defining relative clauses (with commas). Use 'who' instead."
+    },
+    {
+      "id": 42,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The book, that I read, was interesting.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. Do not use commas around defining relative clauses, nor use 'that' after a comma."
+    },
+    {
+      "id": 43,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The woman which called is my aunt.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. 'Which' cannot refer to people. Use 'who' or 'that'."
+    },
+    {
+      "id": 44,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'My friend, lives in Pétionville, is a marketer.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. Relative pronouns cannot be omitted in non-defining relative clauses. It should be 'who lives in Pétionville'."
+    },
+    {
+      "id": 45,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The man who I saw at the market was helpful.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Correct",
+      "explanation": "Correct. 'Who' (or 'whom'/'that') can be used as object pronouns in informal and everyday spoken English."
+    },
+    {
+      "id": 46,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The report, which was published yesterday, contains new data.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Correct",
+      "explanation": "Correct. Non-defining clause correctly uses 'which' and commas."
+    },
+    {
+      "id": 47,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'This is the laptop, that I bought last week.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. Unnecessary comma before 'that' in a defining relative clause."
+    },
+    {
+      "id": 48,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The student whose project won is from Haiti.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Correct",
+      "explanation": "Correct. 'Whose' correctly indicates possession in a defining relative clause."
+    },
+    {
+      "id": 49,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The manager which hired me left the firm.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. 'Which' is used for things/animals, not people. Use 'who' or 'that'."
+    },
+    {
+      "id": 50,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'She failed the exam, that made her parents upset.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. When referring to a whole preceding clause after a comma, use 'which', not 'that'."
+    },
+    {
+      "id": 51,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The hospital where my sister works is downtown.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Correct",
+      "explanation": "Correct. 'Where' is correctly used to specify place."
+    },
+    {
+      "id": 52,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'My uncle, who's house is nearby, is a carpenter.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. 'Who's' means 'who is'. The possessive form is 'whose'."
+    },
+    {
+      "id": 53,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The firm, whose headquarters are in Paris, expanded to America.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Correct",
+      "explanation": "Correct. 'Whose' can refer to entities/things to show possession."
+    },
+    {
+      "id": 54,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The place when we met was quiet.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Incorrect",
+      "explanation": "Incorrect. 'When' refers to time, whereas 'place' requires 'where'."
+    },
+    {
+      "id": 55,
+      "type": "error_identification",
+      "question": "Is this sentence correct or incorrect? 'The movie that we saw yesterday was thrilling.'",
+      "options": [
+        "Correct",
+        "Incorrect"
+      ],
+      "correct_answer": "Correct",
+      "explanation": "Correct. Defining relative clause correctly uses 'that'."
+    },
+    {
+      "id": 56,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The book [that] I read was interesting', can the relative pronoun 'that' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "Yes, it can be omitted.",
+      "explanation": "Yes. In defining relative clauses, the pronoun can be omitted if it functions as the object of the clause ('I read [the book]')."
+    },
+    {
+      "id": 57,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The man who called you is my brother', can 'who' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "No, it cannot be omitted.",
+      "explanation": "No. 'Who' is the subject of the clause ('who called you'), so it cannot be omitted."
+    },
+    {
+      "id": 58,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'My brother, who lives in Miami, is visiting next week', can 'who' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "No, it cannot be omitted.",
+      "explanation": "No. Relative pronouns can NEVER be omitted in non-defining relative clauses."
+    },
+    {
+      "id": 59,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The song that you played was beautiful', can 'that' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "Yes, it can be omitted.",
+      "explanation": "Yes. 'That' is the object of 'played' in a defining clause, so it can be omitted ('The song you played...')."
+    },
+    {
+      "id": 60,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The woman who lives next door is a doctor', can 'who' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "No, it cannot be omitted.",
+      "explanation": "No. 'Who' is the subject of 'lives'."
+    },
+    {
+      "id": 61,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The candidate whom you interviewed was impressive', can 'whom' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "Yes, it can be omitted.",
+      "explanation": "Yes. 'Whom' is the object of the verb 'interviewed' in a defining clause."
+    },
+    {
+      "id": 62,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The Eiffel Tower, which is in Paris, is famous', can 'which' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "No, it cannot be omitted.",
+      "explanation": "No. Pronouns cannot be omitted in non-defining relative clauses."
+    },
+    {
+      "id": 63,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The car that was parked outside was stolen', can 'that' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "No, it cannot be omitted.",
+      "explanation": "No. 'That' acts as the subject of 'was parked'."
+    },
+    {
+      "id": 64,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The food which we ordered arrived late', can 'which' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "Yes, it can be omitted.",
+      "explanation": "Yes. 'Which' is the object of 'ordered' in a defining relative clause."
+    },
+    {
+      "id": 65,
+      "type": "pronoun_omission",
+      "question": "In the sentence 'The person whose phone rang left the room', can 'whose' be omitted?",
+      "options": [
+        "Yes, it can be omitted.",
+        "No, it cannot be omitted."
+      ],
+      "correct_answer": "No, it cannot be omitted.",
+      "explanation": "No. Possessive relative pronouns ('whose') can never be omitted."
+    },
+    {
+      "id": 66,
+      "type": "sentence_combination",
+      "question": "Combine these sentences using a defining relative clause: 'I met a woman. She works in digital marketing.'",
+      "options": [
+        "I met a woman who works in digital marketing.",
+        "I met a woman, that works in digital marketing.",
+        "I met a woman, which works in digital marketing.",
+        "I met a woman whose works in digital marketing."
+      ],
+      "correct_answer": "I met a woman who works in digital marketing.",
+      "explanation": "'Who' introduces the subject relative clause without commas for a defining relationship."
+    },
+    {
+      "id": 67,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'The course is online. It focuses on sustainable development.'",
+      "options": [
+        "The course that focuses on sustainable development is online.",
+        "The course, who focuses on sustainable development, is online.",
+        "The course where focuses on sustainable development is online.",
+        "The course whose focuses on sustainable development is online."
+      ],
+      "correct_answer": "The course that focuses on sustainable development is online.",
+      "explanation": "'That' or 'which' correctly modifies the non-person noun 'course'."
+    },
+    {
+      "id": 68,
+      "type": "sentence_combination",
+      "question": "Combine these sentences using a non-defining relative clause: 'Port-au-Prince is the capital. I was born there.'",
+      "options": [
+        "Port-au-Prince, where I was born, is the capital.",
+        "Port-au-Prince that I was born there is the capital.",
+        "Port-au-Prince, which I was born, is the capital.",
+        "Port-au-Prince who I was born in is the capital."
+      ],
+      "correct_answer": "Port-au-Prince, where I was born, is the capital.",
+      "explanation": "'Where' introduces the relative clause of location, set off by commas."
+    },
+    {
+      "id": 69,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'Dr. Jean published a paper. His research focuses on microfinance.'",
+      "options": [
+        "Dr. Jean, whose research focuses on microfinance, published a paper.",
+        "Dr. Jean, who research focuses on microfinance, published a paper.",
+        "Dr. Jean, whom research focuses on microfinance, published a paper.",
+        "Dr. Jean that research focuses on microfinance published a paper."
+      ],
+      "correct_answer": "Dr. Jean, whose research focuses on microfinance, published a paper.",
+      "explanation": "'Whose' replaces the possessive pronoun 'his'."
+    },
+    {
+      "id": 70,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'The project was successful. We launched it last month.'",
+      "options": [
+        "The project that we launched last month was successful.",
+        "The project, that we launched last month, was successful.",
+        "The project who we launched last month was successful.",
+        "The project where we launched last month was successful."
+      ],
+      "correct_answer": "The project that we launched last month was successful.",
+      "explanation": "'That' correctly connects the object relative clause without commas."
+    },
+    {
+      "id": 71,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'The girl won the prize. Her mother is an architect.'",
+      "options": [
+        "The girl whose mother is an architect won the prize.",
+        "The girl who mother is an architect won the prize.",
+        "The girl, that mother is an architect, won the prize.",
+        "The girl whom mother is an architect won the prize."
+      ],
+      "correct_answer": "The girl whose mother is an architect won the prize.",
+      "explanation": "'Whose' replaces 'her' to show possession."
+    },
+    {
+      "id": 72,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'I visited the village. My grandparents live there.'",
+      "options": [
+        "I visited the village where my grandparents live.",
+        "I visited the village when my grandparents live.",
+        "I visited the village who my grandparents live.",
+        "I visited the village whose my grandparents live."
+      ],
+      "correct_answer": "I visited the village where my grandparents live.",
+      "explanation": "'Where' replaces 'there' to indicate place."
+    },
+    {
+      "id": 73,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'She passed her exam. This surprised everyone.'",
+      "options": [
+        "She passed her exam, which surprised everyone.",
+        "She passed her exam, that surprised everyone.",
+        "She passed her exam where surprised everyone.",
+        "She passed her exam, who surprised everyone."
+      ],
+      "correct_answer": "She passed her exam, which surprised everyone.",
+      "explanation": "'Which' after a comma refers back to the whole situation ('She passed her exam')."
+    },
+    {
+      "id": 74,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: 'The company hired a consultant. You recommended him.'",
+      "options": [
+        "The company hired the consultant whom you recommended.",
+        "The company hired the consultant which you recommended.",
+        "The company hired the consultant, that you recommended.",
+        "The company hired the consultant whose you recommended."
+      ],
+      "correct_answer": "The company hired the consultant whom you recommended.",
+      "explanation": "'Whom' (or 'who'/'that') refers to the consultant as the object of 'recommended'."
+    },
+    {
+      "id": 75,
+      "type": "sentence_combination",
+      "question": "Combine these sentences: '2015 was the year. The Sustainable Development Goals were adopted then.'",
+      "options": [
+        "2015 was the year when the Sustainable Development Goals were adopted.",
+        "2015 was the year where the Sustainable Development Goals were adopted.",
+        "2015 was the year which the Sustainable Development Goals were adopted then.",
+        "2015 was the year whose the Sustainable Development Goals were adopted."
+      ],
+      "correct_answer": "2015 was the year when the Sustainable Development Goals were adopted.",
+      "explanation": "'When' replaces 'then' to refer to a time period."
+    }
+  ]
+}

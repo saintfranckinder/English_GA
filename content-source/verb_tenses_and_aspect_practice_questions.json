@@ -1,0 +1,782 @@
+[
+  {
+    "id": 1,
+    "category": "Present Tenses",
+    "question": "She usually _____ (walk) to work, but today she _____ (take) the bus.",
+    "options": [
+      "walks / is taking",
+      "is walking / takes",
+      "walks / takes",
+      "is walking / is taking"
+    ],
+    "answer": "walks / is taking",
+    "explanation": "Use present simple for habits ('walks') and present continuous for temporary actions happening today ('is taking')."
+  },
+  {
+    "id": 2,
+    "category": "Present Tenses",
+    "question": "Water _____ (boil) at 100 degrees Celsius at sea level.",
+    "options": [
+      "boils",
+      "is boiling",
+      "has boiled",
+      "will boil"
+    ],
+    "answer": "boils",
+    "explanation": "Use present simple for general facts and scientific laws."
+  },
+  {
+    "id": 3,
+    "category": "Present Tenses",
+    "question": "Listen! Someone _____ (play) the piano upstairs.",
+    "options": [
+      "plays",
+      "is playing",
+      "has played",
+      "played"
+    ],
+    "answer": "is playing",
+    "explanation": "Use present continuous for an action currently in progress at the moment of speaking."
+  },
+  {
+    "id": 4,
+    "category": "Present Tenses",
+    "question": "The train _____ (leave) at six o'clock tomorrow morning.",
+    "options": [
+      "leaves",
+      "is leaving",
+      "has left",
+      "will be left"
+    ],
+    "answer": "leaves",
+    "explanation": "Use present simple for fixed timetables and scheduled future events."
+  },
+  {
+    "id": 5,
+    "category": "Present Tenses",
+    "question": "I _____ (stay) with my cousin this week while my apartment is being painted.",
+    "options": [
+      "stay",
+      "am staying",
+      "have stayed",
+      "stayed"
+    ],
+    "answer": "am staying",
+    "explanation": "Use present continuous for temporary situations."
+  },
+  {
+    "id": 6,
+    "category": "Present Tenses",
+    "question": "He _____ (not / understand) the grammar lesson at all.",
+    "options": [
+      "does not understand",
+      "is not understanding",
+      "has not understand",
+      "do not understand"
+    ],
+    "answer": "does not understand",
+    "explanation": "'Understand' is a stative verb and is used in the simple present, not continuous."
+  },
+  {
+    "id": 7,
+    "category": "Present Tenses",
+    "question": "The climate _____ (get) warmer every year.",
+    "options": [
+      "gets",
+      "is getting",
+      "has gotten",
+      "got"
+    ],
+    "answer": "is getting",
+    "explanation": "Use present continuous to describe developing or changing situations."
+  },
+  {
+    "id": 8,
+    "category": "Present Tenses",
+    "question": "They _____ (study) English every Monday afternoon.",
+    "options": [
+      "study",
+      "are studying",
+      "have studied",
+      "will study"
+    ],
+    "answer": "study",
+    "explanation": "Use present simple for habits and repeated actions."
+  },
+  {
+    "id": 9,
+    "category": "Present Tenses",
+    "question": "Why _____ (you / look) at me like that?",
+    "options": [
+      "do you look",
+      "are you looking",
+      "have you looked",
+      "did you look"
+    ],
+    "answer": "are you looking",
+    "explanation": "Use present continuous for an action in progress right now."
+  },
+  {
+    "id": 10,
+    "category": "Present Tenses",
+    "question": "My brother _____ (live) in Toronto.",
+    "options": [
+      "lives",
+      "is living",
+      "has lived",
+      "was living"
+    ],
+    "answer": "lives",
+    "explanation": "Use present simple to describe a permanent state or situation."
+  },
+  {
+    "id": 11,
+    "category": "Present Perfect Tenses",
+    "question": "I _____ (visit) Japan twice in my life.",
+    "options": [
+      "visited",
+      "have visited",
+      "have been visiting",
+      "had visited"
+    ],
+    "answer": "have visited",
+    "explanation": "Use present perfect simple to describe life experiences up to the present without a specific past time."
+  },
+  {
+    "id": 12,
+    "category": "Present Perfect Tenses",
+    "question": "She _____ (live) in this house for five years.",
+    "options": [
+      "lives",
+      "has lived",
+      "is living",
+      "lived"
+    ],
+    "answer": "has lived",
+    "explanation": "Use present perfect to describe a situation that started in the past and continues into the present."
+  },
+  {
+    "id": 13,
+    "category": "Present Perfect Tenses",
+    "question": "They are tired because they _____ (run) for an hour.",
+    "options": [
+      "ran",
+      "have run",
+      "have been running",
+      "are running"
+    ],
+    "answer": "have been running",
+    "explanation": "Use present perfect continuous to focus on an activity that has recently stopped with a visible present result."
+  },
+  {
+    "id": 14,
+    "category": "Present Perfect Tenses",
+    "question": "He _____ (lose) his keys and cannot open the front door.",
+    "options": [
+      "lost",
+      "has lost",
+      "has been losing",
+      "loses"
+    ],
+    "answer": "has lost",
+    "explanation": "Use present perfect simple for a past event that has a clear result in the present."
+  },
+  {
+    "id": 15,
+    "category": "Present Perfect Tenses",
+    "question": "How long _____ (you / wait) for the bus?",
+    "options": [
+      "do you wait",
+      "are you waiting",
+      "have you been waiting",
+      "did you wait"
+    ],
+    "answer": "have you been waiting",
+    "explanation": "Use present perfect continuous to ask about the duration of an activity ongoing up to now."
+  },
+  {
+    "id": 16,
+    "category": "Present Perfect Tenses",
+    "question": "She _____ (write) three reports this morning.",
+    "options": [
+      "wrote",
+      "has written",
+      "has been writing",
+      "writes"
+    ],
+    "answer": "has written",
+    "explanation": "Use present perfect simple to emphasize the completed quantity/result of an activity."
+  },
+  {
+    "id": 17,
+    "category": "Present Perfect Tenses",
+    "question": "I _____ (know) her since high school.",
+    "options": [
+      "know",
+      "have known",
+      "have been knowing",
+      "knew"
+    ],
+    "answer": "have known",
+    "explanation": "'Know' is a stative verb, so use present perfect simple rather than continuous."
+  },
+  {
+    "id": 18,
+    "category": "Present Perfect Tenses",
+    "question": "Look! Someone _____ (break) the window.",
+    "options": [
+      "broke",
+      "has broken",
+      "has been breaking",
+      "breaks"
+    ],
+    "answer": "has broken",
+    "explanation": "Use present perfect for a recent past action with direct present relevance."
+  },
+  {
+    "id": 19,
+    "category": "Present Perfect Tenses",
+    "question": "We _____ (study) for three hours without a break.",
+    "options": [
+      "are studying",
+      "have been studying",
+      "study",
+      "were studying"
+    ],
+    "answer": "have been studying",
+    "explanation": "Use present perfect continuous to emphasize duration of an ongoing action."
+  },
+  {
+    "id": 20,
+    "category": "Present Perfect Tenses",
+    "question": "_____ (you / ever / eat) sushi?",
+    "options": [
+      "Did you ever eat",
+      "Have you ever eaten",
+      "Do you ever eat",
+      "Have you ever been eating"
+    ],
+    "answer": "Have you ever eaten",
+    "explanation": "Use present perfect with 'ever' to ask about life experiences."
+  },
+  {
+    "id": 21,
+    "category": "Past Tenses",
+    "question": "We _____ (watch) a film last night.",
+    "options": [
+      "watched",
+      "were watching",
+      "have watched",
+      "had watched"
+    ],
+    "answer": "watched",
+    "explanation": "Use past simple for completed events at a specific time in the past ('last night')."
+  },
+  {
+    "id": 22,
+    "category": "Past Tenses",
+    "question": "At eight o'clock yesterday, I _____ (study) in the library.",
+    "options": [
+      "studied",
+      "was studying",
+      "have studied",
+      "had studied"
+    ],
+    "answer": "was studying",
+    "explanation": "Use past continuous for an action in progress at a specific past time."
+  },
+  {
+    "id": 23,
+    "category": "Past Tenses",
+    "question": "I _____ (cook) dinner when the phone rang.",
+    "options": [
+      "cooked",
+      "was cooking",
+      "have cooked",
+      "had cooked"
+    ],
+    "answer": "was cooking",
+    "explanation": "Use past continuous for an ongoing background action interrupted by a past simple event."
+  },
+  {
+    "id": 24,
+    "category": "Past Tenses",
+    "question": "She _____ (open) the door, walked in, and sat down.",
+    "options": [
+      "opened",
+      "was opening",
+      "has opened",
+      "had opened"
+    ],
+    "answer": "opened",
+    "explanation": "Use past simple for a sequence of completed past actions."
+  },
+  {
+    "id": 25,
+    "category": "Past Tenses",
+    "question": "While she _____ (read) a book, he was writing a letter.",
+    "options": [
+      "read",
+      "was reading",
+      "has read",
+      "had read"
+    ],
+    "answer": "was reading",
+    "explanation": "Use past continuous for two actions happening simultaneously in the past."
+  },
+  {
+    "id": 26,
+    "category": "Past Tenses",
+    "question": "They _____ (go) to the museum yesterday.",
+    "options": [
+      "went",
+      "were going",
+      "have gone",
+      "had gone"
+    ],
+    "answer": "went",
+    "explanation": "Use past simple with finished past time expressions like 'yesterday'."
+  },
+  {
+    "id": 27,
+    "category": "Past Tenses",
+    "question": "The sun _____ (shine) when we left the house.",
+    "options": [
+      "shone",
+      "was shining",
+      "has shone",
+      "had shone"
+    ],
+    "answer": "was shining",
+    "explanation": "Use past continuous to set the background scene in the past."
+  },
+  {
+    "id": 28,
+    "category": "Past Tenses",
+    "question": "He _____ (live) in Paris as a child.",
+    "options": [
+      "lived",
+      "was living",
+      "has lived",
+      "had lived"
+    ],
+    "answer": "lived",
+    "explanation": "Use past simple for past states or habits that are finished."
+  },
+  {
+    "id": 29,
+    "category": "Past Tenses",
+    "question": "What _____ (you / do) when the power went out?",
+    "options": [
+      "did you do",
+      "were you doing",
+      "have you done",
+      "had you done"
+    ],
+    "answer": "were you doing",
+    "explanation": "Use past continuous to ask about an action in progress when an event occurred."
+  },
+  {
+    "id": 30,
+    "category": "Past Tenses",
+    "question": "I _____ (see) an interesting documentary last week.",
+    "options": [
+      "saw",
+      "was seeing",
+      "have seen",
+      "had seen"
+    ],
+    "answer": "saw",
+    "explanation": "Use past simple with finished time references ('last week')."
+  },
+  {
+    "id": 31,
+    "category": "Past Perfect Tenses",
+    "question": "When I arrived at the cinema, the film _____ (start).",
+    "options": [
+      "started",
+      "was starting",
+      "had started",
+      "has started"
+    ],
+    "answer": "had started",
+    "explanation": "Use past perfect for an action completed before another past event."
+  },
+  {
+    "id": 32,
+    "category": "Past Perfect Tenses",
+    "question": "She was exhausted because she _____ (work) all day.",
+    "options": [
+      "worked",
+      "was working",
+      "had worked",
+      "has worked"
+    ],
+    "answer": "had worked",
+    "explanation": "Use past perfect to show a past cause for a past state."
+  },
+  {
+    "id": 33,
+    "category": "Past Perfect Tenses",
+    "question": "They _____ (wait) for an hour when the bus finally arrived.",
+    "options": [
+      "waited",
+      "were waiting",
+      "had been waiting",
+      "have been waiting"
+    ],
+    "answer": "had been waiting",
+    "explanation": "Use past perfect continuous to emphasize duration before a past reference point."
+  },
+  {
+    "id": 34,
+    "category": "Past Perfect Tenses",
+    "question": "By the time we got to the party, everyone _____ (eat) dinner.",
+    "options": [
+      "ate",
+      "was eating",
+      "had eaten",
+      "has eaten"
+    ],
+    "answer": "had eaten",
+    "explanation": "Use past perfect simple for completion before a specified past time."
+  },
+  {
+    "id": 35,
+    "category": "Past Perfect Tenses",
+    "question": "He was dirty because he _____ (repair) the bicycle.",
+    "options": [
+      "repaired",
+      "had been repairing",
+      "was repairing",
+      "has been repairing"
+    ],
+    "answer": "had been repairing",
+    "explanation": "Use past perfect continuous for an earlier ongoing activity explaining a past result."
+  },
+  {
+    "id": 36,
+    "category": "Past Perfect Tenses",
+    "question": "She _____ (study) for hours before taking a dinner break.",
+    "options": [
+      "studied",
+      "was studying",
+      "had been studying",
+      "has been studying"
+    ],
+    "answer": "had been studying",
+    "explanation": "Use past perfect continuous to show an activity continuing up to a past event."
+  },
+  {
+    "id": 37,
+    "category": "Past Perfect Tenses",
+    "question": "They _____ (already / leave) when I called their house.",
+    "options": [
+      "already left",
+      "had already left",
+      "have already left",
+      "were already leaving"
+    ],
+    "answer": "had already left",
+    "explanation": "Use past perfect with 'already' to indicate completion prior to another past event."
+  },
+  {
+    "id": 38,
+    "category": "Past Perfect Tenses",
+    "question": "I realized I _____ (forget) my wallet at home.",
+    "options": [
+      "forgot",
+      "had forgotten",
+      "was forgetting",
+      "have forgotten"
+    ],
+    "answer": "had forgotten",
+    "explanation": "Use past perfect because forgetting happened before the realization in the past."
+  },
+  {
+    "id": 39,
+    "category": "Past Perfect Tenses",
+    "question": "How long _____ (she / live) there before she moved?",
+    "options": [
+      "did she live",
+      "had she been living",
+      "was she living",
+      "has she lived"
+    ],
+    "answer": "had she been living",
+    "explanation": "Use past perfect continuous to ask about duration prior to a past point of change."
+  },
+  {
+    "id": 40,
+    "category": "Past Perfect Tenses",
+    "question": "The ground was wet because it _____ (rain) all night.",
+    "options": [
+      "rained",
+      "was raining",
+      "had been raining",
+      "has rained"
+    ],
+    "answer": "had been raining",
+    "explanation": "Use past perfect continuous for an earlier activity that left visible evidence in the past."
+  },
+  {
+    "id": 41,
+    "category": "Future Time Forms",
+    "question": "I think it _____ (rain) tomorrow.",
+    "options": [
+      "will rain",
+      "is going to rain",
+      "rains",
+      "is raining"
+    ],
+    "answer": "will rain",
+    "explanation": "Use 'will' for future predictions based on opinion."
+  },
+  {
+    "id": 42,
+    "category": "Future Time Forms",
+    "question": "Look at those dark clouds. It _____ (rain).",
+    "options": [
+      "will rain",
+      "is going to rain",
+      "rains",
+      "will be raining"
+    ],
+    "answer": "is going to rain",
+    "explanation": "Use 'be going to' for predictions based on present evidence."
+  },
+  {
+    "id": 43,
+    "category": "Future Time Forms",
+    "question": "The phone is ringing. I _____ (answer) it.",
+    "options": [
+      "will answer",
+      "am going to answer",
+      "answer",
+      "am answering"
+    ],
+    "answer": "will answer",
+    "explanation": "Use 'will' for spontaneous decisions made at the moment of speaking."
+  },
+  {
+    "id": 44,
+    "category": "Future Time Forms",
+    "question": "We _____ (meet) the tutor tomorrow at 10 AM.",
+    "options": [
+      "meet",
+      "are meeting",
+      "will have met",
+      "met"
+    ],
+    "answer": "are meeting",
+    "explanation": "Use present continuous for planned future arrangements."
+  },
+  {
+    "id": 45,
+    "category": "Future Time Forms",
+    "question": "This time tomorrow, I _____ (fly) to London.",
+    "options": [
+      "will fly",
+      "will be flying",
+      "fly",
+      "am flying"
+    ],
+    "answer": "will be flying",
+    "explanation": "Use future continuous for an action that will be in progress at a specific future time."
+  },
+  {
+    "id": 46,
+    "category": "Future Time Forms",
+    "question": "By Friday, I _____ (finish) the entire project.",
+    "options": [
+      "will finish",
+      "will have finished",
+      "am finishing",
+      "finish"
+    ],
+    "answer": "will have finished",
+    "explanation": "Use future perfect to describe an action that will be completed by a future point."
+  },
+  {
+    "id": 47,
+    "category": "Future Time Forms",
+    "question": "By June, she _____ (work) here for two years.",
+    "options": [
+      "will work",
+      "will be working",
+      "will have been working",
+      "works"
+    ],
+    "answer": "will have been working",
+    "explanation": "Use future perfect continuous to emphasize duration up to a future reference point."
+  },
+  {
+    "id": 48,
+    "category": "Future Time Forms",
+    "question": "The flight _____ (depart) at 8:30 PM tonight.",
+    "options": [
+      "departs",
+      "is departing",
+      "will depart",
+      "will have departed"
+    ],
+    "answer": "departs",
+    "explanation": "Use present simple for fixed schedules or timetables."
+  },
+  {
+    "id": 49,
+    "category": "Future Time Forms",
+    "question": "They _____ (move) to a new house next month; they already signed the lease.",
+    "options": [
+      "move",
+      "are going to move",
+      "will move",
+      "will have moved"
+    ],
+    "answer": "are going to move",
+    "explanation": "Use 'be going to' for prior intentions and plans."
+  },
+  {
+    "id": 50,
+    "category": "Future Time Forms",
+    "question": "Don't call me at 8 PM because I _____ (study).",
+    "options": [
+      "will study",
+      "will be studying",
+      "study",
+      "will have studied"
+    ],
+    "answer": "will be studying",
+    "explanation": "Use future continuous to indicate an action ongoing at a particular future time."
+  },
+  {
+    "id": 51,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "I _____ (think) that your plan is excellent.",
+    "options": [
+      "think",
+      "am thinking",
+      "have been thinking",
+      "thought"
+    ],
+    "answer": "think",
+    "explanation": "When 'think' means to hold an opinion, it is stative and uses simple form."
+  },
+  {
+    "id": 52,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "Be quiet! I _____ (think) about a difficult solution.",
+    "options": [
+      "think",
+      "am thinking",
+      "have thought",
+      "thought"
+    ],
+    "answer": "am thinking",
+    "explanation": "When 'think' refers to an active mental process in progress, continuous aspect is allowed."
+  },
+  {
+    "id": 53,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "This coat _____ (belong) to my sister.",
+    "options": [
+      "belongs",
+      "is belonging",
+      "has belonged",
+      "belonged"
+    ],
+    "answer": "belongs",
+    "explanation": "'Belong' is a stative verb of possession and does not use continuous aspect."
+  },
+  {
+    "id": 54,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "She _____ (not / work) here on weekends.",
+    "options": [
+      "does not work",
+      "is not working",
+      "did not worked",
+      "has not work"
+    ],
+    "answer": "does not work",
+    "explanation": "Form present simple negative with 'does not' + base form for third person singular."
+  },
+  {
+    "id": 55,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "_____ (you / call) her yesterday evening?",
+    "options": [
+      "Did you call",
+      "Did you called",
+      "Have you called",
+      "Were you calling"
+    ],
+    "answer": "Did you call",
+    "explanation": "Past simple questions use auxiliary 'did' + subject + base verb."
+  },
+  {
+    "id": 56,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "He _____ (not / finish) his homework yet.",
+    "options": [
+      "did not finish",
+      "has not finished",
+      "is not finishing",
+      "does not finish"
+    ],
+    "answer": "has not finished",
+    "explanation": "Use present perfect negative with 'yet' for an expected action up to now."
+  },
+  {
+    "id": 57,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "_____ (they / wait) when you arrived?",
+    "options": [
+      "Did they wait",
+      "Were they waiting",
+      "Have they waited",
+      "Are they waiting"
+    ],
+    "answer": "Were they waiting",
+    "explanation": "Form past continuous question with 'Were' + subject + -ing verb."
+  },
+  {
+    "id": 58,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "I _____ (not / see) him since last Tuesday.",
+    "options": [
+      "did not see",
+      "have not seen",
+      "was not seeing",
+      "do not see"
+    ],
+    "answer": "have not seen",
+    "explanation": "Use present perfect simple with 'since' for uncompleted time periods up to now."
+  },
+  {
+    "id": 59,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "_____ (she / understand) the explanation?",
+    "options": [
+      "Is she understanding",
+      "Does she understand",
+      "Has she understanding",
+      "Did she understood"
+    ],
+    "answer": "Does she understand",
+    "explanation": "'Understand' is stative, requiring simple present question form with 'Does'."
+  },
+  {
+    "id": 60,
+    "category": "Stative Verbs & Advanced Forms",
+    "question": "We _____ (not / go) to the beach if it rains tomorrow.",
+    "options": [
+      "will not go",
+      "do not go",
+      "are not gone",
+      "did not go"
+    ],
+    "answer": "will not go",
+    "explanation": "Form future simple negative with 'will not' (won't) + base form."
+  }
+]

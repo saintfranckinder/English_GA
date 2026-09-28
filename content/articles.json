@@ -1,0 +1,1469 @@
+{
+  "id": "articles",
+  "title": "Definite, Indefinite, and Zero Articles",
+  "status": "active",
+  "source": "content-source/english_articles_practice_questions.json",
+  "questions": [
+    {
+      "id": "art-001",
+      "prompt": "She wants to buy ___ new car.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Use 'a' before a singular countable noun starting with a consonant sound when introduced for the first time."
+    },
+    {
+      "id": "art-002",
+      "prompt": "He ate ___ apple after lunch.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "Use 'an' before a singular countable noun starting with a vowel sound ('apple')."
+    },
+    {
+      "id": "art-003",
+      "prompt": "It takes about ___ hour to drive to the city center.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Hour' begins with a silent 'h', so it starts with a vowel sound (/aʊər/), requiring 'an'."
+    },
+    {
+      "id": "art-004",
+      "prompt": "She goes to ___ university in London.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'University' begins with a consonant sound (/j/), so it takes 'a', not 'an'."
+    },
+    {
+      "id": "art-005",
+      "prompt": "My uncle is ___ honest man.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Honest' starts with a silent 'h', creating a vowel sound (/ɒnɪst/), which requires 'an'."
+    },
+    {
+      "id": "art-006",
+      "prompt": "They spotted ___ UFO in the night sky.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'UFO' is pronounced starting with the consonant sound /j/ ('you-ef-oh'), so 'a' is correct."
+    },
+    {
+      "id": "art-007",
+      "prompt": "France is ___ European country.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'European' begins with the consonant sound /j/ ('yoo-ruh-pee-uhn'), requiring 'a'."
+    },
+    {
+      "id": "art-008",
+      "prompt": "He is studying to become ___ engineer.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Engineer' starts with a vowel sound (/ɛndʒɪnɪər/), requiring 'an'."
+    },
+    {
+      "id": "art-009",
+      "prompt": "We stayed at ___ hotel near the beach.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Hotel' starts with a sounded 'h' consonant sound in modern English, taking 'a'."
+    },
+    {
+      "id": "art-010",
+      "prompt": "She has ___ unique style of painting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'Unique' begins with the consonant sound /j/ ('yoo-neek'), so it uses 'a'."
+    },
+    {
+      "id": "art-011",
+      "prompt": "I need ___ one-dollar bill for the vending machine.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'One' begins with the consonant sound /w/ ('wun'), taking 'a'."
+    },
+    {
+      "id": "art-012",
+      "prompt": "He received ___ MBA degree last year.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "The abbreviation 'MBA' is pronounced starting with a vowel sound ('em-bee-ay'), so it uses 'an'."
+    },
+    {
+      "id": "art-013",
+      "prompt": "Is there ___ ATM near here?",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'ATM' starts with the vowel sound 'ay' (/eɪ/), requiring 'an'."
+    },
+    {
+      "id": "art-014",
+      "prompt": "She bought ___ house with a large garden.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'House' begins with the consonant sound /h/, taking 'a'."
+    },
+    {
+      "id": "art-015",
+      "prompt": "He works as ___ accountant for a law firm.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Accountant' starts with a vowel sound, requiring 'an'."
+    },
+    {
+      "id": "art-016",
+      "prompt": "Look at ___ moon tonight; it is so bright.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use 'the' with unique natural objects like the sun, moon, and Earth."
+    },
+    {
+      "id": "art-017",
+      "prompt": "She is ___ tallest student in our class.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Superlative adjectives ('tallest') always require the definite article 'the'."
+    },
+    {
+      "id": "art-018",
+      "prompt": "I found a dog. ___ dog was very friendly.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "When referencing a noun for the second time, it becomes specific and requires 'the'."
+    },
+    {
+      "id": "art-019",
+      "prompt": "This is ___ first time I have visited Paris.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Ordinal numbers ('first', 'second', 'third') take 'the'."
+    },
+    {
+      "id": "art-020",
+      "prompt": "They went on a cruise across ___ Atlantic Ocean.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Names of oceans, seas, and rivers require 'the'."
+    },
+    {
+      "id": "art-021",
+      "prompt": "___ president of the committee opened the meeting.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Specific roles or titles that are unique in a given context take 'the'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Zero article is also standard after 'elected' ('He was elected president'). Rewrote the prompt so the unique role is the subject and needs 'the'.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article"
+        ]
+      }
+    },
+    {
+      "id": "art-022",
+      "prompt": "The government should do more to help ___ poor.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use 'the' + adjective to refer to a specific group of people as a collective whole."
+    },
+    {
+      "id": "art-023",
+      "prompt": "We hiked across ___ Alps during our vacation.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Mountain ranges (plural) take 'the', whereas individual peak names do not."
+    },
+    {
+      "id": "art-024",
+      "prompt": "She lives in ___ Netherlands.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Plural country names or countries with political structures in their name take 'the'."
+    },
+    {
+      "id": "art-025",
+      "prompt": "Can you pass me ___ salt on the table?",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The salt is specific because it is located right on the table in front of both speaker and listener."
+    },
+    {
+      "id": "art-026",
+      "prompt": "___ Amazon is the largest river by discharge volume.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Rivers take the definite article 'the'."
+    },
+    {
+      "id": "art-027",
+      "prompt": "Who was ___ last person to leave the room?",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Words indicating sequence or uniqueness like 'last' require 'the'."
+    },
+    {
+      "id": "art-028",
+      "prompt": "___ French are famous for their rich culinary traditions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use 'the' before nationality adjectives to refer to the nation's people as a whole."
+    },
+    {
+      "id": "art-029",
+      "prompt": "Turn off ___ lights when you leave.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Refers to the specific lights in the current room/context."
+    },
+    {
+      "id": "art-030",
+      "prompt": "___ Earth revolves around the sun.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Unique astronomical bodies in general contexts take 'the'."
+    },
+    {
+      "id": "art-031",
+      "prompt": "___ water is essential for human survival.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Uncountable nouns used in a general sense take no article."
+    },
+    {
+      "id": "art-032",
+      "prompt": "___ dogs are known to be loyal companions.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Plural countable nouns used to make general statements take no article."
+    },
+    {
+      "id": "art-033",
+      "prompt": "I am learning to speak ___ Spanish.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Languages take no article unless followed by the word 'language' (e.g., the Spanish language)."
+    },
+    {
+      "id": "art-034",
+      "prompt": "She moved to ___ Haiti two years ago.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Most singular country names take no article."
+    },
+    {
+      "id": "art-035",
+      "prompt": "We usually eat ___ dinner at 7:00 PM.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Names of regular meals (breakfast, lunch, dinner) take zero article."
+    },
+    {
+      "id": "art-036",
+      "prompt": "He goes to ___ school five days a week.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Institutions (school, hospital, church, prison) take zero article when referring to their primary institutional purpose."
+    },
+    {
+      "id": "art-037",
+      "prompt": "My favorite subject in high school was ___ mathematics.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Academic subjects and fields of study take no article."
+    },
+    {
+      "id": "art-038",
+      "prompt": "They play ___ tennis every Sunday morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Sports and games take zero article."
+    },
+    {
+      "id": "art-039",
+      "prompt": "___ honesty is the best policy.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Abstract concepts used generally take no article."
+    },
+    {
+      "id": "art-040",
+      "prompt": "I will see you on ___ Monday.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Days of the week, months, and holidays take zero article in general time expressions."
+    },
+    {
+      "id": "art-041",
+      "prompt": "She suffers from ___ insomnia.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Most general medical conditions and illnesses take no article."
+    },
+    {
+      "id": "art-042",
+      "prompt": "Mount Everest is located in ___ Asia.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Continents take zero article."
+    },
+    {
+      "id": "art-043",
+      "prompt": "___ children need love and guidance.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Plural nouns in generic contexts require zero article."
+    },
+    {
+      "id": "art-044",
+      "prompt": "He travels to work by ___ bus.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Means of transportation preceded by 'by' take zero article (by bus, by car, by train)."
+    },
+    {
+      "id": "art-045",
+      "prompt": "We celebrated ___ Christmas with our family.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Holidays take zero article."
+    },
+    {
+      "id": "art-046",
+      "prompt": "She went to ___ hospital to visit her sick friend.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Use 'the' because she is visiting a specific building/person, not receiving medical treatment as a patient."
+    },
+    {
+      "id": "art-047",
+      "prompt": "(British English) He was admitted to ___ hospital after the accident.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "In British/International English, 'in hospital' without an article refers to receiving medical care as a patient.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Longman lists 'be admitted to hospital' as British English and 'be admitted to the hospital' as American English. Marked the prompt as British English, as the explanation already states.",
+        "sources": [
+          "https://www.ldoceonline.com/dictionary/hospital"
+        ]
+      }
+    },
+    {
+      "id": "art-048",
+      "prompt": "___ coffee that we bought in Colombia last year was excellent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Although 'coffee' is uncountable, it is specific here ('the coffee that we bought in Colombia last year'), so it takes 'the'.",
+      "revision": {
+        "date": "2026-09-28",
+        "reason": "Zero article was also acceptable for coffee grown in Colombia (a general category). Rewrote the prompt so the coffee is clearly specific.",
+        "sources": [
+          "https://learnenglish.britishcouncil.org/free-resources/grammar/english-grammar-reference/definite-article"
+        ]
+      }
+    },
+    {
+      "id": "art-049",
+      "prompt": "I love drinking ___ coffee in the morning.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Refers to coffee in general, an uncountable noun, so no article is needed."
+    },
+    {
+      "id": "art-050",
+      "prompt": "___ Dominican Republic shares the island of Hispaniola with Haiti.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Countries with words like 'Republic', 'Kingdom', or 'States' take 'the'."
+    },
+    {
+      "id": "art-051",
+      "prompt": "She has ___ European accent.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "'European' begins with the consonant sound /j/, so it takes 'a'."
+    },
+    {
+      "id": "art-052",
+      "prompt": "He gave me ___ advice on my resume.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "'Advice' is an uncountable noun and takes zero article when speaking generally."
+    },
+    {
+      "id": "art-053",
+      "prompt": "___ United States is a global economic power.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Plural country names and country names including 'States' take 'the'."
+    },
+    {
+      "id": "art-054",
+      "prompt": "We live on ___ Main Street.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Street names generally take zero article."
+    },
+    {
+      "id": "art-055",
+      "prompt": "___ Pacific Ocean is the largest and deepest ocean.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Oceans always take 'the'."
+    },
+    {
+      "id": "art-056",
+      "prompt": "He spent ___ hour reviewing his notes.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "b",
+      "explanation": "'Hour' begins with a silent 'h', starting with a vowel sound, requiring 'an'."
+    },
+    {
+      "id": "art-057",
+      "prompt": "I watched ___ movie you recommended.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "The movie is specified ('the movie you recommended'), taking 'the'."
+    },
+    {
+      "id": "art-058",
+      "prompt": "___ music always relaxes me when I am stressed.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "d",
+      "explanation": "Abstract/uncountable noun used in a general sense takes zero article."
+    },
+    {
+      "id": "art-059",
+      "prompt": "Did you like ___ music played at the concert?",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "c",
+      "explanation": "Specific music ('music played at the concert'), taking 'the'."
+    },
+    {
+      "id": "art-060",
+      "prompt": "She works as ___ nurse at the local clinic.",
+      "options": [
+        {
+          "id": "a",
+          "text": "a"
+        },
+        {
+          "id": "b",
+          "text": "an"
+        },
+        {
+          "id": "c",
+          "text": "the"
+        },
+        {
+          "id": "d",
+          "text": "zero article"
+        }
+      ],
+      "correctOptionId": "a",
+      "explanation": "Professions take 'a' or 'an' when stating someone's job."
+    }
+  ]
+}
