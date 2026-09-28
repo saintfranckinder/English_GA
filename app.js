@@ -718,11 +718,52 @@ window.addEventListener('hashchange', () => {
   route();
 });
 
+// ---------------------------------------------------------------------------
+// Day change: an installed app often stays open or resumes from the background
+// on a later day, so refresh the date, daily practice and streak when that happens.
+// ---------------------------------------------------------------------------
+
+let shownDay = dayKey(new Date());
+let midnightTimer = null;
+
+function refreshIfNewDay() {
+  const today = dayKey(new Date());
+  if (today === shownDay) return;
+  shownDay = today;
+  renderStreak();
+  // Redraw only screens that show today's date or progress; never interrupt a quiz.
+  const view = location.hash.replace(/^#\/?/, '').split('/')[0];
+  const y = window.scrollY;
+  if (view === '') renderOverview();
+  else if (view === 'practice') renderPractice();
+  else return;
+  window.scrollTo(0, y);
+}
+
+function scheduleMidnightCheck() {
+  clearTimeout(midnightTimer);
+  const now = new Date();
+  const nextMidnight = new Date(now.getFullYear(), now.getMonth(), now.getDate() + 1, 0, 0, 5);
+  midnightTimer = setTimeout(() => {
+    refreshIfNewDay();
+    scheduleMidnightCheck();
+  }, nextMidnight - now);
+}
+
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState !== 'visible') return;
+  refreshIfNewDay();
+  scheduleMidnightCheck(); // timers can be paused in the background
+});
+window.addEventListener('pageshow', refreshIfNewDay);
+window.addEventListener('focus', refreshIfNewDay);
+
 // Exposed for manual checks in the browser console.
 window.EnglishGA = { CATEGORIES, validateBank };
 
 renderStreak();
 route();
+scheduleMidnightCheck();
 
 // Offline support after the first visit (HTTPS or localhost only).
 if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {

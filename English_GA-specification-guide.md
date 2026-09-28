@@ -83,6 +83,7 @@ From top to bottom:
 
 1. Top bar: the English_GA logo (icon plus the wordmark `English_` in navy and `GA` in logo blue) and the day-streak counter.
 2. Today's date, the greeting **"Have a great session."**, a short encouraging line, and the plant illustration.
+   The date, daily practice, and streak must always reflect the current day, including when the installed app stays open past midnight or resumes from the background (the app re-checks on return to the screen and at midnight, without interrupting a quiz).
 3. **Your next step** card: suggests the topic practiced least recently, with a "Start 20-question session" button.
 4. **Your learning path — Eight places to grow**: a two-column grid of eight topic cards (number, short name, tagline). One tap starts a session.
 5. **Daily practice** card: answered today out of 20, a progress bar, and "Practice now".
