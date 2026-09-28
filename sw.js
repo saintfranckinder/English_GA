@@ -2,7 +2,7 @@
 
 // English_GA offline cache. Network first (so updates appear immediately when online),
 // falling back to the cached copy when offline. Only same-origin files are cached.
-const CACHE = 'english-ga-v3'; // bump when files are added or removed
+const CACHE = 'english-ga-v4'; // bump when files are added or removed
 
 const CORE = [
   './',
@@ -12,6 +12,10 @@ const CORE = [
   'icon.svg',
   'logo.svg',
   'apple-touch-icon.png',
+  'manifest.webmanifest',
+  'icon-192.png',
+  'icon-512.png',
+  'icon-maskable-512.png',
   'content/verb-tenses-aspect.json',
   'content/auxiliary-verbs-questions.json',
   'content/prepositions.json',
@@ -38,8 +42,10 @@ self.addEventListener('fetch', (event) => {
   const request = event.request;
   if (request.method !== 'GET' || new URL(request.url).origin !== self.location.origin) return;
 
+  // 'no-cache' revalidates with the server (a cheap 304 when unchanged), so new releases
+  // show up immediately instead of after the browser's HTTP cache expires.
   event.respondWith(
-    fetch(request)
+    fetch(request, { cache: 'no-cache' })
       .then((response) => {
         if (response.ok) {
           const copy = response.clone();

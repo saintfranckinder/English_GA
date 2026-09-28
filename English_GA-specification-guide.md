@@ -62,13 +62,13 @@ If a future request conflicts with this table, stop and explain the conflict bef
 - 50–80 questions per category (520 in total), each with 4 options, one correct answer, and an explanation.
 - Local progress: day streak, daily practice counter, best and last score per topic.
 - Offline cache, hash routing, content validation.
+- Installable app: `manifest.webmanifest` (standalone display) with 192 px, 512 px, and maskable icons, plus iOS home-screen tags.
 
 ### 4.2 Next — add only after the current release is stable
 
 - Grow each bank toward 100 questions, following section 6.
 - Optional per-topic study view that renders the Markdown guide.
 - Optional "practice my mistakes" session built from the local review data.
-- Installable home-screen app (web app manifest with PNG icons).
 
 ### 4.3 Later — requires explicit approval
 
@@ -190,7 +190,10 @@ app.js                     registry, validation, routing, quiz, progress
 sw.js                      offline cache
 logo.svg                   full logo (mark + wordmark)
 icon.svg                   app icon and favicon (logo mark on a white rounded tile)
-apple-touch-icon.png       180 px home-screen icon rendered from icon.svg
+apple-touch-icon.png       180 px iPhone home-screen icon rendered from icon.svg
+icon-192.png, icon-512.png installed-app icons rendered from icon.svg
+icon-maskable-512.png      Android adaptive icon (logo inside the 80% safe zone)
+manifest.webmanifest       install metadata (name, icons, standalone display, colors)
 .nojekyll                  serve files as-is on GitHub Pages
 README.md                  run and deploy instructions
 content/
@@ -213,14 +216,15 @@ tools/
 - **Validation.** `validateBank()` checks the bank ID, required fields, unique IDs, 3–4 options with unique IDs and texts, a valid `correctOptionId`, explanation length, and bank size (error below 20, warning outside 50–100). A bank with errors does not load.
 - **Routing.** Hash routes only (section 3). Unknown routes go to `#/`.
 - **Storage.** One `localStorage` key, `englishGA.progress.v1`, holding `days` (answers per date) and `categories` (sessions, best, last, total, lastPlayed). Every read and write is wrapped so the app works when storage is blocked.
-- **Offline cache.** `sw.js` pre-caches the shell and all eight banks. When a file is added to or removed from the app, update the `CORE` list and increase the `CACHE` version.
+- **Offline cache.** `sw.js` pre-caches the shell, icons, manifest, and all eight banks. Requests are network first with `cache: 'no-cache'` (always revalidated, so releases appear immediately) and fall back to the cache offline. When a file is added to or removed from the app, update the `CORE` list and increase the `CACHE` version.
+- **Installability.** Requires HTTPS (GitHub Pages provides it), the registered service worker, and `manifest.webmanifest` with `start_url`/`scope` `./`, `display: standalone`, and 192 px and 512 px icons.
 - **No runtime dependencies** other than the optional Google Fonts stylesheet.
 
 ## 8. Visual design system
 
 Modern, bright, and encouraging, with an educational feel, built on the colors of the English_GA logo (navy, blue, teal). All colors are tokens in `styles.css`; do not hard-code new colors in rules.
 
-**Logo.** `logo.svg` is the master artwork: a navy E, a blue G/A ligature, a teal check mark, and an open book. Use `icon.svg` wherever the logo appears at small sizes; do not recolor or stretch it. If the logo changes, regenerate `apple-touch-icon.png` (180 × 180, opaque white background) from `icon.svg`.
+**Logo.** `logo.svg` is the master artwork: a navy E, a blue G/A ligature, a teal check mark, and an open book. Use `icon.svg` wherever the logo appears at small sizes; do not recolor or stretch it. If the logo changes, regenerate every PNG icon from `icon.svg` on an opaque white background: `apple-touch-icon.png` (180), `icon-192.png`, `icon-512.png`, and `icon-maskable-512.png` (512, logo scaled to about 78% so it fits the maskable safe zone).
 
 | Token | Value | Use |
 |---|---|---|
@@ -297,6 +301,7 @@ The current release is acceptable when:
 - A session is 20 random questions, gives clear feedback, and ends with results and a mistake review.
 - Streak, daily practice, and topic scores persist on the device.
 - The app works offline after the first visit.
+- The app can be installed to the home screen (Chrome "Install app", Safari "Add to Home Screen") and opens full-screen.
 - The Back button moves between screens.
 - No account, backend, database, or native-app dependency is required.
 
@@ -319,5 +324,6 @@ The current release is acceptable when:
 | 2026-09-28 | Tailwind CDN replaced by a local stylesheet with color tokens. |
 | 2026-09-28 | Owner's English_GA logo redrawn as SVG and added to the app; palette aligned to the logo colors. |
 | 2026-09-28 | Hash routing, local progress, and offline cache added; GitHub Pages confirmed as the hosting target. |
+| 2026-09-28 | Published at https://saintfranckinder.github.io/English_GA/ ; web app manifest added so the app can be installed on phones. |
 
 This document is the working source of truth for English_GA unless the project owner approves a replacement decision.

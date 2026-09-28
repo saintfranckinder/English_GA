@@ -11,7 +11,8 @@ The product specification is [English_GA-specification-guide.md](English_GA-spec
 |---|---|
 | `index.html`, `styles.css`, `app.js` | Page shell, styling, and all app behavior |
 | `sw.js` | Offline cache (works after the first visit) |
-| `logo.svg`, `icon.svg`, `apple-touch-icon.png` | Full logo, app icon/favicon, and phone home-screen icon |
+| `manifest.webmanifest` | Makes the app installable (name, icons, full-screen mode) |
+| `logo.svg`, `icon.svg`, `icon-*.png`, `apple-touch-icon.png` | Full logo, favicon, and installed-app icons |
 | `content/*.json` | The 8 runtime question banks (source of truth) |
 | `guides/*.md` | Human-readable grammar guides used when writing or reviewing questions |
 | `content-source/` | The originally supplied banks, unchanged, kept for reference |
@@ -36,6 +37,15 @@ Then open http://localhost:8765. Open http://localhost:8765/#/validate to check 
 3. The app appears at `https://<username>.github.io/<repository>/` after a minute or two.
 
 All paths are relative and navigation uses `#/` links, so no server configuration is needed.
+
+## Install on a phone
+
+Open the site, then:
+
+- **Android (Chrome):** tap **Install app** when it appears, or **⋮ → Install app / Add to Home screen**.
+- **iPhone (Safari):** tap **Share → Add to Home Screen**.
+
+The installed app opens full-screen with its own icon and works offline after the first visit.
 
 ## Progress data
 
