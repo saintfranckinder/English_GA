@@ -66,7 +66,7 @@ If a future request conflicts with this table, stop and explain the conflict bef
 
 ### 4.2 Next — add only after the current release is stable
 
-- Grow each bank toward 100 questions, following section 6.
+- Keep the current bank sizes (50–80 questions each). Add questions only on explicit request, following section 6.
 - Optional per-topic study view that renders the Markdown guide.
 - Optional "practice my mistakes" session built from the local review data.
 
@@ -326,5 +326,6 @@ The current release is acceptable when:
 | 2026-09-28 | Owner's English_GA logo redrawn as SVG and added to the app; palette aligned to the logo colors. |
 | 2026-09-28 | Hash routing, local progress, and offline cache added; GitHub Pages confirmed as the hosting target. |
 | 2026-09-28 | Published at https://saintfranckinder.github.io/English_GA/ ; web app manifest added so the app can be installed on phones. |
+| 2026-09-28 | Bank expansion to 100 questions cancelled; current sizes (50–80 per category) kept. |
 
 This document is the working source of truth for English_GA unless the project owner approves a replacement decision.
